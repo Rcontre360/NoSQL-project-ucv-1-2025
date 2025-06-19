@@ -29,14 +29,3 @@ The following collections are defined and validated:
 * `movies`: embeds participants (characters and starships) in structured arrays.
 * `historical_events`: references movies and embeds factions, locations, and characters involved.
 
-## ✅ Schema Validations
-
-All collections are protected using **strict JSON Schema validation**, which enforces required fields, BSON types, and relationships via `ObjectId` references. These validation files are located in the `schema/` folder and should be applied when creating collections in MongoDB.
-
-## 🚀 How to Use
-
-1. Start a MongoDB instance.
-2. Create collections using the schema validation files from the `schema/` folder.
-3. Insert documents or test data (optionally from the `data/` folder).
-4. Run aggregation or mapReduce queries (examples can be added to `queries/`).
-
