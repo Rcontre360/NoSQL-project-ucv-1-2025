@@ -1,0 +1,21 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "type",
+      "leader_name"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "type": {
+        "bsonType": "string"
+      },
+      "leader_name": {
+        "bsonType": "string"
+      }
+    }
+  }
+}

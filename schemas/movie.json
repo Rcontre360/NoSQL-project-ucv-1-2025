@@ -1,0 +1,68 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "title",
+      "episode",
+      "director",
+      "release_date",
+      "characters",
+      "starships"
+    ],
+    "properties": {
+      "title": {
+        "bsonType": "string"
+      },
+      "episode": {
+        "bsonType": "int",
+        "minimum": 1
+      },
+      "director": {
+        "bsonType": "string"
+      },
+      "release_date": {
+        "bsonType": "date"
+      },
+      "characters": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "character_id",
+            "name",
+            "role"
+          ],
+          "properties": {
+            "character_id": {
+              "bsonType": "objectId"
+            },
+            "name": {
+              "bsonType": "string"
+            },
+            "role": {
+              "bsonType": "string"
+            }
+          }
+        }
+      },
+      "starships": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "starship_id",
+            "name"
+          ],
+          "properties": {
+            "starship_id": {
+              "bsonType": "objectId"
+            },
+            "name": {
+              "bsonType": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

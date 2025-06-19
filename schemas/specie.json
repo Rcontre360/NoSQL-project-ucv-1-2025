@@ -1,0 +1,26 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "classification",
+      "average_lifespan",
+      "language"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "classification": {
+        "bsonType": "string"
+      },
+      "average_lifespan": {
+        "bsonType": "int",
+        "minimum": 0
+      },
+      "language": {
+        "bsonType": "string"
+      }
+    }
+  }
+}

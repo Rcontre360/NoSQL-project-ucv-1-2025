@@ -1,0 +1,42 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "gender",
+      "height",
+      "mass",
+      "homeworld_id",
+      "species_id",
+      "faction_ids"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "gender": {
+        "bsonType": "string"
+      },
+      "height": {
+        "bsonType": "int",
+        "minimum": 0
+      },
+      "mass": {
+        "bsonType": "int",
+        "minimum": 0
+      },
+      "homeworld_id": {
+        "bsonType": "objectId"
+      },
+      "species_id": {
+        "bsonType": "objectId"
+      },
+      "faction_ids": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "objectId"
+        }
+      }
+    }
+  }
+}

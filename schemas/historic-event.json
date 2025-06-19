@@ -1,0 +1,90 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "stardate",
+      "description",
+      "movie_id",
+      "factions",
+      "locations",
+      "characters"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "stardate": {
+        "bsonType": "double"
+      },
+      "description": {
+        "bsonType": "string"
+      },
+      "movie_id": {
+        "bsonType": "objectId"
+      },
+      "factions": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "faction_id",
+            "name",
+            "role"
+          ],
+          "properties": {
+            "faction_id": {
+              "bsonType": "objectId"
+            },
+            "name": {
+              "bsonType": "string"
+            },
+            "role": {
+              "bsonType": "string"
+            }
+          }
+        }
+      },
+      "locations": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "location_id",
+            "name"
+          ],
+          "properties": {
+            "location_id": {
+              "bsonType": "objectId"
+            },
+            "name": {
+              "bsonType": "string"
+            }
+          }
+        }
+      },
+      "characters": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "character_id",
+            "name",
+            "impact"
+          ],
+          "properties": {
+            "character_id": {
+              "bsonType": "objectId"
+            },
+            "name": {
+              "bsonType": "string"
+            },
+            "impact": {
+              "bsonType": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

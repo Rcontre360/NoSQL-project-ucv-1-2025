@@ -1,0 +1,24 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "type",
+      "manufacturer"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "type": {
+        "bsonType": "string"
+      },
+      "manufacturer": {
+        "bsonType": "string"
+      },
+      "crystal_color": {
+        "bsonType": "string"
+      }
+    }
+  }
+}
