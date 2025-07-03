@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "6429291d021f17e13fbc1cb4",
+        "name": "Artillery Stormtrooper Corps",
+        "type": "Military Specialist Unit",
+        "leader_name": "Unknown Imperial Commander"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cbb",
+        "name": "Caretakers of Ahch-To",
+        "type": "Religious Order",
+        "leader_name": "Elder Caretaker"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cc0",
+        "name": "Grand Army of the Republic",
+        "type": "Military Force",
+        "leader_name": "Supreme Chancellor Palpatine"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cb7",
+        "name": "Black Sun",
+        "type": "Criminal Syndicate",
+        "leader_name": "Prince Xizor"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cb8",
+        "name": "Blue Squadron",
+        "type": "Starfighter Squadron",
+        "leader_name": "Poe Dameron"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cc2",
+        "name": "Cobalt Squadron",
+        "type": "Bomber Squadron",
+        "leader_name": "Paige Tico"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cc3",
+        "name": "Company 77",
+        "type": "Stormtrooper Company",
+        "leader_name": "Jannah"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cc9",
+        "name": "Crimson Squadron",
+        "type": "Bomber Squadron",
+        "leader_name": "Unknown Resistance Commander"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1ccc",
+        "name": "Death Star Gunnery Corps",
+        "type": "Military Specialist Unit",
+        "leader_name": "Grand Moff Tarkin"
+    },
+    {
+        "_id": "6429291d021f17e13fbc1cd8",
+        "name": "First Order Jet Trooper Corps",
+        "type": "Military Specialist Unit",
+        "leader_name": "General Hux"
+    }
+]

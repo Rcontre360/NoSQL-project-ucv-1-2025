@@ -6,7 +6,7 @@ from typing import Any, Dict
 from convert import planet_to_mongo, character_to_mongo, specie_to_mongo, vehicle_to_mongo, starship_to_mongo
 from common import save_list_to_json_file
 
-def make_fetch(url:str) -> list[Dict[str, Any]]:
+def make_fetch_swapi(url:str) -> list[Dict[str, Any]]:
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -15,30 +15,39 @@ def make_fetch(url:str) -> list[Dict[str, Any]]:
         print(f"Error fetching {url} data: {e}")
         return []
 
+def make_fetch_databank(url:str) -> list[Dict[str, Any]]:
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        return response.json()["data"]
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching {url} data: {e}")
+        return []
+
 def fetch_planets():
     url = f"https://swapi.info/api/planets"
-    res = make_fetch(url)
-    return list(map(lambda p: planet_to_mongo(p),res))
+    res = make_fetch_swapi(url)
+    return res
 
 def fetch_characters():
     url = f"https://swapi.info/api/people"
-    res = make_fetch(url)
-    return list(map(lambda p: character_to_mongo(p),res))
+    res = make_fetch_swapi(url)
+    return res
 
 def fetch_species():
     url = f"https://swapi.info/api/species"
-    res = make_fetch(url)
-    return list(map(lambda p: specie_to_mongo(p),res))
+    res = make_fetch_swapi(url)
+    return res
 
 def fetch_vehicles():
     url = f"https://swapi.info/api/vehicles"
-    res = make_fetch(url)
-    return list(map(lambda p: vehicle_to_mongo(p),res))
+    res = make_fetch_swapi(url)
+    return res
 
 def fetch_starships():
     url = f"https://swapi.info/api/starships"
-    res = make_fetch(url)
-    return list(map(lambda p: starship_to_mongo(p),res))
+    res = make_fetch_swapi(url)
+    return res
 
 folder_name = "raw"
 

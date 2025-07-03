@@ -1,5 +1,4 @@
 env
 #this can be obtained when running scripts, no need to store it
-data/raw
 data/__pycache__
 data/convert/__pycache__
