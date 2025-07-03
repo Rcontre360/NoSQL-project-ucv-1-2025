@@ -5,6 +5,8 @@ from .character import character_to_mongo
 from .specie import specie_to_mongo
 from .starship import starship_to_mongo
 from .vehicle import vehicle_to_mongo
+from .weapon import weapon_to_mongo
+from .faction import faction_to_mongo
 
 __all__ = [
     "planet_to_mongo"
@@ -12,5 +14,7 @@ __all__ = [
     "specie_to_mongo"
     "starship_to_mongo"
     "vehicle_to_mongo"
+    "weapon_to_mongo"
+    "faction_to_mongo"
 ]
 

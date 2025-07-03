@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Sand Crawler",
+        "model": "Digger Crawler",
+        "class": "wheeled",
+        "manufacturer": "Corellia Mining Corporation",
+        "max_atmospheric_speed": 30,
+        "_id": "6866ab11e099c8cf6c411fb0"
+    },
+    {
+        "name": "T-16 skyhopper",
+        "model": "T-16 skyhopper",
+        "class": "repulsorcraft",
+        "manufacturer": "Incom Corporation",
+        "max_atmospheric_speed": 1200,
+        "_id": "6866ab11e099c8cf6c411fb1"
+    },
+    {
+        "name": "X-34 landspeeder",
+        "model": "X-34 landspeeder",
+        "class": "repulsorcraft",
+        "manufacturer": "SoroSuub Corporation",
+        "max_atmospheric_speed": 250,
+        "_id": "6866ab11e099c8cf6c411fb2"
+    },
+    {
+        "name": "TIE/LN starfighter",
+        "model": "Twin Ion Engine/Ln Starfighter",
+        "class": "starfighter",
+        "manufacturer": "Sienar Fleet Systems",
+        "max_atmospheric_speed": 1200,
+        "_id": "6866ab11e099c8cf6c411fb3"
+    },
+    {
+        "name": "Snowspeeder",
+        "model": "t-47 airspeeder",
+        "class": "airspeeder",
+        "manufacturer": "Incom corporation",
+        "max_atmospheric_speed": 650,
+        "_id": "6866ab11e099c8cf6c411fb4"
+    },
+    {
+        "name": "TIE bomber",
+        "model": "TIE/sa bomber",
+        "class": "space/planetary bomber",
+        "manufacturer": "Sienar Fleet Systems",
+        "max_atmospheric_speed": 850,
+        "_id": "6866ab11e099c8cf6c411fb5"
+    },
+    {
+        "name": "AT-AT",
+        "model": "All Terrain Armored Transport",
+        "class": "assault walker",
+        "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+        "max_atmospheric_speed": 60,
+        "_id": "6866ab11e099c8cf6c411fb6"
+    },
+    {
+        "name": "AT-ST",
+        "model": "All Terrain Scout Transport",
+        "class": "walker",
+        "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+        "max_atmospheric_speed": 90,
+        "_id": "6866ab11e099c8cf6c411fb7"
+    },
+    {
+        "name": "Storm IV Twin-Pod cloud car",
+        "model": "Storm IV Twin-Pod",
+        "class": "repulsorcraft",
+        "manufacturer": "Bespin Motors",
+        "max_atmospheric_speed": 1500,
+        "_id": "6866ab11e099c8cf6c411fb8"
+    },
+    {
+        "name": "Sail barge",
+        "model": "Modified Luxury Sail Barge",
+        "class": "sail barge",
+        "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
+        "max_atmospheric_speed": 100,
+        "_id": "6866ab11e099c8cf6c411fb9"
+    },
+    {
+        "name": "Bantha-II cargo skiff",
+        "model": "Bantha-II",
+        "class": "repulsorcraft cargo skiff",
+        "manufacturer": "Ubrikkian Industries",
+        "max_atmospheric_speed": 250,
+        "_id": "6866ab11e099c8cf6c411fba"
+    },
+    {
+        "name": "TIE/IN interceptor",
+        "model": "Twin Ion Engine Interceptor",
+        "class": "starfighter",
+        "manufacturer": "Sienar Fleet Systems",
+        "max_atmospheric_speed": 1250,
+        "_id": "6866ab11e099c8cf6c411fbb"
+    },
+    {
+        "name": "Imperial Speeder Bike",
+        "model": "74-Z speeder bike",
+        "class": "speeder",
+        "manufacturer": "Aratech Repulsor Company",
+        "max_atmospheric_speed": 360,
+        "_id": "6866ab11e099c8cf6c411fbc"
+    },
+    {
+        "name": "Vulture Droid",
+        "model": "Vulture-class droid starfighter",
+        "class": "starfighter",
+        "manufacturer": "Haor Chall Engineering, Baktoid Armor Workshop",
+        "max_atmospheric_speed": 1200,
+        "_id": "6866ab11e099c8cf6c411fbd"
+    },
+    {
+        "name": "Multi-Troop Transport",
+        "model": "Multi-Troop Transport",
+        "class": "repulsorcraft",
+        "manufacturer": "Baktoid Armor Workshop",
+        "max_atmospheric_speed": 35,
+        "_id": "6866ab11e099c8cf6c411fbe"
+    },
+    {
+        "name": "Armored Assault Tank",
+        "model": "Armoured Assault Tank",
+        "class": "repulsorcraft",
+        "manufacturer": "Baktoid Armor Workshop",
+        "max_atmospheric_speed": 55,
+        "_id": "6866ab11e099c8cf6c411fbf"
+    },
+    {
+        "name": "Single Trooper Aerial Platform",
+        "model": "Single Trooper Aerial Platform",
+        "class": "repulsorcraft",
+        "manufacturer": "Baktoid Armor Workshop",
+        "max_atmospheric_speed": 400,
+        "_id": "6866ab11e099c8cf6c411fc0"
+    },
+    {
+        "name": "C-9979 landing craft",
+        "model": "C-9979 landing craft",
+        "class": "landing craft",
+        "manufacturer": "Haor Chall Engineering",
+        "max_atmospheric_speed": 587,
+        "_id": "6866ab11e099c8cf6c411fc1"
+    },
+    {
+        "name": "Tribubble bongo",
+        "model": "Tribubble bongo",
+        "class": "submarine",
+        "manufacturer": "Otoh Gunga Bongameken Cooperative",
+        "max_atmospheric_speed": 85,
+        "_id": "6866ab11e099c8cf6c411fc2"
+    },
+    {
+        "name": "Sith speeder",
+        "model": "FC-20 speeder bike",
+        "class": "speeder",
+        "manufacturer": "Razalon",
+        "max_atmospheric_speed": 180,
+        "_id": "6866ab11e099c8cf6c411fc3"
+    },
+    {
+        "name": "Zephyr-G swoop bike",
+        "model": "Zephyr-G swoop bike",
+        "class": "repulsorcraft",
+        "manufacturer": "Mobquet Swoops and Speeders",
+        "max_atmospheric_speed": 350,
+        "_id": "6866ab11e099c8cf6c411fc4"
+    },
+    {
+        "name": "Koro-2 Exodrive airspeeder",
+        "model": "Koro-2 Exodrive airspeeder",
+        "class": "airspeeder",
+        "manufacturer": "Desler Gizh Outworld Mobility Corporation",
+        "max_atmospheric_speed": 800,
+        "_id": "6866ab11e099c8cf6c411fc5"
+    },
+    {
+        "name": "XJ-6 airspeeder",
+        "model": "XJ-6 airspeeder",
+        "class": "airspeeder",
+        "manufacturer": "Narglatch AirTech prefabricated kit",
+        "max_atmospheric_speed": 720,
+        "_id": "6866ab11e099c8cf6c411fc6"
+    },
+    {
+        "name": "LAAT/i",
+        "model": "Low Altitude Assault Transport/infrantry",
+        "class": "gunship",
+        "manufacturer": "Rothana Heavy Engineering",
+        "max_atmospheric_speed": 620,
+        "_id": "6866ab11e099c8cf6c411fc7"
+    },
+    {
+        "name": "LAAT/c",
+        "model": "Low Altitude Assault Transport/carrier",
+        "class": "gunship",
+        "manufacturer": "Rothana Heavy Engineering",
+        "max_atmospheric_speed": 620,
+        "_id": "6866ab11e099c8cf6c411fc8"
+    },
+    {
+        "name": "AT-TE",
+        "model": "All Terrain Tactical Enforcer",
+        "class": "walker",
+        "manufacturer": "Rothana Heavy Engineering, Kuat Drive Yards",
+        "max_atmospheric_speed": 60,
+        "_id": "6866ab11e099c8cf6c411fc9"
+    },
+    {
+        "name": "SPHA",
+        "model": "Self-Propelled Heavy Artillery",
+        "class": "walker",
+        "manufacturer": "Rothana Heavy Engineering",
+        "max_atmospheric_speed": 35,
+        "_id": "6866ab11e099c8cf6c411fca"
+    },
+    {
+        "name": "Flitknot speeder",
+        "model": "Flitknot speeder",
+        "class": "speeder",
+        "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+        "max_atmospheric_speed": 634,
+        "_id": "6866ab11e099c8cf6c411fcb"
+    },
+    {
+        "name": "Neimoidian shuttle",
+        "model": "Sheathipede-class transport shuttle",
+        "class": "transport",
+        "manufacturer": "Haor Chall Engineering",
+        "max_atmospheric_speed": 880,
+        "_id": "6866ab11e099c8cf6c411fcc"
+    },
+    {
+        "name": "Geonosian starfighter",
+        "model": "Nantex-class territorial defense",
+        "class": "starfighter",
+        "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+        "max_atmospheric_speed": 20000,
+        "_id": "6866ab11e099c8cf6c411fcd"
+    },
+    {
+        "name": "Tsmeu-6 personal wheel bike",
+        "model": "Tsmeu-6 personal wheel bike",
+        "class": "wheeled walker",
+        "manufacturer": "Z-Gomot Ternbuell Guppat Corporation",
+        "max_atmospheric_speed": 330,
+        "_id": "6866ab11e099c8cf6c411fce"
+    },
+    {
+        "name": "Emergency Firespeeder",
+        "model": "Fire suppression speeder",
+        "class": "fire suppression ship",
+        "manufacturer": "unknown",
+        "max_atmospheric_speed": 0,
+        "_id": "6866ab11e099c8cf6c411fcf"
+    },
+    {
+        "name": "Droid tri-fighter",
+        "model": "tri-fighter",
+        "class": "droid starfighter",
+        "manufacturer": "Colla Designs, Phlac-Arphocc Automata Industries",
+        "max_atmospheric_speed": 1180,
+        "_id": "6866ab11e099c8cf6c411fd0"
+    },
+    {
+        "name": "Oevvaor jet catamaran",
+        "model": "Oevvaor jet catamaran",
+        "class": "airspeeder",
+        "manufacturer": "Appazanna Engineering Works",
+        "max_atmospheric_speed": 420,
+        "_id": "6866ab11e099c8cf6c411fd1"
+    },
+    {
+        "name": "Raddaugh Gnasp fluttercraft",
+        "model": "Raddaugh Gnasp fluttercraft",
+        "class": "air speeder",
+        "manufacturer": "Appazanna Engineering Works",
+        "max_atmospheric_speed": 310,
+        "_id": "6866ab11e099c8cf6c411fd2"
+    },
+    {
+        "name": "Clone turbo tank",
+        "model": "HAVw A6 Juggernaut",
+        "class": "wheeled walker",
+        "manufacturer": "Kuat Drive Yards",
+        "max_atmospheric_speed": 160,
+        "_id": "6866ab11e099c8cf6c411fd3"
+    },
+    {
+        "name": "Corporate Alliance tank droid",
+        "model": "NR-N99 Persuader-class droid enforcer",
+        "class": "droid tank",
+        "manufacturer": "Techno Union",
+        "max_atmospheric_speed": 100,
+        "_id": "6866ab11e099c8cf6c411fd4"
+    },
+    {
+        "name": "Droid gunship",
+        "model": "HMP droid gunship",
+        "class": "airspeeder",
+        "manufacturer": "Baktoid Fleet Ordnance, Haor Chall Engineering",
+        "max_atmospheric_speed": 820,
+        "_id": "6866ab11e099c8cf6c411fd5"
+    },
+    {
+        "name": "AT-RT",
+        "model": "All Terrain Recon Transport",
+        "class": "walker",
+        "manufacturer": "Kuat Drive Yards",
+        "max_atmospheric_speed": 90,
+        "_id": "6866ab11e099c8cf6c411fd6"
+    }
+]

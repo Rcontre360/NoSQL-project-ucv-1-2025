@@ -3,7 +3,6 @@ import requests
 import os
 
 from typing import Any, Dict
-from convert import planet_to_mongo, character_to_mongo, specie_to_mongo, vehicle_to_mongo, starship_to_mongo
 from common import save_list_to_json_file
 
 def make_fetch_swapi(url:str) -> list[Dict[str, Any]]:
