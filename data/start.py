@@ -9,7 +9,8 @@ from convert import (
     vehicle_to_mongo,
     faction_to_mongo,
     character_to_mongo,
-    starship_to_mongo
+    starship_to_mongo,
+    city_to_mongo
 )
 
 def find_by_field(field_name: str, field_value: Any, data_array: List[Dict]) -> Optional[Dict]:
@@ -98,3 +99,14 @@ for rship in raw_spaceships:
 
 spaceship_clean = list(map(lambda sc:starship_to_mongo(sc), raw_spaceships))
 spaceship_clean = save_list_to_json_file(spaceship_clean, "./clean/spaceships.json")
+
+# now with locations! for now we only have cities
+raw_cities = read_csv_to_list_of_dicts("./raw/cities.csv")
+cities_clean = list(map(lambda c: city_to_mongo(c),raw_cities))
+
+for city in cities_clean:
+    planet = find_by_field('name', city['planet_id'], planets_clean)
+    if planet:
+        city['planet_id'] = planet['_id']
+
+cities_clean = save_list_to_json_file(cities_clean, "./clean/locations.json")

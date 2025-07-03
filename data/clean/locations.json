@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mos Eisley",
+        "planet_id": "6866b00e346f4aaa250fb7b2",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb84f"
+    },
+    {
+        "name": "Theed",
+        "planet_id": "6866b00e346f4aaa250fb7b9",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb850"
+    },
+    {
+        "name": "Cloud City",
+        "planet_id": "6866b00e346f4aaa250fb7b7",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb851"
+    },
+    {
+        "name": "Coruscant",
+        "planet_id": "6866b00e346f4aaa250fb7ba",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb852"
+    },
+    {
+        "name": "Jedha City",
+        "planet_id": "Jedha",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb853"
+    },
+    {
+        "name": "Canto Bight",
+        "planet_id": "Cantonica",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb854"
+    },
+    {
+        "name": "Mos Espa",
+        "planet_id": "6866b00e346f4aaa250fb7b2",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb855"
+    },
+    {
+        "name": "NiJedha",
+        "planet_id": "Jedha",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb856"
+    },
+    {
+        "name": "Tipoca City",
+        "planet_id": "6866b00e346f4aaa250fb7bb",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb857"
+    },
+    {
+        "name": "Dahhh City",
+        "planet_id": "6866b00e346f4aaa250fb7d3",
+        "location_type": "city",
+        "_id": "6866b00e346f4aaa250fb858"
+    }
+]
