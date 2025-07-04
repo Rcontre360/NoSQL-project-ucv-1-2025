@@ -1,62 +1,96 @@
 [
     {
         "name": "Mos Eisley",
-        "planet_id": "686827707fe5bb413bff04e2",
+        "planet_id": {
+            "$oid": "68682b41be9584d50ddc6189"
+        },
         "location_type": "city",
-        "_id": "686827707fe5bb413bff057f"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6226"
+        }
     },
     {
         "name": "Theed",
-        "planet_id": "686827707fe5bb413bff04e9",
+        "planet_id": {
+            "$oid": "68682b41be9584d50ddc6190"
+        },
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0580"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6227"
+        }
     },
     {
         "name": "Cloud City",
-        "planet_id": "686827707fe5bb413bff04e7",
+        "planet_id": {
+            "$oid": "68682b41be9584d50ddc618e"
+        },
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0581"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6228"
+        }
     },
     {
         "name": "Coruscant",
-        "planet_id": "686827707fe5bb413bff04ea",
+        "planet_id": {
+            "$oid": "68682b41be9584d50ddc6191"
+        },
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0582"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6229"
+        }
     },
     {
         "name": "Jedha City",
         "planet_id": "Jedha",
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0583"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc622a"
+        }
     },
     {
         "name": "Canto Bight",
         "planet_id": "Cantonica",
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0584"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc622b"
+        }
     },
     {
         "name": "Mos Espa",
-        "planet_id": "686827707fe5bb413bff04e2",
+        "planet_id": {
+            "$oid": "68682b41be9584d50ddc6189"
+        },
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0585"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc622c"
+        }
     },
     {
         "name": "NiJedha",
         "planet_id": "Jedha",
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0586"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc622d"
+        }
     },
     {
         "name": "Tipoca City",
-        "planet_id": "686827707fe5bb413bff04eb",
+        "planet_id": {
+            "$oid": "68682b41be9584d50ddc6192"
+        },
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0587"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc622e"
+        }
     },
     {
         "name": "Dahhh City",
-        "planet_id": "686827707fe5bb413bff0503",
+        "planet_id": {
+            "$oid": "68682b41be9584d50ddc61aa"
+        },
         "location_type": "city",
-        "_id": "686827707fe5bb413bff0588"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc622f"
+        }
     }
 ]
