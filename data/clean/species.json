@@ -4,258 +4,258 @@
         "classification": "mammal",
         "average_lifespan": 120,
         "language": "Galactic Basic",
-        "_id": "6866b00e346f4aaa250fb722"
+        "_id": "68681e8149fb6fafac5378a6"
     },
     {
         "name": "Droid",
         "classification": "artificial",
         "average_lifespan": 0,
         "language": "n/a",
-        "_id": "6866b00e346f4aaa250fb723"
+        "_id": "68681e8149fb6fafac5378a7"
     },
     {
         "name": "Wookie",
         "classification": "mammal",
         "average_lifespan": 400,
         "language": "Shyriiwook",
-        "_id": "6866b00e346f4aaa250fb724"
+        "_id": "68681e8149fb6fafac5378a8"
     },
     {
         "name": "Rodian",
         "classification": "sentient",
         "average_lifespan": 0,
         "language": "Galatic Basic",
-        "_id": "6866b00e346f4aaa250fb725"
+        "_id": "68681e8149fb6fafac5378a9"
     },
     {
         "name": "Hutt",
         "classification": "gastropod",
         "average_lifespan": 1000,
         "language": "Huttese",
-        "_id": "6866b00e346f4aaa250fb726"
+        "_id": "68681e8149fb6fafac5378aa"
     },
     {
         "name": "Yoda's species",
         "classification": "mammal",
         "average_lifespan": 900,
         "language": "Galactic basic",
-        "_id": "6866b00e346f4aaa250fb727"
+        "_id": "68681e8149fb6fafac5378ab"
     },
     {
         "name": "Trandoshan",
         "classification": "reptile",
         "average_lifespan": 0,
         "language": "Dosh",
-        "_id": "6866b00e346f4aaa250fb728"
+        "_id": "68681e8149fb6fafac5378ac"
     },
     {
         "name": "Mon Calamari",
         "classification": "amphibian",
         "average_lifespan": 0,
         "language": "Mon Calamarian",
-        "_id": "6866b00e346f4aaa250fb729"
+        "_id": "68681e8149fb6fafac5378ad"
     },
     {
         "name": "Ewok",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "Ewokese",
-        "_id": "6866b00e346f4aaa250fb72a"
+        "_id": "68681e8149fb6fafac5378ae"
     },
     {
         "name": "Sullustan",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "Sullutese",
-        "_id": "6866b00e346f4aaa250fb72b"
+        "_id": "68681e8149fb6fafac5378af"
     },
     {
         "name": "Neimodian",
         "classification": "unknown",
         "average_lifespan": 0,
         "language": "Neimoidia",
-        "_id": "6866b00e346f4aaa250fb72c"
+        "_id": "68681e8149fb6fafac5378b0"
     },
     {
         "name": "Gungan",
         "classification": "amphibian",
         "average_lifespan": 0,
         "language": "Gungan basic",
-        "_id": "6866b00e346f4aaa250fb72d"
+        "_id": "68681e8149fb6fafac5378b1"
     },
     {
         "name": "Toydarian",
         "classification": "mammal",
         "average_lifespan": 91,
         "language": "Toydarian",
-        "_id": "6866b00e346f4aaa250fb72e"
+        "_id": "68681e8149fb6fafac5378b2"
     },
     {
         "name": "Dug",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "Dugese",
-        "_id": "6866b00e346f4aaa250fb72f"
+        "_id": "68681e8149fb6fafac5378b3"
     },
     {
         "name": "Twi'lek",
         "classification": "mammals",
         "average_lifespan": 0,
         "language": "Twi'leki",
-        "_id": "6866b00e346f4aaa250fb730"
+        "_id": "68681e8149fb6fafac5378b4"
     },
     {
         "name": "Aleena",
         "classification": "reptile",
         "average_lifespan": 79,
         "language": "Aleena",
-        "_id": "6866b00e346f4aaa250fb731"
+        "_id": "68681e8149fb6fafac5378b5"
     },
     {
         "name": "Vulptereen",
         "classification": "unknown",
         "average_lifespan": 0,
         "language": "vulpterish",
-        "_id": "6866b00e346f4aaa250fb732"
+        "_id": "68681e8149fb6fafac5378b6"
     },
     {
         "name": "Xexto",
         "classification": "unknown",
         "average_lifespan": 0,
         "language": "Xextese",
-        "_id": "6866b00e346f4aaa250fb733"
+        "_id": "68681e8149fb6fafac5378b7"
     },
     {
         "name": "Toong",
         "classification": "unknown",
         "average_lifespan": 0,
         "language": "Tundan",
-        "_id": "6866b00e346f4aaa250fb734"
+        "_id": "68681e8149fb6fafac5378b8"
     },
     {
         "name": "Cerean",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "Cerean",
-        "_id": "6866b00e346f4aaa250fb735"
+        "_id": "68681e8149fb6fafac5378b9"
     },
     {
         "name": "Nautolan",
         "classification": "amphibian",
         "average_lifespan": 70,
         "language": "Nautila",
-        "_id": "6866b00e346f4aaa250fb736"
+        "_id": "68681e8149fb6fafac5378ba"
     },
     {
         "name": "Zabrak",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "Zabraki",
-        "_id": "6866b00e346f4aaa250fb737"
+        "_id": "68681e8149fb6fafac5378bb"
     },
     {
         "name": "Tholothian",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "unknown",
-        "_id": "6866b00e346f4aaa250fb738"
+        "_id": "68681e8149fb6fafac5378bc"
     },
     {
         "name": "Iktotchi",
         "classification": "unknown",
         "average_lifespan": 0,
         "language": "Iktotchese",
-        "_id": "6866b00e346f4aaa250fb739"
+        "_id": "68681e8149fb6fafac5378bd"
     },
     {
         "name": "Quermian",
         "classification": "mammal",
         "average_lifespan": 86,
         "language": "Quermian",
-        "_id": "6866b00e346f4aaa250fb73a"
+        "_id": "68681e8149fb6fafac5378be"
     },
     {
         "name": "Kel Dor",
         "classification": "unknown",
         "average_lifespan": 70,
         "language": "Kel Dor",
-        "_id": "6866b00e346f4aaa250fb73b"
+        "_id": "68681e8149fb6fafac5378bf"
     },
     {
         "name": "Chagrian",
         "classification": "amphibian",
         "average_lifespan": 0,
         "language": "Chagria",
-        "_id": "6866b00e346f4aaa250fb73c"
+        "_id": "68681e8149fb6fafac5378c0"
     },
     {
         "name": "Geonosian",
         "classification": "insectoid",
         "average_lifespan": 0,
         "language": "Geonosian",
-        "_id": "6866b00e346f4aaa250fb73d"
+        "_id": "68681e8149fb6fafac5378c1"
     },
     {
         "name": "Mirialan",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "Mirialan",
-        "_id": "6866b00e346f4aaa250fb73e"
+        "_id": "68681e8149fb6fafac5378c2"
     },
     {
         "name": "Clawdite",
         "classification": "reptilian",
         "average_lifespan": 70,
         "language": "Clawdite",
-        "_id": "6866b00e346f4aaa250fb73f"
+        "_id": "68681e8149fb6fafac5378c3"
     },
     {
         "name": "Besalisk",
         "classification": "amphibian",
         "average_lifespan": 75,
         "language": "besalisk",
-        "_id": "6866b00e346f4aaa250fb740"
+        "_id": "68681e8149fb6fafac5378c4"
     },
     {
         "name": "Kaminoan",
         "classification": "amphibian",
         "average_lifespan": 80,
         "language": "Kaminoan",
-        "_id": "6866b00e346f4aaa250fb741"
+        "_id": "68681e8149fb6fafac5378c5"
     },
     {
         "name": "Skakoan",
         "classification": "mammal",
         "average_lifespan": 0,
         "language": "Skakoan",
-        "_id": "6866b00e346f4aaa250fb742"
+        "_id": "68681e8149fb6fafac5378c6"
     },
     {
         "name": "Muun",
         "classification": "mammal",
         "average_lifespan": 100,
         "language": "Muun",
-        "_id": "6866b00e346f4aaa250fb743"
+        "_id": "68681e8149fb6fafac5378c7"
     },
     {
         "name": "Togruta",
         "classification": "mammal",
         "average_lifespan": 94,
         "language": "Togruti",
-        "_id": "6866b00e346f4aaa250fb744"
+        "_id": "68681e8149fb6fafac5378c8"
     },
     {
         "name": "Kaleesh",
         "classification": "reptile",
         "average_lifespan": 80,
         "language": "Kaleesh",
-        "_id": "6866b00e346f4aaa250fb745"
+        "_id": "68681e8149fb6fafac5378c9"
     },
     {
         "name": "Pau'an",
         "classification": "mammal",
         "average_lifespan": 700,
         "language": "Utapese",
-        "_id": "6866b00e346f4aaa250fb746"
+        "_id": "68681e8149fb6fafac5378ca"
     }
 ]

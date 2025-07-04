@@ -10,7 +10,8 @@ from convert import (
     faction_to_mongo,
     character_to_mongo,
     starship_to_mongo,
-    city_to_mongo
+    city_to_mongo,
+    battle_to_mongo
 )
 
 def find_by_field(field_name: str, field_value: Any, data_array: List[Dict]) -> Optional[Dict]:
@@ -110,3 +111,30 @@ for city in cities_clean:
         city['planet_id'] = planet['_id']
 
 cities_clean = save_list_to_json_file(cities_clean, "./clean/locations.json")
+
+# now with historic events. for now we only have battles
+raw_battles = read_csv_to_list_of_dicts('./raw/battles.csv')
+battles_clean = list(map(lambda c: battle_to_mongo(c),raw_battles))
+
+def character_to_historic(clean_char: dict) -> dict:
+    return {
+        "character_id":str(clean_char['_id']),
+        "name":clean_char['name'],
+        "role": ""
+    }
+
+for battle in battles_clean:
+    for fact in battle['factions']:
+        clean_fact = find_by_field('name',fact['name'],clean_factions)
+        if clean_fact != None:
+            fact['faction_id'] = str(clean_fact['_id'])
+            fact['name'] = clean_fact['name']
+            # lets get all characters of this faction
+            battle_characters = list(filter(lambda char: clean_fact['_id'] in char['faction_ids'], characters_clean))
+            battle_characters = list(map(character_to_historic,battle_characters))
+
+            battle['characters']+=battle_characters
+
+battles_clean = save_list_to_json_file(battles_clean, "./clean/historic_events.json")
+
+
