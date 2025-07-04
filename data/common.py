@@ -11,7 +11,7 @@ def save_list_to_json_file(
     data_to_save = []
     for item in data_list:
         item_copy = item.copy()
-        item_copy[id_field_name] = str(ObjectId())
+        item_copy[id_field_name] = {"$oid":str(ObjectId())}
         data_to_save.append(item_copy)
     print("Saved",file_path)
     with open(file_path, 'w', encoding='utf-8') as f:

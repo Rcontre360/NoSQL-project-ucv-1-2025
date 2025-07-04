@@ -5,7 +5,9 @@
         "terrain": "desert",
         "population": 200000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7b2"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6189"
+        }
     },
     {
         "name": "Alderaan",
@@ -13,7 +15,9 @@
         "terrain": "grasslands, mountains",
         "population": 2000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7b3"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc618a"
+        }
     },
     {
         "name": "Yavin IV",
@@ -21,7 +25,9 @@
         "terrain": "jungle, rainforests",
         "population": 1000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7b4"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc618b"
+        }
     },
     {
         "name": "Hoth",
@@ -29,7 +35,9 @@
         "terrain": "tundra, ice caves, mountain ranges",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7b5"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc618c"
+        }
     },
     {
         "name": "Dagobah",
@@ -37,7 +45,9 @@
         "terrain": "swamp, jungles",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7b6"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc618d"
+        }
     },
     {
         "name": "Bespin",
@@ -45,7 +55,9 @@
         "terrain": "gas giant",
         "population": 6000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7b7"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc618e"
+        }
     },
     {
         "name": "Endor",
@@ -53,9 +65,13 @@
         "terrain": "forests, mountains, lakes",
         "population": 30000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb72a"
+            {
+                "$oid": "68682b41be9584d50ddc6101"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7b8"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc618f"
+        }
     },
     {
         "name": "Naboo",
@@ -63,9 +79,13 @@
         "terrain": "grassy hills, swamps, forests, mountains",
         "population": 4500000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb72d"
+            {
+                "$oid": "68682b41be9584d50ddc6104"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7b9"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6190"
+        }
     },
     {
         "name": "Coruscant",
@@ -73,7 +93,9 @@
         "terrain": "cityscape, mountains",
         "population": 1000000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7ba"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6191"
+        }
     },
     {
         "name": "Kamino",
@@ -81,10 +103,16 @@
         "terrain": "ocean",
         "population": 1000000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb741",
-            "6866b00e346f4aaa250fb741"
+            {
+                "$oid": "68682b41be9584d50ddc6118"
+            },
+            {
+                "$oid": "68682b41be9584d50ddc6118"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7bb"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6192"
+        }
     },
     {
         "name": "Geonosis",
@@ -92,9 +120,13 @@
         "terrain": "rock, desert, mountain, barren",
         "population": 100000000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb73d"
+            {
+                "$oid": "68682b41be9584d50ddc6114"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7bc"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6193"
+        }
     },
     {
         "name": "Utapau",
@@ -102,7 +134,9 @@
         "terrain": "scrublands, savanna, canyons, sinkholes",
         "population": 95000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7bd"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6194"
+        }
     },
     {
         "name": "Mustafar",
@@ -110,7 +144,9 @@
         "terrain": "volcanoes, lava rivers, mountains, caves",
         "population": 20000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7be"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6195"
+        }
     },
     {
         "name": "Kashyyyk",
@@ -118,7 +154,9 @@
         "terrain": "jungle, forests, lakes, rivers",
         "population": 45000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7bf"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6196"
+        }
     },
     {
         "name": "Polis Massa",
@@ -126,7 +164,9 @@
         "terrain": "airless asteroid",
         "population": 1000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c0"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6197"
+        }
     },
     {
         "name": "Mygeeto",
@@ -134,7 +174,9 @@
         "terrain": "glaciers, mountains, ice canyons",
         "population": 19000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c1"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6198"
+        }
     },
     {
         "name": "Felucia",
@@ -142,7 +184,9 @@
         "terrain": "fungus forests",
         "population": 8500000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c2"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6199"
+        }
     },
     {
         "name": "Cato Neimoidia",
@@ -150,7 +194,9 @@
         "terrain": "mountains, fields, forests, rock arches",
         "population": 10000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c3"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc619a"
+        }
     },
     {
         "name": "Saleucami",
@@ -158,7 +204,9 @@
         "terrain": "caves, desert, mountains, volcanoes",
         "population": 1400000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c4"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc619b"
+        }
     },
     {
         "name": "Stewjon",
@@ -166,7 +214,9 @@
         "terrain": "grass",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c5"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc619c"
+        }
     },
     {
         "name": "Eriadu",
@@ -174,7 +224,9 @@
         "terrain": "cityscape",
         "population": 22000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c6"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc619d"
+        }
     },
     {
         "name": "Corellia",
@@ -182,7 +234,9 @@
         "terrain": "plains, urban, hills, forests",
         "population": 3000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7c7"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc619e"
+        }
     },
     {
         "name": "Rodia",
@@ -190,9 +244,13 @@
         "terrain": "jungles, oceans, urban, swamps",
         "population": 1300000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb725"
+            {
+                "$oid": "68682b41be9584d50ddc60fc"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7c8"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc619f"
+        }
     },
     {
         "name": "Nal Hutta",
@@ -200,9 +258,13 @@
         "terrain": "urban, oceans, swamps, bogs",
         "population": 7000000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb726"
+            {
+                "$oid": "68682b41be9584d50ddc60fd"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7c9"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a0"
+        }
     },
     {
         "name": "Dantooine",
@@ -210,7 +272,9 @@
         "terrain": "oceans, savannas, mountains, grasslands",
         "population": 1000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7ca"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a1"
+        }
     },
     {
         "name": "Bestine IV",
@@ -218,7 +282,9 @@
         "terrain": "rocky islands, oceans",
         "population": 62000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7cb"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a2"
+        }
     },
     {
         "name": "Ord Mantell",
@@ -226,7 +292,9 @@
         "terrain": "plains, seas, mesas",
         "population": 4000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7cc"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a3"
+        }
     },
     {
         "name": "unknown",
@@ -234,9 +302,13 @@
         "terrain": "unknown",
         "population": 0,
         "species_ids": [
-            "6866b00e346f4aaa250fb727"
+            {
+                "$oid": "68682b41be9584d50ddc60fe"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7cd"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a4"
+        }
     },
     {
         "name": "Trandosha",
@@ -244,9 +316,13 @@
         "terrain": "mountains, seas, grasslands, deserts",
         "population": 42000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb728"
+            {
+                "$oid": "68682b41be9584d50ddc60ff"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7ce"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a5"
+        }
     },
     {
         "name": "Socorro",
@@ -254,7 +330,9 @@
         "terrain": "deserts, mountains",
         "population": 300000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7cf"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a6"
+        }
     },
     {
         "name": "Mon Cala",
@@ -262,9 +340,13 @@
         "terrain": "oceans, reefs, islands",
         "population": 27000000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb729"
+            {
+                "$oid": "68682b41be9584d50ddc6100"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7d0"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a7"
+        }
     },
     {
         "name": "Chandrila",
@@ -272,7 +354,9 @@
         "terrain": "plains, forests",
         "population": 1200000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7d1"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a8"
+        }
     },
     {
         "name": "Sullust",
@@ -280,9 +364,13 @@
         "terrain": "mountains, volcanoes, rocky deserts",
         "population": 18500000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb72b"
+            {
+                "$oid": "68682b41be9584d50ddc6102"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7d2"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61a9"
+        }
     },
     {
         "name": "Toydaria",
@@ -290,9 +378,13 @@
         "terrain": "swamps, lakes",
         "population": 11000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb72e"
+            {
+                "$oid": "68682b41be9584d50ddc6105"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7d3"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61aa"
+        }
     },
     {
         "name": "Malastare",
@@ -300,7 +392,9 @@
         "terrain": "swamps, deserts, jungles, mountains",
         "population": 2000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7d4"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61ab"
+        }
     },
     {
         "name": "Dathomir",
@@ -308,7 +402,9 @@
         "terrain": "forests, deserts, savannas",
         "population": 5200,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7d5"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61ac"
+        }
     },
     {
         "name": "Ryloth",
@@ -316,9 +412,13 @@
         "terrain": "mountains, valleys, deserts, tundra",
         "population": 1500000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb730"
+            {
+                "$oid": "68682b41be9584d50ddc6107"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7d6"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61ad"
+        }
     },
     {
         "name": "Aleen Minor",
@@ -326,7 +426,9 @@
         "terrain": "unknown",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7d7"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61ae"
+        }
     },
     {
         "name": "Vulpter",
@@ -334,7 +436,9 @@
         "terrain": "urban, barren",
         "population": 421000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7d8"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61af"
+        }
     },
     {
         "name": "Troiken",
@@ -342,7 +446,9 @@
         "terrain": "desert, tundra, rainforests, mountains",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7d9"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b0"
+        }
     },
     {
         "name": "Tund",
@@ -350,7 +456,9 @@
         "terrain": "barren, ash",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7da"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b1"
+        }
     },
     {
         "name": "Haruun Kal",
@@ -358,7 +466,9 @@
         "terrain": "toxic cloudsea, plateaus, volcanoes",
         "population": 705300,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7db"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b2"
+        }
     },
     {
         "name": "Cerea",
@@ -366,7 +476,9 @@
         "terrain": "verdant",
         "population": 450000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7dc"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b3"
+        }
     },
     {
         "name": "Glee Anselm",
@@ -374,9 +486,13 @@
         "terrain": "lakes, islands, swamps, seas",
         "population": 500000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb736"
+            {
+                "$oid": "68682b41be9584d50ddc610d"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7dd"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b4"
+        }
     },
     {
         "name": "Iridonia",
@@ -384,9 +500,13 @@
         "terrain": "rocky canyons, acid pools",
         "population": 0,
         "species_ids": [
-            "6866b00e346f4aaa250fb737"
+            {
+                "$oid": "68682b41be9584d50ddc610e"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7de"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b5"
+        }
     },
     {
         "name": "Tholoth",
@@ -394,7 +514,9 @@
         "terrain": "unknown",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7df"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b6"
+        }
     },
     {
         "name": "Iktotch",
@@ -402,7 +524,9 @@
         "terrain": "rocky",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e0"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b7"
+        }
     },
     {
         "name": "Quermia",
@@ -410,7 +534,9 @@
         "terrain": "unknown",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e1"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b8"
+        }
     },
     {
         "name": "Dorin",
@@ -418,9 +544,13 @@
         "terrain": "unknown",
         "population": 0,
         "species_ids": [
-            "6866b00e346f4aaa250fb73b"
+            {
+                "$oid": "68682b41be9584d50ddc6112"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7e2"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61b9"
+        }
     },
     {
         "name": "Champala",
@@ -428,7 +558,9 @@
         "terrain": "oceans, rainforests, plateaus",
         "population": 3500000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e3"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61ba"
+        }
     },
     {
         "name": "Mirial",
@@ -436,9 +568,13 @@
         "terrain": "deserts",
         "population": 0,
         "species_ids": [
-            "6866b00e346f4aaa250fb73e"
+            {
+                "$oid": "68682b41be9584d50ddc6115"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7e4"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61bb"
+        }
     },
     {
         "name": "Serenno",
@@ -446,7 +582,9 @@
         "terrain": "rainforests, rivers, mountains",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e5"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61bc"
+        }
     },
     {
         "name": "Concord Dawn",
@@ -454,7 +592,9 @@
         "terrain": "jungles, forests, deserts",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e6"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61bd"
+        }
     },
     {
         "name": "Zolan",
@@ -462,7 +602,9 @@
         "terrain": "unknown",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e7"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61be"
+        }
     },
     {
         "name": "Ojom",
@@ -470,7 +612,9 @@
         "terrain": "oceans, glaciers",
         "population": 500000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e8"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61bf"
+        }
     },
     {
         "name": "Skako",
@@ -478,7 +622,9 @@
         "terrain": "urban, vines",
         "population": 500000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7e9"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61c0"
+        }
     },
     {
         "name": "Muunilinst",
@@ -486,9 +632,13 @@
         "terrain": "plains, forests, hills, mountains",
         "population": 5000000000,
         "species_ids": [
-            "6866b00e346f4aaa250fb743"
+            {
+                "$oid": "68682b41be9584d50ddc611a"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7ea"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61c1"
+        }
     },
     {
         "name": "Shili",
@@ -496,9 +646,13 @@
         "terrain": "cities, savannahs, seas, plains",
         "population": 0,
         "species_ids": [
-            "6866b00e346f4aaa250fb744"
+            {
+                "$oid": "68682b41be9584d50ddc611b"
+            }
         ],
-        "_id": "6866b00e346f4aaa250fb7eb"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61c2"
+        }
     },
     {
         "name": "Kalee",
@@ -506,7 +660,9 @@
         "terrain": "rainforests, cliffs, canyons, seas",
         "population": 4000000000,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7ec"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61c3"
+        }
     },
     {
         "name": "Umbara",
@@ -514,6 +670,8 @@
         "terrain": "unknown",
         "population": 0,
         "species_ids": [],
-        "_id": "6866b00e346f4aaa250fb7ed"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc61c4"
+        }
     }
 ]

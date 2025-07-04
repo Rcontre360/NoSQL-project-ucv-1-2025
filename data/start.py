@@ -10,8 +10,11 @@ from convert import (
     faction_to_mongo,
     character_to_mongo,
     starship_to_mongo,
-    city_to_mongo
+    city_to_mongo,
+    battle_to_mongo,
+    movie_to_mongo
 )
+
 
 def find_by_field(field_name: str, field_value: Any, data_array: List[Dict]) -> Optional[Dict]:
     for item in data_array:
@@ -110,3 +113,58 @@ for city in cities_clean:
         city['planet_id'] = planet['_id']
 
 cities_clean = save_list_to_json_file(cities_clean, "./clean/locations.json")
+
+# now with historic events. for now we only have battles
+raw_battles = read_csv_to_list_of_dicts('./raw/battles.csv')
+battles_clean = list(map(lambda c: battle_to_mongo(c),raw_battles))
+
+def character_to_historic(clean_char: dict) -> dict:
+    return {
+        "character_id":str(clean_char['_id']),
+        "name":clean_char['name'],
+        "role": ""
+    }
+
+for battle in battles_clean:
+    for fact in battle['factions']:
+        clean_fact = find_by_field('name',fact['name'],clean_factions)
+        if clean_fact != None:
+            fact['faction_id'] = str(clean_fact['_id'])
+            fact['name'] = clean_fact['name']
+            # lets get all characters of this faction
+            battle_characters = list(filter(lambda char: clean_fact['_id'] in char['faction_ids'], characters_clean))
+            battle_characters = list(map(character_to_historic,battle_characters))
+
+            battle['characters']+=battle_characters
+
+battles_clean = save_list_to_json_file(battles_clean, "./clean/historic_events.json")
+
+# finally, movies
+movies_raw = read_json_to_list_of_dicts("./raw/movies.json")
+movies_clean = list(map(lambda c: movie_to_mongo(c),movies_raw))
+
+for movie in movies_clean:
+    new_chars = []
+    new_spaceships = []
+    for char_url in movie['characters']:
+        raw_char = find_by_field('url',char_url,raw_characters)
+        clean_char = find_by_field('name', raw_char['name'], characters_clean)
+        new_chars.append({
+            'character_id':clean_char['_id'],
+            'name':clean_char['name'],
+            'role':'',
+        })
+
+    for ship_url in movie['starships']:
+        raw_ship = find_by_field('url',ship_url,raw_spaceships)
+        if raw_ship != None:
+            clean_ship = find_by_field('name', raw_ship['name'], spaceship_clean)
+            new_spaceships.append({
+                'starship_id':clean_ship['_id'],
+                'name':clean_ship['name'],
+            })
+
+    movie['characters'] = new_chars
+    movie['starships'] = new_spaceships
+
+movies_clean = save_list_to_json_file(movies_clean, "./clean/movies.json")

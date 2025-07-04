@@ -48,6 +48,11 @@ def fetch_starships():
     res = make_fetch_swapi(url)
     return res
 
+def fetch_movies():
+    url = f"https://swapi.info/api/films"
+    res = make_fetch_swapi(url)
+    return res
+
 folder_name = "raw"
 
 try:
@@ -62,10 +67,12 @@ characters = fetch_characters()
 species = fetch_species()
 vehicles = fetch_vehicles()
 starships = fetch_starships()
+movies = fetch_movies()
 
 save_list_to_json_file(planets, "./raw/planets.json")
 save_list_to_json_file(characters, "./raw/characters.json")
 save_list_to_json_file(vehicles, "./raw/vehicles.json")
 save_list_to_json_file(species, "./raw/species.json")
 save_list_to_json_file(starships, "./raw/starships.json")
+save_list_to_json_file(movies, "./raw/movies.json")
 
