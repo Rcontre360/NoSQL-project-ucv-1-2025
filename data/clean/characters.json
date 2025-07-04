@@ -5,10 +5,17 @@
         "height": 172,
         "mass": 77,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            },
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -16,7 +23,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c0d"
+            "$oid": "68686778339655f42bbeecd4"
         }
     },
     {
@@ -25,19 +32,26 @@
         "height": 167,
         "mass": 75,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b42"
+            "$oid": "68686778339655f42bbeec09"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec91"
+            },
+            {
+                "$oid": "68686778339655f42bbeec92"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c0e"
+            "$oid": "68686778339655f42bbeecd5"
         }
     },
     {
@@ -46,19 +60,29 @@
         "height": 96,
         "mass": 32,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b42"
+            "$oid": "68686778339655f42bbeec09"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            },
+            {
+                "$oid": "68686778339655f42bbeec93"
+            },
+            {
+                "$oid": "68686778339655f42bbeec97"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c0f"
+            "$oid": "68686778339655f42bbeecd6"
         }
     },
     {
@@ -67,10 +91,17 @@
         "height": 202,
         "mass": 136,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec91"
+            },
+            {
+                "$oid": "68686778339655f42bbeec92"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -78,7 +109,7 @@
             "crystal_color": "Red"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c10"
+            "$oid": "68686778339655f42bbeecd7"
         }
     },
     {
@@ -87,17 +118,24 @@
         "height": 150,
         "mass": 49,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd2"
+            "$oid": "68686778339655f42bbeec99"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            },
+            {
+                "$oid": "68686778339655f42bbeec97"
+            }
+        ],
         "weapon": {
             "name": "Westar-34 Blaster",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c11"
+            "$oid": "68686778339655f42bbeecd8"
         }
     },
     {
@@ -106,7 +144,7 @@
         "height": 178,
         "mass": 120,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
         "faction_ids": [],
@@ -116,7 +154,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c12"
+            "$oid": "68686778339655f42bbeecd9"
         }
     },
     {
@@ -125,7 +163,7 @@
         "height": 165,
         "mass": 75,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
         "faction_ids": [],
@@ -135,7 +173,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c13"
+            "$oid": "68686778339655f42bbeecda"
         }
     },
     {
@@ -144,19 +182,23 @@
         "height": 97,
         "mass": 32,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b42"
+            "$oid": "68686778339655f42bbeec09"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c14"
+            "$oid": "68686778339655f42bbeecdb"
         }
     },
     {
@@ -165,17 +207,21 @@
         "height": 183,
         "mass": 84,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "DL-44 Blaster Pistol",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c15"
+            "$oid": "68686778339655f42bbeecdc"
         }
     },
     {
@@ -184,10 +230,14 @@
         "height": 182,
         "mass": 77,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73be4"
+            "$oid": "68686778339655f42bbeecab"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -195,7 +245,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c16"
+            "$oid": "68686778339655f42bbeecdd"
         }
     },
     {
@@ -204,10 +254,14 @@
         "height": 188,
         "mass": 84,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -215,7 +269,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c17"
+            "$oid": "68686778339655f42bbeecde"
         }
     },
     {
@@ -224,17 +278,24 @@
         "height": 180,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73be5"
+            "$oid": "68686778339655f42bbeecac"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec92"
+            },
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c18"
+            "$oid": "68686778339655f42bbeecdf"
         }
     },
     {
@@ -243,19 +304,26 @@
         "height": 228,
         "mass": 112,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bde"
+            "$oid": "68686778339655f42bbeeca5"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b43"
+            "$oid": "68686778339655f42bbeec0a"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            },
+            {
+                "$oid": "68686778339655f42bbeec97"
+            }
+        ],
         "weapon": {
             "name": "Bowcaster",
             "type": "Projectile",
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c19"
+            "$oid": "68686778339655f42bbeece0"
         }
     },
     {
@@ -264,17 +332,21 @@
         "height": 180,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73be6"
+            "$oid": "68686778339655f42bbeecad"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "DL-44 Blaster Pistol",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c1a"
+            "$oid": "68686778339655f42bbeece1"
         }
     },
     {
@@ -283,10 +355,10 @@
         "height": 173,
         "mass": 74,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73be7"
+            "$oid": "68686778339655f42bbeecae"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b44"
+            "$oid": "68686778339655f42bbeec0b"
         },
         "faction_ids": [],
         "weapon": {
@@ -295,7 +367,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c1b"
+            "$oid": "68686778339655f42bbeece2"
         }
     },
     {
@@ -304,19 +376,26 @@
         "height": 175,
         "mass": 1358,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73be8"
+            "$oid": "68686778339655f42bbeecaf"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b45"
+            "$oid": "68686778339655f42bbeec0c"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec92"
+            },
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c1c"
+            "$oid": "68686778339655f42bbeece3"
         }
     },
     {
@@ -325,17 +404,21 @@
         "height": 170,
         "mass": 77,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73be6"
+            "$oid": "68686778339655f42bbeecad"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "Proton Torpedo",
             "type": "Projectile",
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c1d"
+            "$oid": "68686778339655f42bbeece4"
         }
     },
     {
@@ -344,17 +427,21 @@
         "height": 180,
         "mass": 110,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bea"
+            "$oid": "68686778339655f42bbeecb1"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "DC-17 Hand Blaster",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c1e"
+            "$oid": "68686778339655f42bbeece5"
         }
     },
     {
@@ -363,12 +450,16 @@
         "height": 66,
         "mass": 17,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bec"
+            "$oid": "68686778339655f42bbeecb3"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b46"
+            "$oid": "68686778339655f42bbeec0d"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -376,7 +467,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c1f"
+            "$oid": "68686778339655f42bbeece6"
         }
     },
     {
@@ -385,17 +476,27 @@
         "height": 170,
         "mass": 75,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec91"
+            },
+            {
+                "$oid": "68686778339655f42bbeec92"
+            },
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c20"
+            "$oid": "68686778339655f42bbeece7"
         }
     },
     {
@@ -404,7 +505,7 @@
         "height": 183,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bda"
+            "$oid": "68686778339655f42bbeeca1"
         },
         "species_id": "",
         "faction_ids": [],
@@ -414,7 +515,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c21"
+            "$oid": "68686778339655f42bbeece8"
         }
     },
     {
@@ -423,19 +524,23 @@
         "height": 200,
         "mass": 140,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bec"
+            "$oid": "68686778339655f42bbeecb3"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b42"
+            "$oid": "68686778339655f42bbeec09"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec92"
+            }
+        ],
         "weapon": {
             "name": "Dart Shooter",
             "type": "Projectile",
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c22"
+            "$oid": "68686778339655f42bbeece9"
         }
     },
     {
@@ -444,19 +549,23 @@
         "height": 190,
         "mass": 113,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bed"
+            "$oid": "68686778339655f42bbeecb4"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b47"
+            "$oid": "68686778339655f42bbeec0e"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec92"
+            }
+        ],
         "weapon": {
             "name": "Thermal Detonator",
             "type": "Explosive",
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c23"
+            "$oid": "68686778339655f42bbeecea"
         }
     },
     {
@@ -465,17 +574,24 @@
         "height": 177,
         "mass": 79,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bee"
+            "$oid": "68686778339655f42bbeecb5"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            },
+            {
+                "$oid": "68686778339655f42bbeec97"
+            }
+        ],
         "weapon": {
             "name": "KX-80 Repeating Blaster",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c24"
+            "$oid": "68686778339655f42bbeeceb"
         }
     },
     {
@@ -484,17 +600,21 @@
         "height": 175,
         "mass": 79,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd6"
+            "$oid": "68686778339655f42bbeec9d"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "SE-14C Blaster Pistol",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c25"
+            "$oid": "68686778339655f42bbeecec"
         }
     },
     {
@@ -503,19 +623,29 @@
         "height": 180,
         "mass": 83,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bef"
+            "$oid": "68686778339655f42bbeecb6"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b48"
+            "$oid": "68686778339655f42bbeec0f"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            },
+            {
+                "$oid": "68686778339655f42bbeec94"
+            },
+            {
+                "$oid": "68686778339655f42bbeec97"
+            }
+        ],
         "weapon": {
             "name": "DC-15A Blaster Rifle",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c26"
+            "$oid": "68686778339655f42bbeeced"
         }
     },
     {
@@ -524,17 +654,24 @@
         "height": 150,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf0"
+            "$oid": "68686778339655f42bbeecb7"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            },
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c27"
+            "$oid": "68686778339655f42bbeecee"
         }
     },
     {
@@ -543,17 +680,21 @@
         "height": 0,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bec"
+            "$oid": "68686778339655f42bbeecb3"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "Z-6 Rotary Blaster Cannon",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c28"
+            "$oid": "68686778339655f42bbeecef"
         }
     },
     {
@@ -562,19 +703,23 @@
         "height": 88,
         "mass": 20,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd7"
+            "$oid": "68686778339655f42bbeec9e"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b49"
+            "$oid": "68686778339655f42bbeec10"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "Nightsister Energy Bow",
             "type": "Projectile",
             "manufacturer": "Nightsisters"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c29"
+            "$oid": "68686778339655f42bbeecf0"
         }
     },
     {
@@ -583,19 +728,26 @@
         "height": 160,
         "mass": 68,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf1"
+            "$oid": "68686778339655f42bbeecb8"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4a"
+            "$oid": "68686778339655f42bbeec11"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec93"
+            },
+            {
+                "$oid": "68686778339655f42bbeec97"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c2a"
+            "$oid": "68686778339655f42bbeecf1"
         }
     },
     {
@@ -604,10 +756,14 @@
         "height": 193,
         "mass": 89,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bec"
+            "$oid": "68686778339655f42bbeecb3"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -615,7 +771,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c2b"
+            "$oid": "68686778339655f42bbeecf2"
         }
     },
     {
@@ -624,19 +780,23 @@
         "height": 191,
         "mass": 90,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73be2"
+            "$oid": "68686778339655f42bbeeca9"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4b"
+            "$oid": "68686778339655f42bbeec12"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec95"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c2c"
+            "$oid": "68686778339655f42bbeecf3"
         }
     },
     {
@@ -645,17 +805,21 @@
         "height": 170,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd9"
+            "$oid": "68686778339655f42bbeeca0"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c2d"
+            "$oid": "68686778339655f42bbeecf4"
         }
     },
     {
@@ -664,17 +828,21 @@
         "height": 185,
         "mass": 45,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "SE-14C Blaster Pistol",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c2e"
+            "$oid": "68686778339655f42bbeecf5"
         }
     },
     {
@@ -683,19 +851,23 @@
         "height": 196,
         "mass": 66,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4c"
+            "$oid": "68686778339655f42bbeec13"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c2f"
+            "$oid": "68686778339655f42bbeecf6"
         }
     },
     {
@@ -704,19 +876,23 @@
         "height": 224,
         "mass": 82,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4c"
+            "$oid": "68686778339655f42bbeec13"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "Electrostaff",
             "type": "Melee",
             "manufacturer": "Merr-Sonn Munitions"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c30"
+            "$oid": "68686778339655f42bbeecf7"
         }
     },
     {
@@ -725,10 +901,10 @@
         "height": 206,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4c"
+            "$oid": "68686778339655f42bbeec13"
         },
         "faction_ids": [],
         "weapon": {
@@ -737,7 +913,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c31"
+            "$oid": "68686778339655f42bbeecf8"
         }
     },
     {
@@ -746,7 +922,7 @@
         "height": 183,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": "",
         "faction_ids": [],
@@ -756,7 +932,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c32"
+            "$oid": "68686778339655f42bbeecf9"
         }
     },
     {
@@ -765,10 +941,10 @@
         "height": 137,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf2"
+            "$oid": "68686778339655f42bbeecb9"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4d"
+            "$oid": "68686778339655f42bbeec14"
         },
         "faction_ids": [],
         "weapon": {
@@ -777,7 +953,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c33"
+            "$oid": "68686778339655f42bbeecfa"
         }
     },
     {
@@ -786,10 +962,10 @@
         "height": 112,
         "mass": 40,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf3"
+            "$oid": "68686778339655f42bbeecba"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4e"
+            "$oid": "68686778339655f42bbeec15"
         },
         "faction_ids": [],
         "weapon": {
@@ -798,7 +974,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c34"
+            "$oid": "68686778339655f42bbeecfb"
         }
     },
     {
@@ -807,17 +983,21 @@
         "height": 183,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "SE-14C Blaster Pistol",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c35"
+            "$oid": "68686778339655f42bbeecfc"
         }
     },
     {
@@ -826,7 +1006,7 @@
         "height": 163,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
         "faction_ids": [],
@@ -836,7 +1016,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c36"
+            "$oid": "68686778339655f42bbeecfd"
         }
     },
     {
@@ -845,12 +1025,16 @@
         "height": 175,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf4"
+            "$oid": "68686778339655f42bbeecbb"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b56"
+            "$oid": "68686778339655f42bbeec1d"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec91"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -858,7 +1042,7 @@
             "crystal_color": "Red"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c37"
+            "$oid": "68686778339655f42bbeecfe"
         }
     },
     {
@@ -867,10 +1051,10 @@
         "height": 180,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf5"
+            "$oid": "68686778339655f42bbeecbc"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4f"
+            "$oid": "68686778339655f42bbeec16"
         },
         "faction_ids": [],
         "weapon": {
@@ -879,7 +1063,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c38"
+            "$oid": "68686778339655f42bbeecff"
         }
     },
     {
@@ -888,12 +1072,16 @@
         "height": 178,
         "mass": 55,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf5"
+            "$oid": "68686778339655f42bbeecbc"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b4f"
+            "$oid": "68686778339655f42bbeec16"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -901,7 +1089,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c39"
+            "$oid": "68686778339655f42bbeed00"
         }
     },
     {
@@ -910,10 +1098,10 @@
         "height": 79,
         "mass": 15,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf6"
+            "$oid": "68686778339655f42bbeecbd"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b50"
+            "$oid": "68686778339655f42bbeec17"
         },
         "faction_ids": [],
         "weapon": {
@@ -922,7 +1110,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c3a"
+            "$oid": "68686778339655f42bbeed01"
         }
     },
     {
@@ -931,10 +1119,10 @@
         "height": 94,
         "mass": 45,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf7"
+            "$oid": "68686778339655f42bbeecbe"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b51"
+            "$oid": "68686778339655f42bbeec18"
         },
         "faction_ids": [],
         "weapon": {
@@ -943,7 +1131,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c3b"
+            "$oid": "68686778339655f42bbeed02"
         }
     },
     {
@@ -952,10 +1140,10 @@
         "height": 122,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf8"
+            "$oid": "68686778339655f42bbeecbf"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b52"
+            "$oid": "68686778339655f42bbeec19"
         },
         "faction_ids": [],
         "weapon": {
@@ -964,7 +1152,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c3c"
+            "$oid": "68686778339655f42bbeed03"
         }
     },
     {
@@ -973,19 +1161,23 @@
         "height": 163,
         "mass": 65,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bf9"
+            "$oid": "68686778339655f42bbeecc0"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b53"
+            "$oid": "68686778339655f42bbeec1a"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c3d"
+            "$oid": "68686778339655f42bbeed04"
         }
     },
     {
@@ -994,10 +1186,14 @@
         "height": 188,
         "mass": 84,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bfa"
+            "$oid": "68686778339655f42bbeecc1"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1005,7 +1201,7 @@
             "crystal_color": "Purple"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c3e"
+            "$oid": "68686778339655f42bbeed05"
         }
     },
     {
@@ -1014,12 +1210,19 @@
         "height": 198,
         "mass": 82,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bfb"
+            "$oid": "68686778339655f42bbeecc2"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b54"
+            "$oid": "68686778339655f42bbeec1b"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            },
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1027,7 +1230,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c3f"
+            "$oid": "68686778339655f42bbeed06"
         }
     },
     {
@@ -1036,12 +1239,16 @@
         "height": 196,
         "mass": 87,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bfc"
+            "$oid": "68686778339655f42bbeecc3"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b55"
+            "$oid": "68686778339655f42bbeec1c"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1049,7 +1256,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c40"
+            "$oid": "68686778339655f42bbeed07"
         }
     },
     {
@@ -1058,12 +1265,16 @@
         "height": 171,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bfd"
+            "$oid": "68686778339655f42bbeecc4"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b56"
+            "$oid": "68686778339655f42bbeec1d"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1071,7 +1282,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c41"
+            "$oid": "68686778339655f42bbeed08"
         }
     },
     {
@@ -1080,12 +1291,16 @@
         "height": 184,
         "mass": 50,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd9"
+            "$oid": "68686778339655f42bbeeca0"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b57"
+            "$oid": "68686778339655f42bbeec1e"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1093,7 +1308,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c42"
+            "$oid": "68686778339655f42bbeed09"
         }
     },
     {
@@ -1102,12 +1317,16 @@
         "height": 188,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bff"
+            "$oid": "68686778339655f42bbeecc6"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b58"
+            "$oid": "68686778339655f42bbeec1f"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1115,7 +1334,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c43"
+            "$oid": "68686778339655f42bbeed0a"
         }
     },
     {
@@ -1124,12 +1343,16 @@
         "height": 264,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c00"
+            "$oid": "68686778339655f42bbeecc7"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b59"
+            "$oid": "68686778339655f42bbeec20"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1137,7 +1360,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c44"
+            "$oid": "68686778339655f42bbeed0b"
         }
     },
     {
@@ -1146,12 +1369,16 @@
         "height": 188,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c01"
+            "$oid": "68686778339655f42bbeecc8"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b5a"
+            "$oid": "68686778339655f42bbeec21"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1159,7 +1386,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c45"
+            "$oid": "68686778339655f42bbeed0c"
         }
     },
     {
@@ -1168,19 +1395,23 @@
         "height": 196,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c02"
+            "$oid": "68686778339655f42bbeecc9"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b5b"
+            "$oid": "68686778339655f42bbeec22"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c46"
+            "$oid": "68686778339655f42bbeed0d"
         }
     },
     {
@@ -1189,17 +1420,21 @@
         "height": 185,
         "mass": 85,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "DL-18 Blaster Pistol",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c47"
+            "$oid": "68686778339655f42bbeed0e"
         }
     },
     {
@@ -1208,17 +1443,21 @@
         "height": 157,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c48"
+            "$oid": "68686778339655f42bbeed0f"
         }
     },
     {
@@ -1227,7 +1466,7 @@
         "height": 183,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd1"
+            "$oid": "68686778339655f42bbeec98"
         },
         "species_id": "",
         "faction_ids": [],
@@ -1237,7 +1476,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c49"
+            "$oid": "68686778339655f42bbeed10"
         }
     },
     {
@@ -1246,19 +1485,23 @@
         "height": 183,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bdb"
+            "$oid": "68686778339655f42bbeeca2"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b5c"
+            "$oid": "68686778339655f42bbeec23"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c4a"
+            "$oid": "68686778339655f42bbeed11"
         }
     },
     {
@@ -1267,12 +1510,16 @@
         "height": 170,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c03"
+            "$oid": "68686778339655f42bbeecca"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b5d"
+            "$oid": "68686778339655f42bbeec24"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1280,7 +1527,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c4b"
+            "$oid": "68686778339655f42bbeed12"
         }
     },
     {
@@ -1289,12 +1536,19 @@
         "height": 166,
         "mass": 50,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c03"
+            "$oid": "68686778339655f42bbeecca"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b5d"
+            "$oid": "68686778339655f42bbeec24"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            },
+            {
+                "$oid": "68686778339655f42bbeec92"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1302,7 +1556,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c4c"
+            "$oid": "68686778339655f42bbeed13"
         }
     },
     {
@@ -1311,19 +1565,23 @@
         "height": 165,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd8"
+            "$oid": "68686778339655f42bbeec9f"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b41"
+            "$oid": "68686778339655f42bbeec08"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c4d"
+            "$oid": "68686778339655f42bbeed14"
         }
     },
     {
@@ -1332,12 +1590,19 @@
         "height": 193,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c04"
+            "$oid": "68686778339655f42bbeeccb"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b41"
+            "$oid": "68686778339655f42bbeec08"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec91"
+            },
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1345,7 +1610,7 @@
             "crystal_color": "Red"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c4e"
+            "$oid": "68686778339655f42bbeed15"
         }
     },
     {
@@ -1354,19 +1619,26 @@
         "height": 191,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd2"
+            "$oid": "68686778339655f42bbeec99"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b41"
+            "$oid": "68686778339655f42bbeec08"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            },
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c4f"
+            "$oid": "68686778339655f42bbeed16"
         }
     },
     {
@@ -1375,17 +1647,21 @@
         "height": 183,
         "mass": 79,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c05"
+            "$oid": "68686778339655f42bbeeccc"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "Westar-34 Blaster",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c50"
+            "$oid": "68686778339655f42bbeed17"
         }
     },
     {
@@ -1394,10 +1670,10 @@
         "height": 168,
         "mass": 55,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c06"
+            "$oid": "68686778339655f42bbeeccd"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b5e"
+            "$oid": "68686778339655f42bbeec25"
         },
         "faction_ids": [],
         "weapon": {
@@ -1406,7 +1682,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c51"
+            "$oid": "68686778339655f42bbeed18"
         }
     },
     {
@@ -1415,19 +1691,23 @@
         "height": 198,
         "mass": 102,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c07"
+            "$oid": "68686778339655f42bbeecce"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b5f"
+            "$oid": "68686778339655f42bbeec26"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c52"
+            "$oid": "68686778339655f42bbeed19"
         }
     },
     {
@@ -1436,19 +1716,29 @@
         "height": 229,
         "mass": 88,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bda"
+            "$oid": "68686778339655f42bbeeca1"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b60"
+            "$oid": "68686778339655f42bbeec27"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            },
+            {
+                "$oid": "68686778339655f42bbeec92"
+            },
+            {
+                "$oid": "68686778339655f42bbeec91"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c53"
+            "$oid": "68686778339655f42bbeed1a"
         }
     },
     {
@@ -1457,19 +1747,23 @@
         "height": 213,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bda"
+            "$oid": "68686778339655f42bbeeca1"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b60"
+            "$oid": "68686778339655f42bbeec27"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c54"
+            "$oid": "68686778339655f42bbeed1b"
         }
     },
     {
@@ -1478,19 +1772,23 @@
         "height": 167,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd9"
+            "$oid": "68686778339655f42bbeeca0"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b41"
+            "$oid": "68686778339655f42bbeec08"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "E-11 Blaster Rifle",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c55"
+            "$oid": "68686778339655f42bbeed1c"
         }
     },
     {
@@ -1499,17 +1797,21 @@
         "height": 96,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bec"
+            "$oid": "68686778339655f42bbeecb3"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c56"
+            "$oid": "68686778339655f42bbeed1d"
         }
     },
     {
@@ -1518,10 +1820,10 @@
         "height": 193,
         "mass": 48,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c08"
+            "$oid": "68686778339655f42bbeeccf"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b61"
+            "$oid": "68686778339655f42bbeec28"
         },
         "faction_ids": [],
         "weapon": {
@@ -1530,7 +1832,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c57"
+            "$oid": "68686778339655f42bbeed1e"
         }
     },
     {
@@ -1539,10 +1841,10 @@
         "height": 191,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c09"
+            "$oid": "68686778339655f42bbeecd0"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b62"
+            "$oid": "68686778339655f42bbeec29"
         },
         "faction_ids": [],
         "weapon": {
@@ -1551,7 +1853,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c58"
+            "$oid": "68686778339655f42bbeed1f"
         }
     },
     {
@@ -1560,12 +1862,16 @@
         "height": 178,
         "mass": 57,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c0a"
+            "$oid": "68686778339655f42bbeecd1"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b63"
+            "$oid": "68686778339655f42bbeec2a"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec90"
+            }
+        ],
         "weapon": {
             "name": "Lightsaber",
             "type": "Melee",
@@ -1573,7 +1879,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c59"
+            "$oid": "68686778339655f42bbeed20"
         }
     },
     {
@@ -1582,10 +1888,10 @@
         "height": 216,
         "mass": 159,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c0b"
+            "$oid": "68686778339655f42bbeecd2"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b64"
+            "$oid": "68686778339655f42bbeec2b"
         },
         "faction_ids": [],
         "weapon": {
@@ -1595,7 +1901,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c5a"
+            "$oid": "68686778339655f42bbeed21"
         }
     },
     {
@@ -1604,19 +1910,23 @@
         "height": 234,
         "mass": 136,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bde"
+            "$oid": "68686778339655f42bbeeca5"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b43"
+            "$oid": "68686778339655f42bbeec0a"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "Bowcaster",
             "type": "Projectile",
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c5b"
+            "$oid": "68686778339655f42bbeed22"
         }
     },
     {
@@ -1625,17 +1935,24 @@
         "height": 188,
         "mass": 79,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bd2"
+            "$oid": "68686778339655f42bbeec99"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            },
+            {
+                "$oid": "68686778339655f42bbeec93"
+            }
+        ],
         "weapon": {
             "name": "DL-44 Blaster Pistol",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c5c"
+            "$oid": "68686778339655f42bbeed23"
         }
     },
     {
@@ -1644,17 +1961,24 @@
         "height": 178,
         "mass": 48,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73c0c"
+            "$oid": "68686778339655f42bbeecd3"
         },
         "species_id": "",
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            },
+            {
+                "$oid": "68686778339655f42bbeec92"
+            }
+        ],
         "weapon": {
             "name": "None",
             "type": "None",
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c5d"
+            "$oid": "68686778339655f42bbeed24"
         }
     },
     {
@@ -1663,19 +1987,23 @@
         "height": 206,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "686858b50e16e4c10ad73bdc"
+            "$oid": "68686778339655f42bbeeca3"
         },
         "species_id": {
-            "$oid": "686858b50e16e4c10ad73b65"
+            "$oid": "68686778339655f42bbeec2c"
         },
-        "faction_ids": [],
+        "faction_ids": [
+            {
+                "$oid": "68686778339655f42bbeec94"
+            }
+        ],
         "weapon": {
             "name": "E-11 Blaster Rifle",
             "type": "Blaster",
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c5e"
+            "$oid": "68686778339655f42bbeed25"
         }
     }
 ]

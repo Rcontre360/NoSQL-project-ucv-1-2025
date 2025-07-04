@@ -6,20 +6,161 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcc'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec93'}",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcb'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec92'}",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
         ],
         "locations": [],
-        "characters": [],
+        "characters": [
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd4'}",
+                "name": "Luke Skywalker",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd6'}",
+                "name": "R2-D2",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd8'}",
+                "name": "Leia Organa",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdb'}",
+                "name": "R5-D4",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdc'}",
+                "name": "Biggs Darklighter",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece0'}",
+                "name": "Chewbacca",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece1'}",
+                "name": "Han Solo",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece4'}",
+                "name": "Wedge Antilles",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece5'}",
+                "name": "Jek Tono Porkins",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeeceb'}",
+                "name": "Lando Calrissian",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecec'}",
+                "name": "Lobot",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeeced'}",
+                "name": "Ackbar",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecee'}",
+                "name": "Mon Mothma",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecef'}",
+                "name": "Arvel Crynyd",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf0'}",
+                "name": "Wicket Systri Warrick",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf1'}",
+                "name": "Nien Nunb",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed16'}",
+                "name": "Bail Prestor Organa",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed23'}",
+                "name": "Raymus Antilles",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd5'}",
+                "name": "C-3PO",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd7'}",
+                "name": "Darth Vader",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdf'}",
+                "name": "Wilhuff Tarkin",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece3'}",
+                "name": "Jabba Desilijic Tiure",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece7'}",
+                "name": "Palpatine",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece9'}",
+                "name": "IG-88",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecea'}",
+                "name": "Bossk",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed13'}",
+                "name": "Barriss Offee",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed1a'}",
+                "name": "Lama Su",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed24'}",
+                "name": "Sly Moore",
+                "role": ""
+            }
+        ],
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c83"
+            "$oid": "68686778339655f42bbeed4a"
         }
     },
     {
@@ -29,20 +170,161 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcc'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec93'}",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcb'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec92'}",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
         ],
         "locations": [],
-        "characters": [],
+        "characters": [
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd4'}",
+                "name": "Luke Skywalker",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd6'}",
+                "name": "R2-D2",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd8'}",
+                "name": "Leia Organa",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdb'}",
+                "name": "R5-D4",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdc'}",
+                "name": "Biggs Darklighter",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece0'}",
+                "name": "Chewbacca",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece1'}",
+                "name": "Han Solo",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece4'}",
+                "name": "Wedge Antilles",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece5'}",
+                "name": "Jek Tono Porkins",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeeceb'}",
+                "name": "Lando Calrissian",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecec'}",
+                "name": "Lobot",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeeced'}",
+                "name": "Ackbar",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecee'}",
+                "name": "Mon Mothma",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecef'}",
+                "name": "Arvel Crynyd",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf0'}",
+                "name": "Wicket Systri Warrick",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf1'}",
+                "name": "Nien Nunb",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed16'}",
+                "name": "Bail Prestor Organa",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed23'}",
+                "name": "Raymus Antilles",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd5'}",
+                "name": "C-3PO",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd7'}",
+                "name": "Darth Vader",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdf'}",
+                "name": "Wilhuff Tarkin",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece3'}",
+                "name": "Jabba Desilijic Tiure",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece7'}",
+                "name": "Palpatine",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece9'}",
+                "name": "IG-88",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecea'}",
+                "name": "Bossk",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed13'}",
+                "name": "Barriss Offee",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed1a'}",
+                "name": "Lama Su",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed24'}",
+                "name": "Sly Moore",
+                "role": ""
+            }
+        ],
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c84"
+            "$oid": "68686778339655f42bbeed4b"
         }
     },
     {
@@ -52,20 +334,161 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcc'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec93'}",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcb'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec92'}",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
         ],
         "locations": [],
-        "characters": [],
+        "characters": [
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd4'}",
+                "name": "Luke Skywalker",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd6'}",
+                "name": "R2-D2",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd8'}",
+                "name": "Leia Organa",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdb'}",
+                "name": "R5-D4",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdc'}",
+                "name": "Biggs Darklighter",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece0'}",
+                "name": "Chewbacca",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece1'}",
+                "name": "Han Solo",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece4'}",
+                "name": "Wedge Antilles",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece5'}",
+                "name": "Jek Tono Porkins",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeeceb'}",
+                "name": "Lando Calrissian",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecec'}",
+                "name": "Lobot",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeeced'}",
+                "name": "Ackbar",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecee'}",
+                "name": "Mon Mothma",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecef'}",
+                "name": "Arvel Crynyd",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf0'}",
+                "name": "Wicket Systri Warrick",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf1'}",
+                "name": "Nien Nunb",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed16'}",
+                "name": "Bail Prestor Organa",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed23'}",
+                "name": "Raymus Antilles",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd5'}",
+                "name": "C-3PO",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd7'}",
+                "name": "Darth Vader",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdf'}",
+                "name": "Wilhuff Tarkin",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece3'}",
+                "name": "Jabba Desilijic Tiure",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece7'}",
+                "name": "Palpatine",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece9'}",
+                "name": "IG-88",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecea'}",
+                "name": "Bossk",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed13'}",
+                "name": "Barriss Offee",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed1a'}",
+                "name": "Lama Su",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed24'}",
+                "name": "Sly Moore",
+                "role": ""
+            }
+        ],
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c85"
+            "$oid": "68686778339655f42bbeed4c"
         }
     },
     {
@@ -75,25 +498,31 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "686858b50e16e4c10ad73c7e",
+                "faction_id": "68686778339655f42bbeed45",
                 "name": "Naboo",
                 "role": "minor"
             },
             {
-                "faction_id": "686858b50e16e4c10ad73c7f",
+                "faction_id": "68686778339655f42bbeed46",
                 "name": "Gungans",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bce'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec95'}",
                 "name": "Trade Federation",
                 "role": "minor"
             }
         ],
         "locations": [],
-        "characters": [],
+        "characters": [
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf3'}",
+                "name": "Nute Gunray",
+                "role": ""
+            }
+        ],
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c86"
+            "$oid": "68686778339655f42bbeed4d"
         }
     },
     {
@@ -103,20 +532,156 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcd'}",
+                "faction_id": "{'$oid': '68686778339655f42bbeec94'}",
                 "name": "Galactic Republic",
                 "role": "minor"
             },
             {
-                "faction_id": "686858b50e16e4c10ad73c82",
+                "faction_id": "68686778339655f42bbeed49",
                 "name": "Separatists",
                 "role": "minor"
             }
         ],
         "locations": [],
-        "characters": [],
+        "characters": [
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecd6'}",
+                "name": "R2-D2",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecdf'}",
+                "name": "Wilhuff Tarkin",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece3'}",
+                "name": "Jabba Desilijic Tiure",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeece7'}",
+                "name": "Palpatine",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeeced'}",
+                "name": "Ackbar",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecee'}",
+                "name": "Mon Mothma",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf4'}",
+                "name": "Finis Valorum",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf5'}",
+                "name": "Padmé Amidala",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf6'}",
+                "name": "Jar Jar Binks",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecf7'}",
+                "name": "Roos Tarpals",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeecfc'}",
+                "name": "Quarsh Panaka",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed04'}",
+                "name": "Ben Quadinaros",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed06'}",
+                "name": "Ki-Adi-Mundi",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed0d'}",
+                "name": "Mas Amedda",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed0e'}",
+                "name": "Gregar Typho",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed0f'}",
+                "name": "Cordé",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed11'}",
+                "name": "Poggle the Lesser",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed14'}",
+                "name": "Dormé",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed16'}",
+                "name": "Bail Prestor Organa",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed17'}",
+                "name": "Jango Fett",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed19'}",
+                "name": "Dexter Jettster",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed1a'}",
+                "name": "Lama Su",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed1b'}",
+                "name": "Taun We",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed22'}",
+                "name": "Tarfful",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed23'}",
+                "name": "Raymus Antilles",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed24'}",
+                "name": "Sly Moore",
+                "role": ""
+            },
+            {
+                "character_id": "{'$oid': '68686778339655f42bbeed25'}",
+                "name": "Tion Medon",
+                "role": ""
+            }
+        ],
         "_id": {
-            "$oid": "686858b50e16e4c10ad73c87"
+            "$oid": "68686778339655f42bbeed4e"
         }
     }
 ]
