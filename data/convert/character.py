@@ -10,6 +10,7 @@ def character_to_mongo(
     mass_str = data.get("mass")
     homeworld_url = data.get("homeworld")
     species_urls = data.get("species", [])
+    weapon = data.get("weapon", {})
 
     height = int(height_str) if height_str and height_str.lower() != 'unknown' else 0
     if height < 0:
@@ -22,6 +23,13 @@ def character_to_mongo(
     homeworld_id = homeworld_url
     species_id = "" if len(species_urls) == 0 else species_urls[0]
     faction_ids: List[Any] = []
+    weapon_data = {
+        "name": weapon.get("name", "None"),
+        "type": weapon.get("type", "None"),
+        "manufacturer": weapon.get("manufacturer", "None"),
+    }
+    if "crystal_color" in weapon and weapon["crystal_color"]:
+        weapon_data["crystal_color"] = weapon["crystal_color"]
 
     return {
         "name": name,
@@ -30,5 +38,6 @@ def character_to_mongo(
         "mass": mass,
         "homeworld_id": homeworld_id,
         "species_id": species_id,
-        "faction_ids": faction_ids
+        "faction_ids": faction_ids,
+        "weapon": weapon_data
     }

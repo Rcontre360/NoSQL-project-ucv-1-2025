@@ -6,12 +6,12 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6184'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcc'}",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6183'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcb'}",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
@@ -19,7 +19,7 @@
         "locations": [],
         "characters": [],
         "_id": {
-            "$oid": "68682b41be9584d50ddc623b"
+            "$oid": "686858b50e16e4c10ad73c83"
         }
     },
     {
@@ -29,12 +29,12 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6184'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcc'}",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6183'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcb'}",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
@@ -42,7 +42,7 @@
         "locations": [],
         "characters": [],
         "_id": {
-            "$oid": "68682b41be9584d50ddc623c"
+            "$oid": "686858b50e16e4c10ad73c84"
         }
     },
     {
@@ -52,12 +52,12 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6184'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcc'}",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6183'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcb'}",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
@@ -65,7 +65,7 @@
         "locations": [],
         "characters": [],
         "_id": {
-            "$oid": "68682b41be9584d50ddc623d"
+            "$oid": "686858b50e16e4c10ad73c85"
         }
     },
     {
@@ -75,17 +75,17 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "68682b41be9584d50ddc6236",
+                "faction_id": "686858b50e16e4c10ad73c7e",
                 "name": "Naboo",
                 "role": "minor"
             },
             {
-                "faction_id": "68682b41be9584d50ddc6237",
+                "faction_id": "686858b50e16e4c10ad73c7f",
                 "name": "Gungans",
                 "role": "minor"
             },
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6186'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bce'}",
                 "name": "Trade Federation",
                 "role": "minor"
             }
@@ -93,7 +93,7 @@
         "locations": [],
         "characters": [],
         "_id": {
-            "$oid": "68682b41be9584d50ddc623e"
+            "$oid": "686858b50e16e4c10ad73c86"
         }
     },
     {
@@ -103,12 +103,12 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "{'$oid': '68682b41be9584d50ddc6185'}",
+                "faction_id": "{'$oid': '686858b50e16e4c10ad73bcd'}",
                 "name": "Galactic Republic",
                 "role": "minor"
             },
             {
-                "faction_id": "68682b41be9584d50ddc623a",
+                "faction_id": "686858b50e16e4c10ad73c82",
                 "name": "Separatists",
                 "role": "minor"
             }
@@ -116,7 +116,7 @@
         "locations": [],
         "characters": [],
         "_id": {
-            "$oid": "68682b41be9584d50ddc623f"
+            "$oid": "686858b50e16e4c10ad73c87"
         }
     }
 ]

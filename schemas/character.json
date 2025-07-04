@@ -8,8 +8,7 @@
       "mass",
       "homeworld_id",
       "species_id",
-      "faction_ids",
-      "weapon"
+      "faction_ids"
     ],
     "properties": {
       "name": {
