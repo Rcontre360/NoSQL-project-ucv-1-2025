@@ -8,7 +8,8 @@
       "mass",
       "homeworld_id",
       "species_id",
-      "faction_ids"
+      "faction_ids",
+      "weapon"
     ],
     "properties": {
       "name": {
@@ -35,6 +36,28 @@
         "bsonType": "array",
         "items": {
           "bsonType": "objectId"
+        }
+      },
+      "weapon": {
+        "bsonType": "object",
+        "required": [
+          "name",
+          "type",
+          "manufacturer"
+        ],
+        "properties": {
+          "name": {
+            "bsonType": "string"
+          },
+          "type": {
+            "bsonType": "string"
+          },
+          "manufacturer": {
+            "bsonType": "string"
+          },
+          "crystal_color": {
+            "bsonType": "string"
+          }
         }
       }
     }
