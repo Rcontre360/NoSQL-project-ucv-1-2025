@@ -1,0 +1,487 @@
+[
+    {
+        "character_name": "Luke Skywalker",
+        "faction_names": [
+            "Jedi Order",
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "C-3PO",
+        "faction_names": [
+            "Sith Order",
+            "Galactic Empire"
+        ]
+    },
+    {
+        "character_name": "R2-D2",
+        "faction_names": [
+            "Galactic Republic",
+            "Rebel Alliance",
+            "Resistance"
+        ]
+    },
+    {
+        "character_name": "Darth Vader",
+        "faction_names": [
+            "Sith Order",
+            "Galactic Empire"
+        ]
+    },
+    {
+        "character_name": "Leia Organa",
+        "faction_names": [
+            "Rebel Alliance",
+            "Resistance"
+        ]
+    },
+    {
+        "character_name":"Owen Lars"
+    },
+    {
+        "character_name": "Beru Whitesun lars"
+    },
+    {
+        "character_name": "R5-D4",
+        "faction_names": [
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Biggs Darklighter",
+        "faction_names": [
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Obi-Wan Kenobi",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Anakin Skywalker",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Wilhuff Tarkin",
+        "faction_names": [
+            "Galactic Empire",
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Chewbacca",
+        "faction_names": [
+            "Rebel Alliance",
+            "Resistance"
+        ]
+    },
+    {
+        "character_name": "Han Solo",
+        "faction_names": [
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Greedo"
+    },
+    {
+        "character_name": "Jabba Desilijic Tiure",
+        "faction_names":[
+            "Galactic Empire",
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Wedge Antilles",
+        "faction_names": [
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Jek Tono Porkins",
+        "faction_names":[
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Yoda",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Palpatine",
+        "faction_names": [
+            "Sith Order",
+            "Galactic Empire",
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Boba Fett"
+    },
+    {
+        "character_name": "IG-88",
+        "faction_names": [
+            "Galactic Empire"
+        ]
+    },
+    {
+        "character_name": "Bossk",
+        "faction_names":[
+            "Galactic Empire"
+        ]
+    },
+    {
+        "character_name": "Lando Calrissian",
+        "faction_names": [
+            "Rebel Alliance",
+            "Resistance"
+        ]
+    },
+    {
+        "character_name": "Lobot",
+        "faction_names": [
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Ackbar",
+        "faction_names": [
+            "Rebel Alliance",
+            "Galactic Republic",
+            "Resistance"
+        ]
+    },
+    {
+        "character_name": "Mon Mothma",
+        "faction_names": [
+            "Galactic Republic",
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Arvel Crynyd",
+        "faction_names": [
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Wicket Systri Warrick",
+        "faction_names": [
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Nien Nunb",
+        "faction_names": [
+            "Rebel Alliance",
+            "Resistance"
+        ]
+    },
+    {
+        "character_name": "Qui-Gon Jinn",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Nute Gunray",
+        "faction_names": [
+            "Trade Federation"
+        ]
+    },
+    {
+        "character_name": "Finis Valorum",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Padmé Amidala",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Jar Jar Binks",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Roos Tarpals",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Rugor Nass"
+    },
+    {
+        "character_name": "Ric Olié"
+    },
+    {
+        "character_name": "Watto"
+    },
+    {
+        "character_name": "Sebulba"
+    },
+    {
+        "character_name": "Quarsh Panaka",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Shmi Skywalker"
+    },
+    {
+        "character_name": "Darth Maul",
+        "faction_names": [
+            "Sith Order"
+        ]
+    },
+    {
+        "character_name": "Bib Fortuna"
+    },
+    {
+        "character_name": "Ayla Secura",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Ratts Tyerel"
+    },
+    {
+        "character_name": "Dud Bolt"
+    },
+    {
+        "character_name": "Gasgano"
+    },
+    {
+        "character_name": "Ben Quadinaros",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+       "character_name": "Mace Windu",
+        "faction_names": [
+            "Jedi Order"
+        ] 
+    },
+    {
+        "character_name": "Ki-Adi-Mundi",
+        "faction_names": [
+            "Jedi Order",
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Kit Fisto",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Eeth Koth",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Adi Gallia",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Saesee Tiin",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Yarael Poof",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Plo Koon",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Mas Amedda",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Gregar Typho",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Cordé",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Cliegg Lars"
+    },
+    {
+        "character_name": "Poggle the Lesser",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Luminara Unduli",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Barriss Offee",
+        "faction_names": [
+            "Jedi Order",
+            "Galactic Empire"
+        ]
+    },
+    {
+        "character_name": "Dormé",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Dooku",
+        "faction_names": [
+            "Sith Order",
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Bail Prestor Organa",
+        "faction_names": [
+            "Galactic Republic",
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Jango Fett",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Zam Wesell"
+    },
+    {
+        "character_name": "Dexter Jettster",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Lama Su",
+        "faction_names": [
+            "Galactic Republic",
+            "Galactic Empire",
+            "Sith Order"
+        ]
+    },
+    {
+        "character_name": "Taun We",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Jocasta Nu",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "R4-P17",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Wat Tambor"
+    },
+    {
+        "character_name": "San Hill"
+    },
+    {
+        "character_name": "Shaak Ti",
+        "faction_names": [
+            "Jedi Order"
+        ]
+    },
+    {
+        "character_name": "Grievous"
+    },
+    {
+        "character_name": "Tarfful",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    },
+    {
+        "character_name": "Raymus Antilles",
+        "faction_names": [
+            "Galactic Republic",
+            "Rebel Alliance"
+        ]
+    },
+    {
+        "character_name": "Sly Moore",
+        "faction_names": [
+            "Galactic Republic",
+            "Galactic Empire"
+        ]
+    },
+    {
+        "character_name": "Tion Medon",
+        "faction_names": [
+            "Galactic Republic"
+        ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
