@@ -6,19 +6,19 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "68681e8149fb6fafac537931",
+                "faction_id": "686827707fe5bb413bff04dd",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "68681e8149fb6fafac537930",
+                "faction_id": "686827707fe5bb413bff04dc",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
         ],
         "locations": [],
         "characters": [],
-        "_id": "68681e8149fb6fafac5379e8"
+        "_id": "686827707fe5bb413bff0594"
     },
     {
         "name": "Battle of Hoth",
@@ -27,19 +27,19 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "68681e8149fb6fafac537931",
+                "faction_id": "686827707fe5bb413bff04dd",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "68681e8149fb6fafac537930",
+                "faction_id": "686827707fe5bb413bff04dc",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
         ],
         "locations": [],
         "characters": [],
-        "_id": "68681e8149fb6fafac5379e9"
+        "_id": "686827707fe5bb413bff0595"
     },
     {
         "name": "Battle of Endor",
@@ -48,19 +48,19 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "68681e8149fb6fafac537931",
+                "faction_id": "686827707fe5bb413bff04dd",
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
-                "faction_id": "68681e8149fb6fafac537930",
+                "faction_id": "686827707fe5bb413bff04dc",
                 "name": "Galactic Empire",
                 "role": "minor"
             }
         ],
         "locations": [],
         "characters": [],
-        "_id": "68681e8149fb6fafac5379ea"
+        "_id": "686827707fe5bb413bff0596"
     },
     {
         "name": "Battle of Naboo",
@@ -69,24 +69,24 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "68681e8149fb6fafac5379e3",
+                "faction_id": "686827707fe5bb413bff058f",
                 "name": "Naboo",
                 "role": "minor"
             },
             {
-                "faction_id": "68681e8149fb6fafac5379e4",
+                "faction_id": "686827707fe5bb413bff0590",
                 "name": "Gungans",
                 "role": "minor"
             },
             {
-                "faction_id": "68681e8149fb6fafac537933",
+                "faction_id": "686827707fe5bb413bff04df",
                 "name": "Trade Federation",
                 "role": "minor"
             }
         ],
         "locations": [],
         "characters": [],
-        "_id": "68681e8149fb6fafac5379eb"
+        "_id": "686827707fe5bb413bff0597"
     },
     {
         "name": "Battle of Geonosis",
@@ -95,18 +95,18 @@
         "movie_id": "",
         "factions": [
             {
-                "faction_id": "68681e8149fb6fafac537932",
+                "faction_id": "686827707fe5bb413bff04de",
                 "name": "Galactic Republic",
                 "role": "minor"
             },
             {
-                "faction_id": "68681e8149fb6fafac5379e7",
+                "faction_id": "686827707fe5bb413bff0593",
                 "name": "Separatists",
                 "role": "minor"
             }
         ],
         "locations": [],
         "characters": [],
-        "_id": "68681e8149fb6fafac5379ec"
+        "_id": "686827707fe5bb413bff0598"
     }
 ]

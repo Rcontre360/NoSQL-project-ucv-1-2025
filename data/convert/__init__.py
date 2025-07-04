@@ -9,16 +9,18 @@ from .weapon import weapon_to_mongo
 from .faction import faction_to_mongo
 from .location import city_to_mongo
 from .historic_event import battle_to_mongo
+from .movie import movie_to_mongo
 
 __all__ = [
-    "planet_to_mongo"
-    "character_to_mongo"
-    "specie_to_mongo"
-    "starship_to_mongo"
-    "vehicle_to_mongo"
-    "weapon_to_mongo"
-    "faction_to_mongo"
-    "city_to_mongo"
-    "battle_to_mongo"
+    "planet_to_mongo",
+    "character_to_mongo",
+    "specie_to_mongo",
+    "starship_to_mongo",
+    "vehicle_to_mongo",
+    "weapon_to_mongo",
+    "faction_to_mongo",
+    "city_to_mongo",
+    "battle_to_mongo",
+    "movie_to_mongo",
 ]
 

@@ -4,819 +4,819 @@
         "gender": "male",
         "height": 172,
         "mass": 77,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537972"
+        "_id": "686827707fe5bb413bff051e"
     },
     {
         "name": "C-3PO",
         "gender": "n/a",
         "height": 167,
         "mass": 75,
-        "homeworld_id": "68681e8149fb6fafac537936",
-        "species_id": "68681e8149fb6fafac5378a7",
+        "homeworld_id": "686827707fe5bb413bff04e2",
+        "species_id": "686827707fe5bb413bff0453",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537973"
+        "_id": "686827707fe5bb413bff051f"
     },
     {
         "name": "R2-D2",
         "gender": "n/a",
         "height": 96,
         "mass": 32,
-        "homeworld_id": "68681e8149fb6fafac53793d",
-        "species_id": "68681e8149fb6fafac5378a7",
+        "homeworld_id": "686827707fe5bb413bff04e9",
+        "species_id": "686827707fe5bb413bff0453",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537974"
+        "_id": "686827707fe5bb413bff0520"
     },
     {
         "name": "Darth Vader",
         "gender": "male",
         "height": 202,
         "mass": 136,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537975"
+        "_id": "686827707fe5bb413bff0521"
     },
     {
         "name": "Leia Organa",
         "gender": "female",
         "height": 150,
         "mass": 49,
-        "homeworld_id": "68681e8149fb6fafac537937",
+        "homeworld_id": "686827707fe5bb413bff04e3",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537976"
+        "_id": "686827707fe5bb413bff0522"
     },
     {
         "name": "Owen Lars",
         "gender": "male",
         "height": 178,
         "mass": 120,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537977"
+        "_id": "686827707fe5bb413bff0523"
     },
     {
         "name": "Beru Whitesun lars",
         "gender": "female",
         "height": 165,
         "mass": 75,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537978"
+        "_id": "686827707fe5bb413bff0524"
     },
     {
         "name": "R5-D4",
         "gender": "n/a",
         "height": 97,
         "mass": 32,
-        "homeworld_id": "68681e8149fb6fafac537936",
-        "species_id": "68681e8149fb6fafac5378a7",
+        "homeworld_id": "686827707fe5bb413bff04e2",
+        "species_id": "686827707fe5bb413bff0453",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537979"
+        "_id": "686827707fe5bb413bff0525"
     },
     {
         "name": "Biggs Darklighter",
         "gender": "male",
         "height": 183,
         "mass": 84,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53797a"
+        "_id": "686827707fe5bb413bff0526"
     },
     {
         "name": "Obi-Wan Kenobi",
         "gender": "male",
         "height": 182,
         "mass": 77,
-        "homeworld_id": "68681e8149fb6fafac537949",
+        "homeworld_id": "686827707fe5bb413bff04f5",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53797b"
+        "_id": "686827707fe5bb413bff0527"
     },
     {
         "name": "Anakin Skywalker",
         "gender": "male",
         "height": 188,
         "mass": 84,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53797c"
+        "_id": "686827707fe5bb413bff0528"
     },
     {
         "name": "Wilhuff Tarkin",
         "gender": "male",
         "height": 180,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53794a",
+        "homeworld_id": "686827707fe5bb413bff04f6",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53797d"
+        "_id": "686827707fe5bb413bff0529"
     },
     {
         "name": "Chewbacca",
         "gender": "male",
         "height": 228,
         "mass": 112,
-        "homeworld_id": "68681e8149fb6fafac537943",
-        "species_id": "68681e8149fb6fafac5378a8",
+        "homeworld_id": "686827707fe5bb413bff04ef",
+        "species_id": "686827707fe5bb413bff0454",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53797e"
+        "_id": "686827707fe5bb413bff052a"
     },
     {
         "name": "Han Solo",
         "gender": "male",
         "height": 180,
         "mass": 80,
-        "homeworld_id": "68681e8149fb6fafac53794b",
+        "homeworld_id": "686827707fe5bb413bff04f7",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53797f"
+        "_id": "686827707fe5bb413bff052b"
     },
     {
         "name": "Greedo",
         "gender": "male",
         "height": 173,
         "mass": 74,
-        "homeworld_id": "68681e8149fb6fafac53794c",
-        "species_id": "68681e8149fb6fafac5378a9",
+        "homeworld_id": "686827707fe5bb413bff04f8",
+        "species_id": "686827707fe5bb413bff0455",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537980"
+        "_id": "686827707fe5bb413bff052c"
     },
     {
         "name": "Jabba Desilijic Tiure",
         "gender": "hermaphrodite",
         "height": 175,
         "mass": 1358,
-        "homeworld_id": "68681e8149fb6fafac53794d",
-        "species_id": "68681e8149fb6fafac5378aa",
+        "homeworld_id": "686827707fe5bb413bff04f9",
+        "species_id": "686827707fe5bb413bff0456",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537981"
+        "_id": "686827707fe5bb413bff052d"
     },
     {
         "name": "Wedge Antilles",
         "gender": "male",
         "height": 170,
         "mass": 77,
-        "homeworld_id": "68681e8149fb6fafac53794b",
+        "homeworld_id": "686827707fe5bb413bff04f7",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537982"
+        "_id": "686827707fe5bb413bff052e"
     },
     {
         "name": "Jek Tono Porkins",
         "gender": "male",
         "height": 180,
         "mass": 110,
-        "homeworld_id": "68681e8149fb6fafac53794f",
+        "homeworld_id": "686827707fe5bb413bff04fb",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537983"
+        "_id": "686827707fe5bb413bff052f"
     },
     {
         "name": "Yoda",
         "gender": "male",
         "height": 66,
         "mass": 17,
-        "homeworld_id": "68681e8149fb6fafac537951",
-        "species_id": "68681e8149fb6fafac5378ab",
+        "homeworld_id": "686827707fe5bb413bff04fd",
+        "species_id": "686827707fe5bb413bff0457",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537984"
+        "_id": "686827707fe5bb413bff0530"
     },
     {
         "name": "Palpatine",
         "gender": "male",
         "height": 170,
         "mass": 75,
-        "homeworld_id": "68681e8149fb6fafac53793d",
+        "homeworld_id": "686827707fe5bb413bff04e9",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537985"
+        "_id": "686827707fe5bb413bff0531"
     },
     {
         "name": "Boba Fett",
         "gender": "male",
         "height": 183,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793f",
+        "homeworld_id": "686827707fe5bb413bff04eb",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537986"
+        "_id": "686827707fe5bb413bff0532"
     },
     {
         "name": "IG-88",
         "gender": "none",
         "height": 200,
         "mass": 140,
-        "homeworld_id": "68681e8149fb6fafac537951",
-        "species_id": "68681e8149fb6fafac5378a7",
+        "homeworld_id": "686827707fe5bb413bff04fd",
+        "species_id": "686827707fe5bb413bff0453",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537987"
+        "_id": "686827707fe5bb413bff0533"
     },
     {
         "name": "Bossk",
         "gender": "male",
         "height": 190,
         "mass": 113,
-        "homeworld_id": "68681e8149fb6fafac537952",
-        "species_id": "68681e8149fb6fafac5378ac",
+        "homeworld_id": "686827707fe5bb413bff04fe",
+        "species_id": "686827707fe5bb413bff0458",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537988"
+        "_id": "686827707fe5bb413bff0534"
     },
     {
         "name": "Lando Calrissian",
         "gender": "male",
         "height": 177,
         "mass": 79,
-        "homeworld_id": "68681e8149fb6fafac537953",
+        "homeworld_id": "686827707fe5bb413bff04ff",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537989"
+        "_id": "686827707fe5bb413bff0535"
     },
     {
         "name": "Lobot",
         "gender": "male",
         "height": 175,
         "mass": 79,
-        "homeworld_id": "68681e8149fb6fafac53793b",
+        "homeworld_id": "686827707fe5bb413bff04e7",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53798a"
+        "_id": "686827707fe5bb413bff0536"
     },
     {
         "name": "Ackbar",
         "gender": "male",
         "height": 180,
         "mass": 83,
-        "homeworld_id": "68681e8149fb6fafac537954",
-        "species_id": "68681e8149fb6fafac5378ad",
+        "homeworld_id": "686827707fe5bb413bff0500",
+        "species_id": "686827707fe5bb413bff0459",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53798b"
+        "_id": "686827707fe5bb413bff0537"
     },
     {
         "name": "Mon Mothma",
         "gender": "female",
         "height": 150,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537955",
+        "homeworld_id": "686827707fe5bb413bff0501",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53798c"
+        "_id": "686827707fe5bb413bff0538"
     },
     {
         "name": "Arvel Crynyd",
         "gender": "male",
         "height": 0,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537951",
+        "homeworld_id": "686827707fe5bb413bff04fd",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53798d"
+        "_id": "686827707fe5bb413bff0539"
     },
     {
         "name": "Wicket Systri Warrick",
         "gender": "male",
         "height": 88,
         "mass": 20,
-        "homeworld_id": "68681e8149fb6fafac53793c",
-        "species_id": "68681e8149fb6fafac5378ae",
+        "homeworld_id": "686827707fe5bb413bff04e8",
+        "species_id": "686827707fe5bb413bff045a",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53798e"
+        "_id": "686827707fe5bb413bff053a"
     },
     {
         "name": "Nien Nunb",
         "gender": "male",
         "height": 160,
         "mass": 68,
-        "homeworld_id": "68681e8149fb6fafac537956",
-        "species_id": "68681e8149fb6fafac5378af",
+        "homeworld_id": "686827707fe5bb413bff0502",
+        "species_id": "686827707fe5bb413bff045b",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53798f"
+        "_id": "686827707fe5bb413bff053b"
     },
     {
         "name": "Qui-Gon Jinn",
         "gender": "male",
         "height": 193,
         "mass": 89,
-        "homeworld_id": "68681e8149fb6fafac537951",
+        "homeworld_id": "686827707fe5bb413bff04fd",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537990"
+        "_id": "686827707fe5bb413bff053c"
     },
     {
         "name": "Nute Gunray",
         "gender": "male",
         "height": 191,
         "mass": 90,
-        "homeworld_id": "68681e8149fb6fafac537947",
-        "species_id": "68681e8149fb6fafac5378b0",
+        "homeworld_id": "686827707fe5bb413bff04f3",
+        "species_id": "686827707fe5bb413bff045c",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537991"
+        "_id": "686827707fe5bb413bff053d"
     },
     {
         "name": "Finis Valorum",
         "gender": "male",
         "height": 170,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793e",
+        "homeworld_id": "686827707fe5bb413bff04ea",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537992"
+        "_id": "686827707fe5bb413bff053e"
     },
     {
         "name": "Padmé Amidala",
         "gender": "female",
         "height": 185,
         "mass": 45,
-        "homeworld_id": "68681e8149fb6fafac53793d",
+        "homeworld_id": "686827707fe5bb413bff04e9",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537993"
+        "_id": "686827707fe5bb413bff053f"
     },
     {
         "name": "Jar Jar Binks",
         "gender": "male",
         "height": 196,
         "mass": 66,
-        "homeworld_id": "68681e8149fb6fafac53793d",
-        "species_id": "68681e8149fb6fafac5378b1",
+        "homeworld_id": "686827707fe5bb413bff04e9",
+        "species_id": "686827707fe5bb413bff045d",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537994"
+        "_id": "686827707fe5bb413bff0540"
     },
     {
         "name": "Roos Tarpals",
         "gender": "male",
         "height": 224,
         "mass": 82,
-        "homeworld_id": "68681e8149fb6fafac53793d",
-        "species_id": "68681e8149fb6fafac5378b1",
+        "homeworld_id": "686827707fe5bb413bff04e9",
+        "species_id": "686827707fe5bb413bff045d",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537995"
+        "_id": "686827707fe5bb413bff0541"
     },
     {
         "name": "Rugor Nass",
         "gender": "male",
         "height": 206,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793d",
-        "species_id": "68681e8149fb6fafac5378b1",
+        "homeworld_id": "686827707fe5bb413bff04e9",
+        "species_id": "686827707fe5bb413bff045d",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537996"
+        "_id": "686827707fe5bb413bff0542"
     },
     {
         "name": "Ric Olié",
         "gender": "male",
         "height": 183,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793d",
+        "homeworld_id": "686827707fe5bb413bff04e9",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537997"
+        "_id": "686827707fe5bb413bff0543"
     },
     {
         "name": "Watto",
         "gender": "male",
         "height": 137,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537957",
-        "species_id": "68681e8149fb6fafac5378b2",
+        "homeworld_id": "686827707fe5bb413bff0503",
+        "species_id": "686827707fe5bb413bff045e",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537998"
+        "_id": "686827707fe5bb413bff0544"
     },
     {
         "name": "Sebulba",
         "gender": "male",
         "height": 112,
         "mass": 40,
-        "homeworld_id": "68681e8149fb6fafac537958",
-        "species_id": "68681e8149fb6fafac5378b3",
+        "homeworld_id": "686827707fe5bb413bff0504",
+        "species_id": "686827707fe5bb413bff045f",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac537999"
+        "_id": "686827707fe5bb413bff0545"
     },
     {
         "name": "Quarsh Panaka",
         "gender": "male",
         "height": 183,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793d",
+        "homeworld_id": "686827707fe5bb413bff04e9",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53799a"
+        "_id": "686827707fe5bb413bff0546"
     },
     {
         "name": "Shmi Skywalker",
         "gender": "female",
         "height": 163,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53799b"
+        "_id": "686827707fe5bb413bff0547"
     },
     {
         "name": "Darth Maul",
         "gender": "male",
         "height": 175,
         "mass": 80,
-        "homeworld_id": "68681e8149fb6fafac537959",
-        "species_id": "68681e8149fb6fafac5378bb",
+        "homeworld_id": "686827707fe5bb413bff0505",
+        "species_id": "686827707fe5bb413bff0467",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53799c"
+        "_id": "686827707fe5bb413bff0548"
     },
     {
         "name": "Bib Fortuna",
         "gender": "male",
         "height": 180,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53795a",
-        "species_id": "68681e8149fb6fafac5378b4",
+        "homeworld_id": "686827707fe5bb413bff0506",
+        "species_id": "686827707fe5bb413bff0460",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53799d"
+        "_id": "686827707fe5bb413bff0549"
     },
     {
         "name": "Ayla Secura",
         "gender": "female",
         "height": 178,
         "mass": 55,
-        "homeworld_id": "68681e8149fb6fafac53795a",
-        "species_id": "68681e8149fb6fafac5378b4",
+        "homeworld_id": "686827707fe5bb413bff0506",
+        "species_id": "686827707fe5bb413bff0460",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53799e"
+        "_id": "686827707fe5bb413bff054a"
     },
     {
         "name": "Ratts Tyerel",
         "gender": "male",
         "height": 79,
         "mass": 15,
-        "homeworld_id": "68681e8149fb6fafac53795b",
-        "species_id": "68681e8149fb6fafac5378b5",
+        "homeworld_id": "686827707fe5bb413bff0507",
+        "species_id": "686827707fe5bb413bff0461",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac53799f"
+        "_id": "686827707fe5bb413bff054b"
     },
     {
         "name": "Dud Bolt",
         "gender": "male",
         "height": 94,
         "mass": 45,
-        "homeworld_id": "68681e8149fb6fafac53795c",
-        "species_id": "68681e8149fb6fafac5378b6",
+        "homeworld_id": "686827707fe5bb413bff0508",
+        "species_id": "686827707fe5bb413bff0462",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a0"
+        "_id": "686827707fe5bb413bff054c"
     },
     {
         "name": "Gasgano",
         "gender": "male",
         "height": 122,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53795d",
-        "species_id": "68681e8149fb6fafac5378b7",
+        "homeworld_id": "686827707fe5bb413bff0509",
+        "species_id": "686827707fe5bb413bff0463",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a1"
+        "_id": "686827707fe5bb413bff054d"
     },
     {
         "name": "Ben Quadinaros",
         "gender": "male",
         "height": 163,
         "mass": 65,
-        "homeworld_id": "68681e8149fb6fafac53795e",
-        "species_id": "68681e8149fb6fafac5378b8",
+        "homeworld_id": "686827707fe5bb413bff050a",
+        "species_id": "686827707fe5bb413bff0464",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a2"
+        "_id": "686827707fe5bb413bff054e"
     },
     {
         "name": "Mace Windu",
         "gender": "male",
         "height": 188,
         "mass": 84,
-        "homeworld_id": "68681e8149fb6fafac53795f",
+        "homeworld_id": "686827707fe5bb413bff050b",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a3"
+        "_id": "686827707fe5bb413bff054f"
     },
     {
         "name": "Ki-Adi-Mundi",
         "gender": "male",
         "height": 198,
         "mass": 82,
-        "homeworld_id": "68681e8149fb6fafac537960",
-        "species_id": "68681e8149fb6fafac5378b9",
+        "homeworld_id": "686827707fe5bb413bff050c",
+        "species_id": "686827707fe5bb413bff0465",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a4"
+        "_id": "686827707fe5bb413bff0550"
     },
     {
         "name": "Kit Fisto",
         "gender": "male",
         "height": 196,
         "mass": 87,
-        "homeworld_id": "68681e8149fb6fafac537961",
-        "species_id": "68681e8149fb6fafac5378ba",
+        "homeworld_id": "686827707fe5bb413bff050d",
+        "species_id": "686827707fe5bb413bff0466",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a5"
+        "_id": "686827707fe5bb413bff0551"
     },
     {
         "name": "Eeth Koth",
         "gender": "male",
         "height": 171,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537962",
-        "species_id": "68681e8149fb6fafac5378bb",
+        "homeworld_id": "686827707fe5bb413bff050e",
+        "species_id": "686827707fe5bb413bff0467",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a6"
+        "_id": "686827707fe5bb413bff0552"
     },
     {
         "name": "Adi Gallia",
         "gender": "female",
         "height": 184,
         "mass": 50,
-        "homeworld_id": "68681e8149fb6fafac53793e",
-        "species_id": "68681e8149fb6fafac5378bc",
+        "homeworld_id": "686827707fe5bb413bff04ea",
+        "species_id": "686827707fe5bb413bff0468",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a7"
+        "_id": "686827707fe5bb413bff0553"
     },
     {
         "name": "Saesee Tiin",
         "gender": "male",
         "height": 188,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537964",
-        "species_id": "68681e8149fb6fafac5378bd",
+        "homeworld_id": "686827707fe5bb413bff0510",
+        "species_id": "686827707fe5bb413bff0469",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a8"
+        "_id": "686827707fe5bb413bff0554"
     },
     {
         "name": "Yarael Poof",
         "gender": "male",
         "height": 264,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537965",
-        "species_id": "68681e8149fb6fafac5378be",
+        "homeworld_id": "686827707fe5bb413bff0511",
+        "species_id": "686827707fe5bb413bff046a",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379a9"
+        "_id": "686827707fe5bb413bff0555"
     },
     {
         "name": "Plo Koon",
         "gender": "male",
         "height": 188,
         "mass": 80,
-        "homeworld_id": "68681e8149fb6fafac537966",
-        "species_id": "68681e8149fb6fafac5378bf",
+        "homeworld_id": "686827707fe5bb413bff0512",
+        "species_id": "686827707fe5bb413bff046b",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379aa"
+        "_id": "686827707fe5bb413bff0556"
     },
     {
         "name": "Mas Amedda",
         "gender": "male",
         "height": 196,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537967",
-        "species_id": "68681e8149fb6fafac5378c0",
+        "homeworld_id": "686827707fe5bb413bff0513",
+        "species_id": "686827707fe5bb413bff046c",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379ab"
+        "_id": "686827707fe5bb413bff0557"
     },
     {
         "name": "Gregar Typho",
         "gender": "male",
         "height": 185,
         "mass": 85,
-        "homeworld_id": "68681e8149fb6fafac53793d",
+        "homeworld_id": "686827707fe5bb413bff04e9",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379ac"
+        "_id": "686827707fe5bb413bff0558"
     },
     {
         "name": "Cordé",
         "gender": "female",
         "height": 157,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793d",
+        "homeworld_id": "686827707fe5bb413bff04e9",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379ad"
+        "_id": "686827707fe5bb413bff0559"
     },
     {
         "name": "Cliegg Lars",
         "gender": "male",
         "height": 183,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537936",
+        "homeworld_id": "686827707fe5bb413bff04e2",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379ae"
+        "_id": "686827707fe5bb413bff055a"
     },
     {
         "name": "Poggle the Lesser",
         "gender": "male",
         "height": 183,
         "mass": 80,
-        "homeworld_id": "68681e8149fb6fafac537940",
-        "species_id": "68681e8149fb6fafac5378c1",
+        "homeworld_id": "686827707fe5bb413bff04ec",
+        "species_id": "686827707fe5bb413bff046d",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379af"
+        "_id": "686827707fe5bb413bff055b"
     },
     {
         "name": "Luminara Unduli",
         "gender": "female",
         "height": 170,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537968",
-        "species_id": "68681e8149fb6fafac5378c2",
+        "homeworld_id": "686827707fe5bb413bff0514",
+        "species_id": "686827707fe5bb413bff046e",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b0"
+        "_id": "686827707fe5bb413bff055c"
     },
     {
         "name": "Barriss Offee",
         "gender": "female",
         "height": 166,
         "mass": 50,
-        "homeworld_id": "68681e8149fb6fafac537968",
-        "species_id": "68681e8149fb6fafac5378c2",
+        "homeworld_id": "686827707fe5bb413bff0514",
+        "species_id": "686827707fe5bb413bff046e",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b1"
+        "_id": "686827707fe5bb413bff055d"
     },
     {
         "name": "Dormé",
         "gender": "female",
         "height": 165,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793d",
-        "species_id": "68681e8149fb6fafac5378a6",
+        "homeworld_id": "686827707fe5bb413bff04e9",
+        "species_id": "686827707fe5bb413bff0452",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b2"
+        "_id": "686827707fe5bb413bff055e"
     },
     {
         "name": "Dooku",
         "gender": "male",
         "height": 193,
         "mass": 80,
-        "homeworld_id": "68681e8149fb6fafac537969",
-        "species_id": "68681e8149fb6fafac5378a6",
+        "homeworld_id": "686827707fe5bb413bff0515",
+        "species_id": "686827707fe5bb413bff0452",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b3"
+        "_id": "686827707fe5bb413bff055f"
     },
     {
         "name": "Bail Prestor Organa",
         "gender": "male",
         "height": 191,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537937",
-        "species_id": "68681e8149fb6fafac5378a6",
+        "homeworld_id": "686827707fe5bb413bff04e3",
+        "species_id": "686827707fe5bb413bff0452",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b4"
+        "_id": "686827707fe5bb413bff0560"
     },
     {
         "name": "Jango Fett",
         "gender": "male",
         "height": 183,
         "mass": 79,
-        "homeworld_id": "68681e8149fb6fafac53796a",
+        "homeworld_id": "686827707fe5bb413bff0516",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b5"
+        "_id": "686827707fe5bb413bff0561"
     },
     {
         "name": "Zam Wesell",
         "gender": "female",
         "height": 168,
         "mass": 55,
-        "homeworld_id": "68681e8149fb6fafac53796b",
-        "species_id": "68681e8149fb6fafac5378c3",
+        "homeworld_id": "686827707fe5bb413bff0517",
+        "species_id": "686827707fe5bb413bff046f",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b6"
+        "_id": "686827707fe5bb413bff0562"
     },
     {
         "name": "Dexter Jettster",
         "gender": "male",
         "height": 198,
         "mass": 102,
-        "homeworld_id": "68681e8149fb6fafac53796c",
-        "species_id": "68681e8149fb6fafac5378c4",
+        "homeworld_id": "686827707fe5bb413bff0518",
+        "species_id": "686827707fe5bb413bff0470",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b7"
+        "_id": "686827707fe5bb413bff0563"
     },
     {
         "name": "Lama Su",
         "gender": "male",
         "height": 229,
         "mass": 88,
-        "homeworld_id": "68681e8149fb6fafac53793f",
-        "species_id": "68681e8149fb6fafac5378c5",
+        "homeworld_id": "686827707fe5bb413bff04eb",
+        "species_id": "686827707fe5bb413bff0471",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b8"
+        "_id": "686827707fe5bb413bff0564"
     },
     {
         "name": "Taun We",
         "gender": "female",
         "height": 213,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793f",
-        "species_id": "68681e8149fb6fafac5378c5",
+        "homeworld_id": "686827707fe5bb413bff04eb",
+        "species_id": "686827707fe5bb413bff0471",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379b9"
+        "_id": "686827707fe5bb413bff0565"
     },
     {
         "name": "Jocasta Nu",
         "gender": "female",
         "height": 167,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53793e",
-        "species_id": "68681e8149fb6fafac5378a6",
+        "homeworld_id": "686827707fe5bb413bff04ea",
+        "species_id": "686827707fe5bb413bff0452",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379ba"
+        "_id": "686827707fe5bb413bff0566"
     },
     {
         "name": "R4-P17",
         "gender": "female",
         "height": 96,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac537951",
+        "homeworld_id": "686827707fe5bb413bff04fd",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379bb"
+        "_id": "686827707fe5bb413bff0567"
     },
     {
         "name": "Wat Tambor",
         "gender": "male",
         "height": 193,
         "mass": 48,
-        "homeworld_id": "68681e8149fb6fafac53796d",
-        "species_id": "68681e8149fb6fafac5378c6",
+        "homeworld_id": "686827707fe5bb413bff0519",
+        "species_id": "686827707fe5bb413bff0472",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379bc"
+        "_id": "686827707fe5bb413bff0568"
     },
     {
         "name": "San Hill",
         "gender": "male",
         "height": 191,
         "mass": 0,
-        "homeworld_id": "68681e8149fb6fafac53796e",
-        "species_id": "68681e8149fb6fafac5378c7",
+        "homeworld_id": "686827707fe5bb413bff051a",
+        "species_id": "686827707fe5bb413bff0473",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379bd"
+        "_id": "686827707fe5bb413bff0569"
     },
     {
         "name": "Shaak Ti",
         "gender": "female",
         "height": 178,
         "mass": 57,
-        "homeworld_id": "68681e8149fb6fafac53796f",
-        "species_id": "68681e8149fb6fafac5378c8",
+        "homeworld_id": "686827707fe5bb413bff051b",
+        "species_id": "686827707fe5bb413bff0474",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379be"
+        "_id": "686827707fe5bb413bff056a"
     },
     {
         "name": "Grievous",
         "gender": "male",
         "height": 216,
         "mass": 159,
-        "homeworld_id": "68681e8149fb6fafac537970",
-        "species_id": "68681e8149fb6fafac5378c9",
+        "homeworld_id": "686827707fe5bb413bff051c",
+        "species_id": "686827707fe5bb413bff0475",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379bf"
+        "_id": "686827707fe5bb413bff056b"
     },
     {
         "name": "Tarfful",
         "gender": "male",
         "height": 234,
         "mass": 136,
-        "homeworld_id": "68681e8149fb6fafac537943",
-        "species_id": "68681e8149fb6fafac5378a8",
+        "homeworld_id": "686827707fe5bb413bff04ef",
+        "species_id": "686827707fe5bb413bff0454",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379c0"
+        "_id": "686827707fe5bb413bff056c"
     },
     {
         "name": "Raymus Antilles",
         "gender": "male",
         "height": 188,
         "mass": 79,
-        "homeworld_id": "68681e8149fb6fafac537937",
+        "homeworld_id": "686827707fe5bb413bff04e3",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379c1"
+        "_id": "686827707fe5bb413bff056d"
     },
     {
         "name": "Sly Moore",
         "gender": "female",
         "height": 178,
         "mass": 48,
-        "homeworld_id": "68681e8149fb6fafac537971",
+        "homeworld_id": "686827707fe5bb413bff051d",
         "species_id": "",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379c2"
+        "_id": "686827707fe5bb413bff056e"
     },
     {
         "name": "Tion Medon",
         "gender": "male",
         "height": 206,
         "mass": 80,
-        "homeworld_id": "68681e8149fb6fafac537941",
-        "species_id": "68681e8149fb6fafac5378ca",
+        "homeworld_id": "686827707fe5bb413bff04ed",
+        "species_id": "686827707fe5bb413bff0476",
         "faction_ids": [],
-        "_id": "68681e8149fb6fafac5379c3"
+        "_id": "686827707fe5bb413bff056f"
     }
 ]

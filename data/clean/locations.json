@@ -1,62 +1,62 @@
 [
     {
         "name": "Mos Eisley",
-        "planet_id": "68681e8149fb6fafac537936",
+        "planet_id": "686827707fe5bb413bff04e2",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379d3"
+        "_id": "686827707fe5bb413bff057f"
     },
     {
         "name": "Theed",
-        "planet_id": "68681e8149fb6fafac53793d",
+        "planet_id": "686827707fe5bb413bff04e9",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379d4"
+        "_id": "686827707fe5bb413bff0580"
     },
     {
         "name": "Cloud City",
-        "planet_id": "68681e8149fb6fafac53793b",
+        "planet_id": "686827707fe5bb413bff04e7",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379d5"
+        "_id": "686827707fe5bb413bff0581"
     },
     {
         "name": "Coruscant",
-        "planet_id": "68681e8149fb6fafac53793e",
+        "planet_id": "686827707fe5bb413bff04ea",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379d6"
+        "_id": "686827707fe5bb413bff0582"
     },
     {
         "name": "Jedha City",
         "planet_id": "Jedha",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379d7"
+        "_id": "686827707fe5bb413bff0583"
     },
     {
         "name": "Canto Bight",
         "planet_id": "Cantonica",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379d8"
+        "_id": "686827707fe5bb413bff0584"
     },
     {
         "name": "Mos Espa",
-        "planet_id": "68681e8149fb6fafac537936",
+        "planet_id": "686827707fe5bb413bff04e2",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379d9"
+        "_id": "686827707fe5bb413bff0585"
     },
     {
         "name": "NiJedha",
         "planet_id": "Jedha",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379da"
+        "_id": "686827707fe5bb413bff0586"
     },
     {
         "name": "Tipoca City",
-        "planet_id": "68681e8149fb6fafac53793f",
+        "planet_id": "686827707fe5bb413bff04eb",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379db"
+        "_id": "686827707fe5bb413bff0587"
     },
     {
         "name": "Dahhh City",
-        "planet_id": "68681e8149fb6fafac537957",
+        "planet_id": "686827707fe5bb413bff0503",
         "location_type": "city",
-        "_id": "68681e8149fb6fafac5379dc"
+        "_id": "686827707fe5bb413bff0588"
     }
 ]
