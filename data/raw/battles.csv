@@ -1,6 +1,6 @@
-id,name,location,date,result,participants
-1,Battle of Yavin,Yavin IV,0 BBY,Rebel Victory,"Rebel Alliance, Galactic Empire"
-2,Battle of Hoth,Hoth,3 ABY,Imperial Victory,"Rebel Alliance, Galactic Empire"
-3,Battle of Endor,Endor,4 ABY,Rebel Victory,"Rebel Alliance, Galactic Empire"
-4,Battle of Naboo,Naboo,32 BBY,Naboo/Gungan Victory,"Naboo, Gungans, Trade Federation"
-5,Battle of Geonosis,Geonosis,22 BBY,Republic Victory,"Galactic Republic, Separatists"
+id,name,location,date,result,participants,description
+1,Battle of Yavin,Yavin IV,0 BBY,Rebel Victory,"Rebel Alliance, Galactic Empire","was a major and decisive battle of the Galactic Civil War in which the Rebel Alliance was able to destroy the Death Star"
+2,Battle of Hoth,Hoth,3 ABY,Imperial Victory,"Rebel Alliance, Galactic Empire","The battle was an Imperial invasion led by Darth Vader aimed at destroying the Rebel Alliance's Echo Base"
+3,Battle of Endor,Endor,4 ABY,Rebel Victory,"Rebel Alliance, Galactic Empire","the Alliance to Restore the Republic shattered the rule of the Galactic Empire and saw the destruction of the DS-2 Death Star "
+4,Battle of Naboo,Naboo,32 BBY,Naboo/Gungan Victory,"Naboo, Gungans, Trade Federation","was the final conflict of the Trade Federation's invasion of the planet Naboo."
+5,Battle of Geonosis,Geonosis,22 BBY,Republic Victory,"Galactic Republic, Separatists","first major battle fought in 22 BBY between the Confederacy of Independent Systems and the Galactic Republic on Geonosis"

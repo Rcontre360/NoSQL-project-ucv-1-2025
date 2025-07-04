@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Battle of Yavin",
+        "stardate": "0 BBY",
+        "description": "was a major and decisive battle of the Galactic Civil War in which the Rebel Alliance was able to destroy the Death Star",
+        "movie_id": "",
+        "factions": [
+            {
+                "faction_id": "68681e8149fb6fafac537931",
+                "name": "Rebel Alliance",
+                "role": "minor"
+            },
+            {
+                "faction_id": "68681e8149fb6fafac537930",
+                "name": "Galactic Empire",
+                "role": "minor"
+            }
+        ],
+        "locations": [],
+        "characters": [],
+        "_id": "68681e8149fb6fafac5379e8"
+    },
+    {
+        "name": "Battle of Hoth",
+        "stardate": "3 ABY",
+        "description": "The battle was an Imperial invasion led by Darth Vader aimed at destroying the Rebel Alliance's Echo Base",
+        "movie_id": "",
+        "factions": [
+            {
+                "faction_id": "68681e8149fb6fafac537931",
+                "name": "Rebel Alliance",
+                "role": "minor"
+            },
+            {
+                "faction_id": "68681e8149fb6fafac537930",
+                "name": "Galactic Empire",
+                "role": "minor"
+            }
+        ],
+        "locations": [],
+        "characters": [],
+        "_id": "68681e8149fb6fafac5379e9"
+    },
+    {
+        "name": "Battle of Endor",
+        "stardate": "4 ABY",
+        "description": "the Alliance to Restore the Republic shattered the rule of the Galactic Empire and saw the destruction of the DS-2 Death Star ",
+        "movie_id": "",
+        "factions": [
+            {
+                "faction_id": "68681e8149fb6fafac537931",
+                "name": "Rebel Alliance",
+                "role": "minor"
+            },
+            {
+                "faction_id": "68681e8149fb6fafac537930",
+                "name": "Galactic Empire",
+                "role": "minor"
+            }
+        ],
+        "locations": [],
+        "characters": [],
+        "_id": "68681e8149fb6fafac5379ea"
+    },
+    {
+        "name": "Battle of Naboo",
+        "stardate": "32 BBY",
+        "description": "was the final conflict of the Trade Federation's invasion of the planet Naboo.",
+        "movie_id": "",
+        "factions": [
+            {
+                "faction_id": "68681e8149fb6fafac5379e3",
+                "name": "Naboo",
+                "role": "minor"
+            },
+            {
+                "faction_id": "68681e8149fb6fafac5379e4",
+                "name": "Gungans",
+                "role": "minor"
+            },
+            {
+                "faction_id": "68681e8149fb6fafac537933",
+                "name": "Trade Federation",
+                "role": "minor"
+            }
+        ],
+        "locations": [],
+        "characters": [],
+        "_id": "68681e8149fb6fafac5379eb"
+    },
+    {
+        "name": "Battle of Geonosis",
+        "stardate": "22 BBY",
+        "description": "first major battle fought in 22 BBY between the Confederacy of Independent Systems and the Galactic Republic on Geonosis",
+        "movie_id": "",
+        "factions": [
+            {
+                "faction_id": "68681e8149fb6fafac537932",
+                "name": "Galactic Republic",
+                "role": "minor"
+            },
+            {
+                "faction_id": "68681e8149fb6fafac5379e7",
+                "name": "Separatists",
+                "role": "minor"
+            }
+        ],
+        "locations": [],
+        "characters": [],
+        "_id": "68681e8149fb6fafac5379ec"
+    }
+]
