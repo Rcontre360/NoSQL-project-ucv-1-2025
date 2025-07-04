@@ -1,62 +1,321 @@
 [
     {
-        "character_id": "6866b00e346f4aaa250fb7ee",
-        "weapon_id": "6866b00e346f4aaa250fb747",
+        "character_name": "Luke Skywalker",
+        "weapon_name": "Lightsaber",
         "color": "Green"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7ef"
+        "character_name": "C-3PO"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f0"
+        "character_name": "R2-D2"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f1",
-        "weapon_id": "6866b00e346f4aaa250fb747",
+        "character_name": "Darth Vader",
+        "weapon_name": "Lightsaber",
         "color": "Red"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f2",
-        "weapon_id": "6866b00e346f4aaa250fb750"
+        "character_name": "Leia Organa",
+        "weapon_name": "Westar-34 Blaster"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f3",
-        "weapon_id": "6866b00e346f4aaa250fb749"
+        "character_name": "Owen Lars",
+        "weapon_name": "E-11 Blaster Rifle"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f4",
-        "weapon_id": "6866b00e346f4aaa250fb749"
+        "character_name": "Beru Whitesun lars",
+        "weapon_name": "E-11 Blaster Rifle"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f5"
+        "character_name": "R5-D4"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f6",
-        "weapon_id": "6866b00e346f4aaa250fb748"
+        "character_name": "Biggs Darklighter",
+        "weapon_name": "DL-44 Blaster Pistol"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f7",
-        "weapon_id": "6866b00e346f4aaa250fb747",
+        "character_name": "Obi-Wan Kenobi",
+        "weapon_name": "Lightsaber",
         "color": "Blue"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f8",
-        "weapon_id": "6866b00e346f4aaa250fb747",
+        "character_name": "Anakin Skywalker",
+        "weapon_name": "Lightsaber",
         "color": "Blue"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7f9"
+        "character_name": "Wilhuff Tarkin"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7fa",
-        "weapon_id": "6866b00e346f4aaa250fb74a"
+        "character_name": "Chewbacca",
+        "weapon_name": "Bowcaster"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7fb",
-        "weapon_id": "6866b00e346f4aaa250fb748"
+        "character_name": "Han Solo",
+        "weapon_name": "DL-44 Blaster Pistol"
     },
     {
-        "character_id": "6866b00e346f4aaa250fb7fc",
-        "weapon_id": "6866b00e346f4aaa250fb748"
+        "character_name": "Greedo",
+        "weapon_name": "DL-44 Blaster Pistol"
+    },
+    {
+        "character_name": "Jabba Desilijic Tiure"
+    },
+    {
+        "character_name": "Wedge Antilles",
+        "weapon_name": "Proton Torpedo"
+    },
+    {
+        "character_name": "Jek Tono Porkins",
+        "weapon_name": "DC-17 Hand Blaster"
+    },
+    {
+        "character_name": "Yoda",
+        "weapon_name": "Lightsaber",
+        "color": "Green"
+    },
+    {
+        "character_name": "Palpatine"
+    },
+    {
+        "character_name": "Boba Fett",
+        "weapon_name": "DC-15S Blaster Carbine"
+    },
+    {
+        "character_name": "IG-88",
+        "weapon_name": "Dart Shooter"
+    },
+    {
+        "character_name": "Bossk",
+        "weapon_name": "Thermal Detonator"
+    },
+    {
+        "character_name": "Lando Calrissian",
+        "weapon_name": "KX-80 Repeating Blaster"
+    },
+    {
+        "character_name": "Lobot",
+        "weapon_name": "SE-14C Blaster Pistol"
+    },
+    {
+        "character_name": "Ackbar",
+        "weapon_name": "DC-15A Blaster Rifle"
+    },
+    {
+        "character_name": "Mon Mothma"
+    },
+    {
+        "character_name": "Arvel Crynyd",
+        "weapon_name": "Z-6 Rotary Blaster Cannon"
+    },
+    {
+        "character_name": "Wicket Systri Warrick",
+        "weapon_name": "Nightsister Energy Bow"
+    },
+    {
+        "character_name": "Nien Nunb"
+    },
+    {
+        "character_name": "Qui-Gon Jinn",
+        "weapon_name": "Lightsaber",
+        "color": "Green"
+    },
+    {
+        "character_name": "Nute Gunray"
+    },
+    {
+        "character_name": "Finis Valorum"
+    },
+    {
+        "character_name": "Padmé Amidala",
+        "weapon_name": "SE-14C Blaster Pistol"
+    },
+    {
+        "character_name": "Jar Jar Binks"
+    },
+    {
+        "character_name": "Roos Tarpals",
+        "weapon_name": "Electrostaff"
+    },
+    {
+        "character_name": "Rugor Nass"
+    },
+    {
+        "character_name": "Ric Olié",
+        "weapon_name": "SE-14C Blaster Pistol"
+    },
+    {
+        "character_name": "Watto"
+    },
+    {
+        "character_name": "Sebulba"
+    },
+    {
+        "character_name": "Quarsh Panaka",
+        "weapon_name": "SE-14C Blaster Pistol"
+    },
+    {
+        "character_name": "Shmi Skywalker"
+    },
+    {
+        "character_name": "Darth Maul",
+        "weapon_name": "Lightsaber",
+        "color": "Red"
+    },
+    {
+        "character_name": "Bib Fortuna"
+    },
+    {
+        "character_name": "Ayla Secura",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Ratts Tyerel"
+    },
+    {
+        "character_name": "Dud Bolt",
+        "weapon_name": "SE-14C Blaster Pistol"
+    },
+    {
+        "character_name": "Gasgano"
+    },
+    {
+        "character_name": "Ben Quadinaros"
+    },
+    {
+        "character_name": "Mace Windu",
+        "weapon_name": "Lightsaber",
+        "color": "Purple"
+    },
+    {
+        "character_name": "Ki-Adi-Mundi",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Kit Fisto",
+        "weapon_name": "Lightsaber",
+        "color": "Green"
+    },
+    {
+        "character_name": "Eeth Koth",
+        "weapon_name": "Lightsaber",
+        "color": "Green"
+    },
+    {
+        "character_name": "Adi Gallia",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Saesee Tiin",
+        "weapon_name": "Lightsaber",
+        "color": "Green"
+    },
+    {
+        "character_name": "Yarael Poof",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Plo Koon",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Mas Amedda"
+    },
+    {
+        "character_name": "Gregar Typho",
+        "weapon_name": "DL-18 Blaster Pistol"
+    },
+    {
+        "character_name": "Cordé"
+    },
+    {
+        "character_name": "Cliegg Lars"
+    },
+    {
+        "character_name": "Poggle the Lesser"
+    },
+    {
+        "character_name": "Luminara Unduli",
+        "weapon_name": "Lightsaber",
+        "color": "Green"
+    },
+    {
+        "character_name": "Barriss Offee",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Dormé"
+    },
+    {
+        "character_name": "Dooku",
+        "weapon_name": "Lightsaber",
+        "color": "Red"
+    },
+    {
+        "character_name": "Bail Prestor Organa"
+    },
+    {
+        "character_name": "Jango Fett",
+        "weapon_name": "Westar-34 Blaster"
+    },
+    {
+        "character_name": "Zam Wesell",
+        "weapon_name": "SE-14C Blaster Pistol"
+    },
+    {
+        "character_name": "Dexter Jettster"
+    },
+    {
+        "character_name": "Lama Su"
+    },
+    {
+        "character_name": "Taun We"
+    },
+    {
+        "character_name": "Jocasta Nu",
+        "weapon_name": "E-11 Blaster Rifle"
+    },
+    {
+        "character_name": "R4-P17"
+    },
+    {
+        "character_name": "Wat Tambor"
+    },
+    {
+        "character_name": "San Hill",
+        "weapon_name": "SE-14C Blaster Pistol",
+        "color": ""
+    },
+    {
+        "character_name": "Shaak Ti",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Grievous",
+        "weapon_name": "Lightsaber",
+        "color": "Blue"
+    },
+    {
+        "character_name": "Tarfful",
+        "weapon_name": "Bowcaster"
+    },
+    {
+        "character_name": "Raymus Antilles",
+        "weapon_name": "DL-44 Blaster Pistol"
+    },
+    {
+        "character_name": "Sly Moore"
+    },
+    {
+        "character_name": "Tion Medon",
+        "weapon_name": "E-11 Blaster Rifle"
     }
 ]
