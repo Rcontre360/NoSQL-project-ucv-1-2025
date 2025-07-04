@@ -11,8 +11,10 @@ from convert import (
     character_to_mongo,
     starship_to_mongo,
     city_to_mongo,
-    battle_to_mongo
+    battle_to_mongo,
+    movie_to_mongo
 )
+
 
 def find_by_field(field_name: str, field_value: Any, data_array: List[Dict]) -> Optional[Dict]:
     for item in data_array:
@@ -137,4 +139,32 @@ for battle in battles_clean:
 
 battles_clean = save_list_to_json_file(battles_clean, "./clean/historic_events.json")
 
+# finally, movies
+movies_raw = read_json_to_list_of_dicts("./raw/movies.json")
+movies_clean = list(map(lambda c: movie_to_mongo(c),movies_raw))
 
+for movie in movies_clean:
+    new_chars = []
+    new_spaceships = []
+    for char_url in movie['characters']:
+        raw_char = find_by_field('url',char_url,raw_characters)
+        clean_char = find_by_field('name', raw_char['name'], characters_clean)
+        new_chars.append({
+            'character_id':clean_char['_id'],
+            'name':clean_char['name'],
+            'role':'',
+        })
+
+    for ship_url in movie['starships']:
+        raw_ship = find_by_field('url',ship_url,raw_spaceships)
+        if raw_ship != None:
+            clean_ship = find_by_field('name', raw_ship['name'], spaceship_clean)
+            new_spaceships.append({
+                'starship_id':clean_ship['_id'],
+                'name':clean_ship['name'],
+            })
+
+    movie['characters'] = new_chars
+    movie['starships'] = new_spaceships
+
+movies_clean = save_list_to_json_file(movies_clean, "./clean/movies.json")
