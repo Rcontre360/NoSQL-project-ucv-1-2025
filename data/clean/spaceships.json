@@ -6,9 +6,13 @@
         "manufacturer": "Corellian Engineering Corporation",
         "length": 34.37,
         "min_crew": 4,
-        "pilot_id": "686827707fe5bb413bff052a",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61d1"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0570"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6217"
+        }
     },
     {
         "name": "X-wing",
@@ -17,9 +21,13 @@
         "manufacturer": "Incom Corporation",
         "length": 12.5,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff051e",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61c5"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0571"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6218"
+        }
     },
     {
         "name": "TIE Advanced x1",
@@ -28,9 +36,13 @@
         "manufacturer": "Sienar Fleet Systems",
         "length": 9.2,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0521",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61c8"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0572"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6219"
+        }
     },
     {
         "name": "Slave 1",
@@ -39,9 +51,13 @@
         "manufacturer": "Kuat Systems Engineering",
         "length": 21.5,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0532",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61d9"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0573"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc621a"
+        }
     },
     {
         "name": "Imperial shuttle",
@@ -50,9 +66,13 @@
         "manufacturer": "Sienar Fleet Systems",
         "length": 20.0,
         "min_crew": 6,
-        "pilot_id": "686827707fe5bb413bff051e",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61c5"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0574"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc621b"
+        }
     },
     {
         "name": "A-wing",
@@ -61,9 +81,13 @@
         "manufacturer": "Alliance Underground Engineering, Incom Corporation",
         "length": 9.6,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0539",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61e0"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0575"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc621c"
+        }
     },
     {
         "name": "Naboo fighter",
@@ -72,9 +96,13 @@
         "manufacturer": "Theed Palace Space Vessel Engineering Corps",
         "length": 11.0,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0528",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61cf"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0576"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc621d"
+        }
     },
     {
         "name": "Naboo Royal Starship",
@@ -83,9 +111,13 @@
         "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
         "length": 76.0,
         "min_crew": 8,
-        "pilot_id": "686827707fe5bb413bff0543",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61ea"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0577"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc621e"
+        }
     },
     {
         "name": "Scimitar",
@@ -94,9 +126,13 @@
         "manufacturer": "Republic Sienar Systems",
         "length": 26.5,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0548",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61ef"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0578"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc621f"
+        }
     },
     {
         "name": "Jedi starfighter",
@@ -105,9 +141,13 @@
         "manufacturer": "Kuat Systems Engineering",
         "length": 8.0,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0527",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61ce"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff0579"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6220"
+        }
     },
     {
         "name": "H-type Nubian yacht",
@@ -116,9 +156,13 @@
         "manufacturer": "Theed Palace Space Vessel Engineering Corps",
         "length": 47.9,
         "min_crew": 4,
-        "pilot_id": "686827707fe5bb413bff053f",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61e6"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff057a"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6221"
+        }
     },
     {
         "name": "Trade Federation cruiser",
@@ -127,9 +171,13 @@
         "manufacturer": "Rendili StarDrive, Free Dac Volunteers Engineering corps.",
         "length": 1088.0,
         "min_crew": 600,
-        "pilot_id": "686827707fe5bb413bff0527",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61ce"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff057b"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6222"
+        }
     },
     {
         "name": "Naboo star skiff",
@@ -138,9 +186,13 @@
         "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
         "length": 29.2,
         "min_crew": 3,
-        "pilot_id": "686827707fe5bb413bff0527",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61ce"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff057c"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6223"
+        }
     },
     {
         "name": "Jedi Interceptor",
@@ -149,9 +201,13 @@
         "manufacturer": "Kuat Systems Engineering",
         "length": 5.47,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0527",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61ce"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff057d"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6224"
+        }
     },
     {
         "name": "Belbullab-22 starfighter",
@@ -160,8 +216,12 @@
         "manufacturer": "Feethan Ottraw Scalable Assemblies",
         "length": 6.71,
         "min_crew": 1,
-        "pilot_id": "686827707fe5bb413bff0527",
+        "pilot_id": {
+            "$oid": "68682b41be9584d50ddc61ce"
+        },
         "faction_id": "",
-        "_id": "686827707fe5bb413bff057e"
+        "_id": {
+            "$oid": "68682b41be9584d50ddc6225"
+        }
     }
 ]
