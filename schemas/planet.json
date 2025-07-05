@@ -18,7 +18,7 @@
         "bsonType": "string"
       },
       "population": {
-        "bsonType": "string",
+        "bsonType": ["int", "long"],
         "minimum": 0
       },
       "species_ids": {
