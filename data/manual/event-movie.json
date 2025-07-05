@@ -1,0 +1,22 @@
+[
+    {
+        "movie": "The Phantom Menace",
+        "event": "Battle of Naboo"
+    },
+    {
+        "movie": "Attack of the Clones",
+        "event": "Battle of Geonosis"
+    },
+    {
+        "movie": "A New Hope",
+        "event": "Battle of Yavin"
+    },
+    {
+        "movie": "A New Hope",
+        "event": "Battle of Endor"
+    },
+    {
+        "movie": "The Empire Strikes Back",
+        "event": "Battle of Hoth"
+    }
+]
