@@ -129,13 +129,22 @@ raw_spaceships = read_json_to_list_of_dicts("./raw/starships.json")
 # only those with pilots
 raw_spaceships = list(filter(lambda rs: len(rs['pilots']) > 0, raw_spaceships))
 
-for rship in raw_spaceships:
-    first_pilot = rship['pilots'][0]
-    pilot_info = find_by_field("url",first_pilot, raw_characters)
+def search_pilot(pilot_url:str):
+    pilot_info = find_by_field("url",pilot_url, raw_characters)
     if pilot_info != None:
         clean_pilot = find_by_field('name',pilot_info['name'],characters_clean)
-        if clean_pilot != None:
+        return clean_pilot
+
+for rship in raw_spaceships:
+    i = 0
+    #this basically asigns first pilot with a faction id. To also asign the faction
+    while i < len(rship['pilots']):
+        clean_pilot = search_pilot(rship['pilots'][i])
+        if clean_pilot != None and len(clean_pilot['faction_ids']) > 0 :
+            rship['faction'] = clean_pilot['faction_ids'][0]
             rship['pilots'] = [clean_pilot['_id']]
+            break
+        i+=1
 
 spaceship_clean = list(map(lambda sc:starship_to_mongo(sc), raw_spaceships))
 spaceship_clean = save_list_to_json_file(spaceship_clean, "./clean/spaceships.json")

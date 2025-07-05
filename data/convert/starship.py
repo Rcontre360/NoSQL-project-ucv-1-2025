@@ -8,6 +8,7 @@ def starship_to_mongo(data: Dict[str, Any]) -> Dict[str, Any]:
     manufacturer = data.get("manufacturer")
     length_str = data.get("length")
     crew_str = data.get("crew")
+    faction_id = data.get("faction")
     pilots = data.get("pilots", []) # Source has a list of pilot URLs
 
     try:
@@ -24,7 +25,6 @@ def starship_to_mongo(data: Dict[str, Any]) -> Dict[str, Any]:
         min_crew = int(crew_parts[0])
 
     pilot_id = pilots[0]
-    faction_id = ""
 
     return {
         "name": name,

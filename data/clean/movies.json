@@ -3,95 +3,97 @@
         "title": "A New Hope",
         "episode": 4,
         "director": "George Lucas",
-        "release_date": "1977-05-25",
+        "release_date": {
+            "$date": "1977-05-25T00:00:00"
+        },
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d2"
+                    "$oid": "686957e87936d46d8bac790b"
                 },
                 "name": "Luke Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d3"
+                    "$oid": "686957e87936d46d8bac790c"
                 },
                 "name": "C-3PO",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d4"
+                    "$oid": "686957e87936d46d8bac790d"
                 },
                 "name": "R2-D2",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d5"
+                    "$oid": "686957e87936d46d8bac790e"
                 },
                 "name": "Darth Vader",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d6"
+                    "$oid": "686957e87936d46d8bac790f"
                 },
                 "name": "Leia Organa",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d7"
+                    "$oid": "686957e87936d46d8bac7910"
                 },
                 "name": "R5-D4",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d8"
+                    "$oid": "686957e87936d46d8bac7911"
                 },
                 "name": "Biggs Darklighter",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d9"
+                    "$oid": "686957e87936d46d8bac7912"
                 },
                 "name": "Obi-Wan Kenobi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9db"
+                    "$oid": "686957e87936d46d8bac7914"
                 },
                 "name": "Chewbacca",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9dc"
+                    "$oid": "686957e87936d46d8bac7915"
                 },
                 "name": "Han Solo",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9dd"
+                    "$oid": "686957e87936d46d8bac7916"
                 },
                 "name": "Greedo",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9de"
+                    "$oid": "686957e87936d46d8bac7917"
                 },
                 "name": "Jabba Desilijic Tiure",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9df"
+                    "$oid": "686957e87936d46d8bac7918"
                 },
                 "name": "Wedge Antilles",
                 "role": ""
@@ -100,141 +102,143 @@
         "starships": [
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa16"
+                    "$oid": "686957e87936d46d8bac794f"
                 },
                 "name": "Millennium Falcon"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa17"
+                    "$oid": "686957e87936d46d8bac7950"
                 },
                 "name": "X-wing"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa18"
+                    "$oid": "686957e87936d46d8bac7951"
                 },
                 "name": "TIE Advanced x1"
             }
         ],
         "_id": {
-            "$oid": "68694e99deea3d66c6e3fa2c"
+            "$oid": "686957e87936d46d8bac7965"
         }
     },
     {
         "title": "The Empire Strikes Back",
         "episode": 5,
         "director": "Irvin Kershner",
-        "release_date": "1980-05-17",
+        "release_date": {
+            "$date": "1980-05-17T00:00:00"
+        },
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d2"
+                    "$oid": "686957e87936d46d8bac790b"
                 },
                 "name": "Luke Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d3"
+                    "$oid": "686957e87936d46d8bac790c"
                 },
                 "name": "C-3PO",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d4"
+                    "$oid": "686957e87936d46d8bac790d"
                 },
                 "name": "R2-D2",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d5"
+                    "$oid": "686957e87936d46d8bac790e"
                 },
                 "name": "Darth Vader",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d6"
+                    "$oid": "686957e87936d46d8bac790f"
                 },
                 "name": "Leia Organa",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d9"
+                    "$oid": "686957e87936d46d8bac7912"
                 },
                 "name": "Obi-Wan Kenobi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9db"
+                    "$oid": "686957e87936d46d8bac7914"
                 },
                 "name": "Chewbacca",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9dc"
+                    "$oid": "686957e87936d46d8bac7915"
                 },
                 "name": "Han Solo",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9df"
+                    "$oid": "686957e87936d46d8bac7918"
                 },
                 "name": "Wedge Antilles",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e0"
+                    "$oid": "686957e87936d46d8bac7919"
                 },
                 "name": "Yoda",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e1"
+                    "$oid": "686957e87936d46d8bac791a"
                 },
                 "name": "Palpatine",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e2"
+                    "$oid": "686957e87936d46d8bac791b"
                 },
                 "name": "Boba Fett",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e3"
+                    "$oid": "686957e87936d46d8bac791c"
                 },
                 "name": "IG-88",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e4"
+                    "$oid": "686957e87936d46d8bac791d"
                 },
                 "name": "Bossk",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e5"
+                    "$oid": "686957e87936d46d8bac791e"
                 },
                 "name": "Lando Calrissian",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e6"
+                    "$oid": "686957e87936d46d8bac791f"
                 },
                 "name": "Lobot",
                 "role": ""
@@ -243,168 +247,170 @@
         "starships": [
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa16"
+                    "$oid": "686957e87936d46d8bac794f"
                 },
                 "name": "Millennium Falcon"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa17"
+                    "$oid": "686957e87936d46d8bac7950"
                 },
                 "name": "X-wing"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa19"
+                    "$oid": "686957e87936d46d8bac7952"
                 },
                 "name": "Slave 1"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1a"
+                    "$oid": "686957e87936d46d8bac7953"
                 },
                 "name": "Imperial shuttle"
             }
         ],
         "_id": {
-            "$oid": "68694e99deea3d66c6e3fa2d"
+            "$oid": "686957e87936d46d8bac7966"
         }
     },
     {
         "title": "Return of the Jedi",
         "episode": 6,
         "director": "Richard Marquand",
-        "release_date": "1983-05-25",
+        "release_date": {
+            "$date": "1983-05-25T00:00:00"
+        },
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d2"
+                    "$oid": "686957e87936d46d8bac790b"
                 },
                 "name": "Luke Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d3"
+                    "$oid": "686957e87936d46d8bac790c"
                 },
                 "name": "C-3PO",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d4"
+                    "$oid": "686957e87936d46d8bac790d"
                 },
                 "name": "R2-D2",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d5"
+                    "$oid": "686957e87936d46d8bac790e"
                 },
                 "name": "Darth Vader",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d6"
+                    "$oid": "686957e87936d46d8bac790f"
                 },
                 "name": "Leia Organa",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d9"
+                    "$oid": "686957e87936d46d8bac7912"
                 },
                 "name": "Obi-Wan Kenobi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9db"
+                    "$oid": "686957e87936d46d8bac7914"
                 },
                 "name": "Chewbacca",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9dc"
+                    "$oid": "686957e87936d46d8bac7915"
                 },
                 "name": "Han Solo",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9de"
+                    "$oid": "686957e87936d46d8bac7917"
                 },
                 "name": "Jabba Desilijic Tiure",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9df"
+                    "$oid": "686957e87936d46d8bac7918"
                 },
                 "name": "Wedge Antilles",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e0"
+                    "$oid": "686957e87936d46d8bac7919"
                 },
                 "name": "Yoda",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e1"
+                    "$oid": "686957e87936d46d8bac791a"
                 },
                 "name": "Palpatine",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e2"
+                    "$oid": "686957e87936d46d8bac791b"
                 },
                 "name": "Boba Fett",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e5"
+                    "$oid": "686957e87936d46d8bac791e"
                 },
                 "name": "Lando Calrissian",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e7"
+                    "$oid": "686957e87936d46d8bac7920"
                 },
                 "name": "Ackbar",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e8"
+                    "$oid": "686957e87936d46d8bac7921"
                 },
                 "name": "Mon Mothma",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e9"
+                    "$oid": "686957e87936d46d8bac7922"
                 },
                 "name": "Wicket Systri Warrick",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ea"
+                    "$oid": "686957e87936d46d8bac7923"
                 },
                 "name": "Nien Nunb",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f5"
+                    "$oid": "686957e87936d46d8bac792e"
                 },
                 "name": "Bib Fortuna",
                 "role": ""
@@ -413,252 +419,254 @@
         "starships": [
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa16"
+                    "$oid": "686957e87936d46d8bac794f"
                 },
                 "name": "Millennium Falcon"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa17"
+                    "$oid": "686957e87936d46d8bac7950"
                 },
                 "name": "X-wing"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1a"
+                    "$oid": "686957e87936d46d8bac7953"
                 },
                 "name": "Imperial shuttle"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1b"
+                    "$oid": "686957e87936d46d8bac7954"
                 },
                 "name": "A-wing"
             }
         ],
         "_id": {
-            "$oid": "68694e99deea3d66c6e3fa2e"
+            "$oid": "686957e87936d46d8bac7967"
         }
     },
     {
         "title": "The Phantom Menace",
         "episode": 1,
         "director": "George Lucas",
-        "release_date": "1999-05-19",
+        "release_date": {
+            "$date": "1999-05-19T00:00:00"
+        },
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d3"
+                    "$oid": "686957e87936d46d8bac790c"
                 },
                 "name": "C-3PO",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d4"
+                    "$oid": "686957e87936d46d8bac790d"
                 },
                 "name": "R2-D2",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d9"
+                    "$oid": "686957e87936d46d8bac7912"
                 },
                 "name": "Obi-Wan Kenobi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9da"
+                    "$oid": "686957e87936d46d8bac7913"
                 },
                 "name": "Anakin Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9de"
+                    "$oid": "686957e87936d46d8bac7917"
                 },
                 "name": "Jabba Desilijic Tiure",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e0"
+                    "$oid": "686957e87936d46d8bac7919"
                 },
                 "name": "Yoda",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e1"
+                    "$oid": "686957e87936d46d8bac791a"
                 },
                 "name": "Palpatine",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9eb"
+                    "$oid": "686957e87936d46d8bac7924"
                 },
                 "name": "Qui-Gon Jinn",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ec"
+                    "$oid": "686957e87936d46d8bac7925"
                 },
                 "name": "Nute Gunray",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ed"
+                    "$oid": "686957e87936d46d8bac7926"
                 },
                 "name": "Padmé Amidala",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ee"
+                    "$oid": "686957e87936d46d8bac7927"
                 },
                 "name": "Jar Jar Binks",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ef"
+                    "$oid": "686957e87936d46d8bac7928"
                 },
                 "name": "Roos Tarpals",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f0"
+                    "$oid": "686957e87936d46d8bac7929"
                 },
                 "name": "Rugor Nass",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f1"
+                    "$oid": "686957e87936d46d8bac792a"
                 },
                 "name": "Watto",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f2"
+                    "$oid": "686957e87936d46d8bac792b"
                 },
                 "name": "Sebulba",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f3"
+                    "$oid": "686957e87936d46d8bac792c"
                 },
                 "name": "Shmi Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f4"
+                    "$oid": "686957e87936d46d8bac792d"
                 },
                 "name": "Darth Maul",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f6"
+                    "$oid": "686957e87936d46d8bac792f"
                 },
                 "name": "Ayla Secura",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f7"
+                    "$oid": "686957e87936d46d8bac7930"
                 },
                 "name": "Ratts Tyerel",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f8"
+                    "$oid": "686957e87936d46d8bac7931"
                 },
                 "name": "Dud Bolt",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f9"
+                    "$oid": "686957e87936d46d8bac7932"
                 },
                 "name": "Gasgano",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fa"
+                    "$oid": "686957e87936d46d8bac7933"
                 },
                 "name": "Ben Quadinaros",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fb"
+                    "$oid": "686957e87936d46d8bac7934"
                 },
                 "name": "Mace Windu",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fc"
+                    "$oid": "686957e87936d46d8bac7935"
                 },
                 "name": "Ki-Adi-Mundi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fd"
+                    "$oid": "686957e87936d46d8bac7936"
                 },
                 "name": "Kit Fisto",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fe"
+                    "$oid": "686957e87936d46d8bac7937"
                 },
                 "name": "Eeth Koth",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ff"
+                    "$oid": "686957e87936d46d8bac7938"
                 },
                 "name": "Adi Gallia",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa00"
+                    "$oid": "686957e87936d46d8bac7939"
                 },
                 "name": "Saesee Tiin",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa01"
+                    "$oid": "686957e87936d46d8bac793a"
                 },
                 "name": "Yarael Poof",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa02"
+                    "$oid": "686957e87936d46d8bac793b"
                 },
                 "name": "Plo Koon",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa03"
+                    "$oid": "686957e87936d46d8bac793c"
                 },
                 "name": "Mas Amedda",
                 "role": ""
@@ -667,260 +675,262 @@
         "starships": [
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1c"
+                    "$oid": "686957e87936d46d8bac7955"
                 },
                 "name": "Naboo fighter"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1d"
+                    "$oid": "686957e87936d46d8bac7956"
                 },
                 "name": "Naboo Royal Starship"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1e"
+                    "$oid": "686957e87936d46d8bac7957"
                 },
                 "name": "Scimitar"
             }
         ],
         "_id": {
-            "$oid": "68694e99deea3d66c6e3fa2f"
+            "$oid": "686957e87936d46d8bac7968"
         }
     },
     {
         "title": "Attack of the Clones",
         "episode": 2,
         "director": "George Lucas",
-        "release_date": "2002-05-16",
+        "release_date": {
+            "$date": "2002-05-16T00:00:00"
+        },
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d3"
+                    "$oid": "686957e87936d46d8bac790c"
                 },
                 "name": "C-3PO",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d4"
+                    "$oid": "686957e87936d46d8bac790d"
                 },
                 "name": "R2-D2",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d9"
+                    "$oid": "686957e87936d46d8bac7912"
                 },
                 "name": "Obi-Wan Kenobi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9da"
+                    "$oid": "686957e87936d46d8bac7913"
                 },
                 "name": "Anakin Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e0"
+                    "$oid": "686957e87936d46d8bac7919"
                 },
                 "name": "Yoda",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e1"
+                    "$oid": "686957e87936d46d8bac791a"
                 },
                 "name": "Palpatine",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e2"
+                    "$oid": "686957e87936d46d8bac791b"
                 },
                 "name": "Boba Fett",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ec"
+                    "$oid": "686957e87936d46d8bac7925"
                 },
                 "name": "Nute Gunray",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ed"
+                    "$oid": "686957e87936d46d8bac7926"
                 },
                 "name": "Padmé Amidala",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ee"
+                    "$oid": "686957e87936d46d8bac7927"
                 },
                 "name": "Jar Jar Binks",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f1"
+                    "$oid": "686957e87936d46d8bac792a"
                 },
                 "name": "Watto",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f3"
+                    "$oid": "686957e87936d46d8bac792c"
                 },
                 "name": "Shmi Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f6"
+                    "$oid": "686957e87936d46d8bac792f"
                 },
                 "name": "Ayla Secura",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fb"
+                    "$oid": "686957e87936d46d8bac7934"
                 },
                 "name": "Mace Windu",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fc"
+                    "$oid": "686957e87936d46d8bac7935"
                 },
                 "name": "Ki-Adi-Mundi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fd"
+                    "$oid": "686957e87936d46d8bac7936"
                 },
                 "name": "Kit Fisto",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa02"
+                    "$oid": "686957e87936d46d8bac793b"
                 },
                 "name": "Plo Koon",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa03"
+                    "$oid": "686957e87936d46d8bac793c"
                 },
                 "name": "Mas Amedda",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa04"
+                    "$oid": "686957e87936d46d8bac793d"
                 },
                 "name": "Poggle the Lesser",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa05"
+                    "$oid": "686957e87936d46d8bac793e"
                 },
                 "name": "Luminara Unduli",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa06"
+                    "$oid": "686957e87936d46d8bac793f"
                 },
                 "name": "Barriss Offee",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa07"
+                    "$oid": "686957e87936d46d8bac7940"
                 },
                 "name": "Dormé",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa08"
+                    "$oid": "686957e87936d46d8bac7941"
                 },
                 "name": "Dooku",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa09"
+                    "$oid": "686957e87936d46d8bac7942"
                 },
                 "name": "Bail Prestor Organa",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa0a"
+                    "$oid": "686957e87936d46d8bac7943"
                 },
                 "name": "Jango Fett",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa0b"
+                    "$oid": "686957e87936d46d8bac7944"
                 },
                 "name": "Zam Wesell",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa0c"
+                    "$oid": "686957e87936d46d8bac7945"
                 },
                 "name": "Dexter Jettster",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa0d"
+                    "$oid": "686957e87936d46d8bac7946"
                 },
                 "name": "Lama Su",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa0e"
+                    "$oid": "686957e87936d46d8bac7947"
                 },
                 "name": "Taun We",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa0f"
+                    "$oid": "686957e87936d46d8bac7948"
                 },
                 "name": "Jocasta Nu",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa10"
+                    "$oid": "686957e87936d46d8bac7949"
                 },
                 "name": "Wat Tambor",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa11"
+                    "$oid": "686957e87936d46d8bac794a"
                 },
                 "name": "San Hill",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa12"
+                    "$oid": "686957e87936d46d8bac794b"
                 },
                 "name": "Shaak Ti",
                 "role": ""
@@ -929,231 +939,233 @@
         "starships": [
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa19"
+                    "$oid": "686957e87936d46d8bac7952"
                 },
                 "name": "Slave 1"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1c"
+                    "$oid": "686957e87936d46d8bac7955"
                 },
                 "name": "Naboo fighter"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1f"
+                    "$oid": "686957e87936d46d8bac7958"
                 },
                 "name": "Jedi starfighter"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa20"
+                    "$oid": "686957e87936d46d8bac7959"
                 },
                 "name": "H-type Nubian yacht"
             }
         ],
         "_id": {
-            "$oid": "68694e99deea3d66c6e3fa30"
+            "$oid": "686957e87936d46d8bac7969"
         }
     },
     {
         "title": "Revenge of the Sith",
         "episode": 3,
         "director": "George Lucas",
-        "release_date": "2005-05-19",
+        "release_date": {
+            "$date": "2005-05-19T00:00:00"
+        },
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d2"
+                    "$oid": "686957e87936d46d8bac790b"
                 },
                 "name": "Luke Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d3"
+                    "$oid": "686957e87936d46d8bac790c"
                 },
                 "name": "C-3PO",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d4"
+                    "$oid": "686957e87936d46d8bac790d"
                 },
                 "name": "R2-D2",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d5"
+                    "$oid": "686957e87936d46d8bac790e"
                 },
                 "name": "Darth Vader",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d6"
+                    "$oid": "686957e87936d46d8bac790f"
                 },
                 "name": "Leia Organa",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9d9"
+                    "$oid": "686957e87936d46d8bac7912"
                 },
                 "name": "Obi-Wan Kenobi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9da"
+                    "$oid": "686957e87936d46d8bac7913"
                 },
                 "name": "Anakin Skywalker",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9db"
+                    "$oid": "686957e87936d46d8bac7914"
                 },
                 "name": "Chewbacca",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e0"
+                    "$oid": "686957e87936d46d8bac7919"
                 },
                 "name": "Yoda",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9e1"
+                    "$oid": "686957e87936d46d8bac791a"
                 },
                 "name": "Palpatine",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ec"
+                    "$oid": "686957e87936d46d8bac7925"
                 },
                 "name": "Nute Gunray",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ed"
+                    "$oid": "686957e87936d46d8bac7926"
                 },
                 "name": "Padmé Amidala",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9f6"
+                    "$oid": "686957e87936d46d8bac792f"
                 },
                 "name": "Ayla Secura",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fb"
+                    "$oid": "686957e87936d46d8bac7934"
                 },
                 "name": "Mace Windu",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fc"
+                    "$oid": "686957e87936d46d8bac7935"
                 },
                 "name": "Ki-Adi-Mundi",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fd"
+                    "$oid": "686957e87936d46d8bac7936"
                 },
                 "name": "Kit Fisto",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9fe"
+                    "$oid": "686957e87936d46d8bac7937"
                 },
                 "name": "Eeth Koth",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3f9ff"
+                    "$oid": "686957e87936d46d8bac7938"
                 },
                 "name": "Adi Gallia",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa00"
+                    "$oid": "686957e87936d46d8bac7939"
                 },
                 "name": "Saesee Tiin",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa02"
+                    "$oid": "686957e87936d46d8bac793b"
                 },
                 "name": "Plo Koon",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa04"
+                    "$oid": "686957e87936d46d8bac793d"
                 },
                 "name": "Poggle the Lesser",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa05"
+                    "$oid": "686957e87936d46d8bac793e"
                 },
                 "name": "Luminara Unduli",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa08"
+                    "$oid": "686957e87936d46d8bac7941"
                 },
                 "name": "Dooku",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa09"
+                    "$oid": "686957e87936d46d8bac7942"
                 },
                 "name": "Bail Prestor Organa",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa12"
+                    "$oid": "686957e87936d46d8bac794b"
                 },
                 "name": "Shaak Ti",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa13"
+                    "$oid": "686957e87936d46d8bac794c"
                 },
                 "name": "Grievous",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa14"
+                    "$oid": "686957e87936d46d8bac794d"
                 },
                 "name": "Tarfful",
                 "role": ""
             },
             {
                 "character_id": {
-                    "$oid": "68694e99deea3d66c6e3fa15"
+                    "$oid": "686957e87936d46d8bac794e"
                 },
                 "name": "Tion Medon",
                 "role": ""
@@ -1162,37 +1174,37 @@
         "starships": [
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa1f"
+                    "$oid": "686957e87936d46d8bac7958"
                 },
                 "name": "Jedi starfighter"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa21"
+                    "$oid": "686957e87936d46d8bac795a"
                 },
                 "name": "Trade Federation cruiser"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa22"
+                    "$oid": "686957e87936d46d8bac795b"
                 },
                 "name": "Naboo star skiff"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa23"
+                    "$oid": "686957e87936d46d8bac795c"
                 },
                 "name": "Jedi Interceptor"
             },
             {
                 "starship_id": {
-                    "$oid": "68694e99deea3d66c6e3fa24"
+                    "$oid": "686957e87936d46d8bac795d"
                 },
                 "name": "Belbullab-22 starfighter"
             }
         ],
         "_id": {
-            "$oid": "68694e99deea3d66c6e3fa31"
+            "$oid": "686957e87936d46d8bac796a"
         }
     }
 ]
