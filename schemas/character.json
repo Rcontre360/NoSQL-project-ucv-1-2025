@@ -29,7 +29,7 @@
         "bsonType": "objectId"
       },
       "species_id": {
-        "bsonType": "objectId"
+        "bsonType": ["objectId", "null"]
       },
       "faction_ids": {
         "bsonType": "array",

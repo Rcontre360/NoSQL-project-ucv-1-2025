@@ -22,7 +22,7 @@ def character_to_mongo(
         mass = 0
 
     homeworld_id = homeworld_url
-    species_id = "" if len(species_urls) == 0 else species_urls[0]
+    species_id = None if len(species_urls) == 0 else species_urls[0]
     
     weapon_data = {
         "name": weapon.get("name", "None"),

@@ -7,11 +7,11 @@
         "length": 34.37,
         "min_crew": 4,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeece0"
+            "$oid": "68687e6d027261d9d800bddb"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed26"
+            "$oid": "68687e6d027261d9d800be21"
         }
     },
     {
@@ -22,11 +22,11 @@
         "length": 12.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecd4"
+            "$oid": "68687e6d027261d9d800bdcf"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed27"
+            "$oid": "68687e6d027261d9d800be22"
         }
     },
     {
@@ -37,11 +37,11 @@
         "length": 9.2,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecd7"
+            "$oid": "68687e6d027261d9d800bdd2"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed28"
+            "$oid": "68687e6d027261d9d800be23"
         }
     },
     {
@@ -52,11 +52,11 @@
         "length": 21.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeece8"
+            "$oid": "68687e6d027261d9d800bde3"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed29"
+            "$oid": "68687e6d027261d9d800be24"
         }
     },
     {
@@ -67,11 +67,11 @@
         "length": 20.0,
         "min_crew": 6,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecd4"
+            "$oid": "68687e6d027261d9d800bdcf"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed2a"
+            "$oid": "68687e6d027261d9d800be25"
         }
     },
     {
@@ -82,11 +82,11 @@
         "length": 9.6,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecef"
+            "$oid": "68687e6d027261d9d800bdea"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed2b"
+            "$oid": "68687e6d027261d9d800be26"
         }
     },
     {
@@ -97,11 +97,11 @@
         "length": 11.0,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecde"
+            "$oid": "68687e6d027261d9d800bdd9"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed2c"
+            "$oid": "68687e6d027261d9d800be27"
         }
     },
     {
@@ -112,11 +112,11 @@
         "length": 76.0,
         "min_crew": 8,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecf9"
+            "$oid": "68687e6d027261d9d800bdf4"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed2d"
+            "$oid": "68687e6d027261d9d800be28"
         }
     },
     {
@@ -127,11 +127,11 @@
         "length": 26.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecfe"
+            "$oid": "68687e6d027261d9d800bdf9"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed2e"
+            "$oid": "68687e6d027261d9d800be29"
         }
     },
     {
@@ -142,11 +142,11 @@
         "length": 8.0,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecdd"
+            "$oid": "68687e6d027261d9d800bdd8"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed2f"
+            "$oid": "68687e6d027261d9d800be2a"
         }
     },
     {
@@ -157,11 +157,11 @@
         "length": 47.9,
         "min_crew": 4,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecf5"
+            "$oid": "68687e6d027261d9d800bdf0"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed30"
+            "$oid": "68687e6d027261d9d800be2b"
         }
     },
     {
@@ -172,11 +172,11 @@
         "length": 1088.0,
         "min_crew": 600,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecdd"
+            "$oid": "68687e6d027261d9d800bdd8"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed31"
+            "$oid": "68687e6d027261d9d800be2c"
         }
     },
     {
@@ -187,11 +187,11 @@
         "length": 29.2,
         "min_crew": 3,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecdd"
+            "$oid": "68687e6d027261d9d800bdd8"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed32"
+            "$oid": "68687e6d027261d9d800be2d"
         }
     },
     {
@@ -202,11 +202,11 @@
         "length": 5.47,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecdd"
+            "$oid": "68687e6d027261d9d800bdd8"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed33"
+            "$oid": "68687e6d027261d9d800be2e"
         }
     },
     {
@@ -217,11 +217,11 @@
         "length": 6.71,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68686778339655f42bbeecdd"
+            "$oid": "68687e6d027261d9d800bdd8"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68686778339655f42bbeed34"
+            "$oid": "68687e6d027261d9d800be2f"
         }
     }
 ]
