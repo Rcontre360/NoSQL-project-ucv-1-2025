@@ -67,6 +67,8 @@ planets_clean = save_list_to_json_file(planets_clean, "./clean/planets.json")
 
 # now characters (a hard one)
 raw_characters = read_json_to_list_of_dicts("./raw/characters.json")
+raw_characters_weapons = read_json_to_list_of_dicts("./manual/characters-weapons.json")
+characters_factions = read_json_to_list_of_dicts("./manual/characters-factions.json")
 
 for rchar in raw_characters:
     rplanet = list(filter(lambda rp: rp['url'].lower() == rchar['homeworld'].lower(), planets))
@@ -83,6 +85,30 @@ for rchar in raw_characters:
             specie = list(filter(lambda p: p['name'].lower() == rspecie[0]['name'].lower(), clean_species))
             if len(specie) > 0:
                 rchar['species'] = [specie[0]['_id']]
+
+    # factions
+    char_factions_info = next((cf for cf in characters_factions if cf['character_name'].strip().lower() == rchar['name'].strip().lower()), None)
+    faction_ids = []
+    if char_factions_info and 'faction_names' in char_factions_info:
+        for faction_name in char_factions_info['faction_names']:
+            faction = next((f for f in clean_factions if f['name'].strip().lower() == faction_name.strip().lower()), None)
+            if faction:
+                faction_ids.append(faction['_id'])
+    rchar['faction_ids'] = faction_ids
+
+    # if it has weapons
+    char_weapon_info = next((cw for cw in raw_characters_weapons if cw['character_name'].lower() == rchar['name'].lower()), None)
+
+    if char_weapon_info and 'weapon_name' in char_weapon_info:
+        weapon_data = next((w for w in clean_weapons if w['name'].lower() == char_weapon_info['weapon_name'].lower()), None)
+        if weapon_data:
+            rchar['weapon'] = {
+                'name': weapon_data['name'],
+                'type': weapon_data['type'],
+                'manufacturer': weapon_data['manufacturer']
+            }
+            if 'color' in char_weapon_info:
+                rchar['weapon']['crystal_color'] = char_weapon_info['color']
 
 characters_clean = list(map(lambda cc:character_to_mongo(cc), raw_characters))
 characters_clean = save_list_to_json_file(characters_clean, "./clean/characters.json")

@@ -6,7 +6,7 @@
         "manufacturer": "Corellia Mining Corporation",
         "max_atmospheric_speed": 30,
         "_id": {
-            "$oid": "68682b41be9584d50ddc615a"
+            "$oid": "68687e6d027261d9d800bd64"
         }
     },
     {
@@ -16,7 +16,7 @@
         "manufacturer": "Incom Corporation",
         "max_atmospheric_speed": 1200,
         "_id": {
-            "$oid": "68682b41be9584d50ddc615b"
+            "$oid": "68687e6d027261d9d800bd65"
         }
     },
     {
@@ -26,7 +26,7 @@
         "manufacturer": "SoroSuub Corporation",
         "max_atmospheric_speed": 250,
         "_id": {
-            "$oid": "68682b41be9584d50ddc615c"
+            "$oid": "68687e6d027261d9d800bd66"
         }
     },
     {
@@ -36,7 +36,7 @@
         "manufacturer": "Sienar Fleet Systems",
         "max_atmospheric_speed": 1200,
         "_id": {
-            "$oid": "68682b41be9584d50ddc615d"
+            "$oid": "68687e6d027261d9d800bd67"
         }
     },
     {
@@ -46,7 +46,7 @@
         "manufacturer": "Incom corporation",
         "max_atmospheric_speed": 650,
         "_id": {
-            "$oid": "68682b41be9584d50ddc615e"
+            "$oid": "68687e6d027261d9d800bd68"
         }
     },
     {
@@ -56,7 +56,7 @@
         "manufacturer": "Sienar Fleet Systems",
         "max_atmospheric_speed": 850,
         "_id": {
-            "$oid": "68682b41be9584d50ddc615f"
+            "$oid": "68687e6d027261d9d800bd69"
         }
     },
     {
@@ -66,7 +66,7 @@
         "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
         "max_atmospheric_speed": 60,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6160"
+            "$oid": "68687e6d027261d9d800bd6a"
         }
     },
     {
@@ -76,7 +76,7 @@
         "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
         "max_atmospheric_speed": 90,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6161"
+            "$oid": "68687e6d027261d9d800bd6b"
         }
     },
     {
@@ -86,7 +86,7 @@
         "manufacturer": "Bespin Motors",
         "max_atmospheric_speed": 1500,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6162"
+            "$oid": "68687e6d027261d9d800bd6c"
         }
     },
     {
@@ -96,7 +96,7 @@
         "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
         "max_atmospheric_speed": 100,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6163"
+            "$oid": "68687e6d027261d9d800bd6d"
         }
     },
     {
@@ -106,7 +106,7 @@
         "manufacturer": "Ubrikkian Industries",
         "max_atmospheric_speed": 250,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6164"
+            "$oid": "68687e6d027261d9d800bd6e"
         }
     },
     {
@@ -116,7 +116,7 @@
         "manufacturer": "Sienar Fleet Systems",
         "max_atmospheric_speed": 1250,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6165"
+            "$oid": "68687e6d027261d9d800bd6f"
         }
     },
     {
@@ -126,7 +126,7 @@
         "manufacturer": "Aratech Repulsor Company",
         "max_atmospheric_speed": 360,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6166"
+            "$oid": "68687e6d027261d9d800bd70"
         }
     },
     {
@@ -136,7 +136,7 @@
         "manufacturer": "Haor Chall Engineering, Baktoid Armor Workshop",
         "max_atmospheric_speed": 1200,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6167"
+            "$oid": "68687e6d027261d9d800bd71"
         }
     },
     {
@@ -146,7 +146,7 @@
         "manufacturer": "Baktoid Armor Workshop",
         "max_atmospheric_speed": 35,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6168"
+            "$oid": "68687e6d027261d9d800bd72"
         }
     },
     {
@@ -156,7 +156,7 @@
         "manufacturer": "Baktoid Armor Workshop",
         "max_atmospheric_speed": 55,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6169"
+            "$oid": "68687e6d027261d9d800bd73"
         }
     },
     {
@@ -166,7 +166,7 @@
         "manufacturer": "Baktoid Armor Workshop",
         "max_atmospheric_speed": 400,
         "_id": {
-            "$oid": "68682b41be9584d50ddc616a"
+            "$oid": "68687e6d027261d9d800bd74"
         }
     },
     {
@@ -176,7 +176,7 @@
         "manufacturer": "Haor Chall Engineering",
         "max_atmospheric_speed": 587,
         "_id": {
-            "$oid": "68682b41be9584d50ddc616b"
+            "$oid": "68687e6d027261d9d800bd75"
         }
     },
     {
@@ -186,7 +186,7 @@
         "manufacturer": "Otoh Gunga Bongameken Cooperative",
         "max_atmospheric_speed": 85,
         "_id": {
-            "$oid": "68682b41be9584d50ddc616c"
+            "$oid": "68687e6d027261d9d800bd76"
         }
     },
     {
@@ -196,7 +196,7 @@
         "manufacturer": "Razalon",
         "max_atmospheric_speed": 180,
         "_id": {
-            "$oid": "68682b41be9584d50ddc616d"
+            "$oid": "68687e6d027261d9d800bd77"
         }
     },
     {
@@ -206,7 +206,7 @@
         "manufacturer": "Mobquet Swoops and Speeders",
         "max_atmospheric_speed": 350,
         "_id": {
-            "$oid": "68682b41be9584d50ddc616e"
+            "$oid": "68687e6d027261d9d800bd78"
         }
     },
     {
@@ -216,7 +216,7 @@
         "manufacturer": "Desler Gizh Outworld Mobility Corporation",
         "max_atmospheric_speed": 800,
         "_id": {
-            "$oid": "68682b41be9584d50ddc616f"
+            "$oid": "68687e6d027261d9d800bd79"
         }
     },
     {
@@ -226,7 +226,7 @@
         "manufacturer": "Narglatch AirTech prefabricated kit",
         "max_atmospheric_speed": 720,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6170"
+            "$oid": "68687e6d027261d9d800bd7a"
         }
     },
     {
@@ -236,7 +236,7 @@
         "manufacturer": "Rothana Heavy Engineering",
         "max_atmospheric_speed": 620,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6171"
+            "$oid": "68687e6d027261d9d800bd7b"
         }
     },
     {
@@ -246,7 +246,7 @@
         "manufacturer": "Rothana Heavy Engineering",
         "max_atmospheric_speed": 620,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6172"
+            "$oid": "68687e6d027261d9d800bd7c"
         }
     },
     {
@@ -256,7 +256,7 @@
         "manufacturer": "Rothana Heavy Engineering, Kuat Drive Yards",
         "max_atmospheric_speed": 60,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6173"
+            "$oid": "68687e6d027261d9d800bd7d"
         }
     },
     {
@@ -266,7 +266,7 @@
         "manufacturer": "Rothana Heavy Engineering",
         "max_atmospheric_speed": 35,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6174"
+            "$oid": "68687e6d027261d9d800bd7e"
         }
     },
     {
@@ -276,7 +276,7 @@
         "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
         "max_atmospheric_speed": 634,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6175"
+            "$oid": "68687e6d027261d9d800bd7f"
         }
     },
     {
@@ -286,7 +286,7 @@
         "manufacturer": "Haor Chall Engineering",
         "max_atmospheric_speed": 880,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6176"
+            "$oid": "68687e6d027261d9d800bd80"
         }
     },
     {
@@ -296,7 +296,7 @@
         "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
         "max_atmospheric_speed": 20000,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6177"
+            "$oid": "68687e6d027261d9d800bd81"
         }
     },
     {
@@ -306,7 +306,7 @@
         "manufacturer": "Z-Gomot Ternbuell Guppat Corporation",
         "max_atmospheric_speed": 330,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6178"
+            "$oid": "68687e6d027261d9d800bd82"
         }
     },
     {
@@ -316,7 +316,7 @@
         "manufacturer": "unknown",
         "max_atmospheric_speed": 0,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6179"
+            "$oid": "68687e6d027261d9d800bd83"
         }
     },
     {
@@ -326,7 +326,7 @@
         "manufacturer": "Colla Designs, Phlac-Arphocc Automata Industries",
         "max_atmospheric_speed": 1180,
         "_id": {
-            "$oid": "68682b41be9584d50ddc617a"
+            "$oid": "68687e6d027261d9d800bd84"
         }
     },
     {
@@ -336,7 +336,7 @@
         "manufacturer": "Appazanna Engineering Works",
         "max_atmospheric_speed": 420,
         "_id": {
-            "$oid": "68682b41be9584d50ddc617b"
+            "$oid": "68687e6d027261d9d800bd85"
         }
     },
     {
@@ -346,7 +346,7 @@
         "manufacturer": "Appazanna Engineering Works",
         "max_atmospheric_speed": 310,
         "_id": {
-            "$oid": "68682b41be9584d50ddc617c"
+            "$oid": "68687e6d027261d9d800bd86"
         }
     },
     {
@@ -356,7 +356,7 @@
         "manufacturer": "Kuat Drive Yards",
         "max_atmospheric_speed": 160,
         "_id": {
-            "$oid": "68682b41be9584d50ddc617d"
+            "$oid": "68687e6d027261d9d800bd87"
         }
     },
     {
@@ -366,7 +366,7 @@
         "manufacturer": "Techno Union",
         "max_atmospheric_speed": 100,
         "_id": {
-            "$oid": "68682b41be9584d50ddc617e"
+            "$oid": "68687e6d027261d9d800bd88"
         }
     },
     {
@@ -376,7 +376,7 @@
         "manufacturer": "Baktoid Fleet Ordnance, Haor Chall Engineering",
         "max_atmospheric_speed": 820,
         "_id": {
-            "$oid": "68682b41be9584d50ddc617f"
+            "$oid": "68687e6d027261d9d800bd89"
         }
     },
     {
@@ -386,7 +386,7 @@
         "manufacturer": "Kuat Drive Yards",
         "max_atmospheric_speed": 90,
         "_id": {
-            "$oid": "68682b41be9584d50ddc6180"
+            "$oid": "68687e6d027261d9d800bd8a"
         }
     }
 ]

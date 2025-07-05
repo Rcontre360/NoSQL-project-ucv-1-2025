@@ -8,8 +8,7 @@
       "mass",
       "homeworld_id",
       "species_id",
-      "faction_ids",
-      "weapon"
+      "faction_ids"
     ],
     "properties": {
       "name": {
@@ -30,7 +29,7 @@
         "bsonType": "objectId"
       },
       "species_id": {
-        "bsonType": "objectId"
+        "bsonType": ["objectId", "null"]
       },
       "faction_ids": {
         "bsonType": "array",
