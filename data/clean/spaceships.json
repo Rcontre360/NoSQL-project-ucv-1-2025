@@ -7,13 +7,13 @@
         "length": 34.37,
         "min_crew": 4,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7915"
+            "$oid": "68695dc13e9b14831c3f6fc9"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78ca"
+            "$oid": "68695dc13e9b14831c3f6f7e"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac794f"
+            "$oid": "68695dc13e9b14831c3f7003"
         }
     },
     {
@@ -24,13 +24,13 @@
         "length": 12.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac790b"
+            "$oid": "68695dc13e9b14831c3f6fbf"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac7950"
+            "$oid": "68695dc13e9b14831c3f7004"
         }
     },
     {
@@ -41,26 +41,13 @@
         "length": 9.2,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac790e"
+            "$oid": "68695dc13e9b14831c3f6fc2"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c8"
+            "$oid": "68695dc13e9b14831c3f6f7c"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac7951"
-        }
-    },
-    {
-        "name": "Slave 1",
-        "model": "Firespray-31-class patrol and attack",
-        "class": "Patrol craft",
-        "manufacturer": "Kuat Systems Engineering",
-        "length": 21.5,
-        "min_crew": 1,
-        "pilot_id": "https://swapi.info/api/people/22",
-        "faction_id": null,
-        "_id": {
-            "$oid": "686957e87936d46d8bac7952"
+            "$oid": "68695dc13e9b14831c3f7005"
         }
     },
     {
@@ -71,26 +58,13 @@
         "length": 20.0,
         "min_crew": 6,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac790b"
+            "$oid": "68695dc13e9b14831c3f6fbf"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac7953"
-        }
-    },
-    {
-        "name": "A-wing",
-        "model": "RZ-1 A-wing Interceptor",
-        "class": "Starfighter",
-        "manufacturer": "Alliance Underground Engineering, Incom Corporation",
-        "length": 9.6,
-        "min_crew": 1,
-        "pilot_id": "https://swapi.info/api/people/29",
-        "faction_id": null,
-        "_id": {
-            "$oid": "686957e87936d46d8bac7954"
+            "$oid": "68695dc13e9b14831c3f7006"
         }
     },
     {
@@ -101,26 +75,13 @@
         "length": 11.0,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7913"
+            "$oid": "68695dc13e9b14831c3f6fc7"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac7955"
-        }
-    },
-    {
-        "name": "Naboo Royal Starship",
-        "model": "J-type 327 Nubian royal starship",
-        "class": "yacht",
-        "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
-        "length": 76.0,
-        "min_crew": 8,
-        "pilot_id": "https://swapi.info/api/people/39",
-        "faction_id": null,
-        "_id": {
-            "$oid": "686957e87936d46d8bac7956"
+            "$oid": "68695dc13e9b14831c3f7007"
         }
     },
     {
@@ -131,13 +92,13 @@
         "length": 26.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac792d"
+            "$oid": "68695dc13e9b14831c3f6fe1"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c8"
+            "$oid": "68695dc13e9b14831c3f6f7c"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac7957"
+            "$oid": "68695dc13e9b14831c3f7008"
         }
     },
     {
@@ -148,13 +109,13 @@
         "length": 8.0,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7912"
+            "$oid": "68695dc13e9b14831c3f6fc6"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac7958"
+            "$oid": "68695dc13e9b14831c3f7009"
         }
     },
     {
@@ -165,13 +126,13 @@
         "length": 47.9,
         "min_crew": 4,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7926"
+            "$oid": "68695dc13e9b14831c3f6fda"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78cb"
+            "$oid": "68695dc13e9b14831c3f6f7f"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac7959"
+            "$oid": "68695dc13e9b14831c3f700a"
         }
     },
     {
@@ -182,13 +143,13 @@
         "length": 1088.0,
         "min_crew": 600,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7912"
+            "$oid": "68695dc13e9b14831c3f6fc6"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac795a"
+            "$oid": "68695dc13e9b14831c3f700b"
         }
     },
     {
@@ -199,13 +160,13 @@
         "length": 29.2,
         "min_crew": 3,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7912"
+            "$oid": "68695dc13e9b14831c3f6fc6"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac795b"
+            "$oid": "68695dc13e9b14831c3f700c"
         }
     },
     {
@@ -216,13 +177,13 @@
         "length": 5.47,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7912"
+            "$oid": "68695dc13e9b14831c3f6fc6"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac795c"
+            "$oid": "68695dc13e9b14831c3f700d"
         }
     },
     {
@@ -233,13 +194,13 @@
         "length": 6.71,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "686957e87936d46d8bac7912"
+            "$oid": "68695dc13e9b14831c3f6fc6"
         },
         "faction_id": {
-            "$oid": "686957e87936d46d8bac78c7"
+            "$oid": "68695dc13e9b14831c3f6f7b"
         },
         "_id": {
-            "$oid": "686957e87936d46d8bac795d"
+            "$oid": "68695dc13e9b14831c3f700e"
         }
     }
 ]

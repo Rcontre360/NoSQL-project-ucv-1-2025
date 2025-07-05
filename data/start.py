@@ -147,6 +147,7 @@ for rship in raw_spaceships:
         i+=1
 
 spaceship_clean = list(map(lambda sc:starship_to_mongo(sc), raw_spaceships))
+spaceship_clean = list(filter(lambda sc:sc['faction_id'] != None, spaceship_clean))
 spaceship_clean = save_list_to_json_file(spaceship_clean, "./clean/spaceships.json")
 
 # now with locations! for now we only have cities
@@ -184,10 +185,11 @@ for movie in movies_clean:
         raw_ship = find_by_field('url',ship_url,raw_spaceships)
         if raw_ship != None:
             clean_ship = find_by_field('name', raw_ship['name'], spaceship_clean)
-            new_spaceships.append({
-                'starship_id':clean_ship['_id'],
-                'name':clean_ship['name'],
-            })
+            if clean_ship !=None:
+                new_spaceships.append({
+                    'starship_id':clean_ship['_id'],
+                    'name':clean_ship['name'],
+                })
 
     movie['characters'] = new_chars
     movie['starships'] = new_spaceships

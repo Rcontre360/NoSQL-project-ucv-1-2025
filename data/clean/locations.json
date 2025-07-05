@@ -2,71 +2,71 @@
     {
         "name": "Mos Eisley",
         "planet_id": {
-            "$oid": "686957e87936d46d8bac78cf"
+            "$oid": "68695dc13e9b14831c3f6f83"
         },
         "location_type": "city",
         "_id": {
-            "$oid": "686957e87936d46d8bac795e"
+            "$oid": "68695dc13e9b14831c3f700f"
         }
     },
     {
         "name": "Theed",
         "planet_id": {
-            "$oid": "686957e87936d46d8bac78d6"
+            "$oid": "68695dc13e9b14831c3f6f8a"
         },
         "location_type": "city",
         "_id": {
-            "$oid": "686957e87936d46d8bac795f"
+            "$oid": "68695dc13e9b14831c3f7010"
         }
     },
     {
         "name": "Cloud City",
         "planet_id": {
-            "$oid": "686957e87936d46d8bac78d4"
+            "$oid": "68695dc13e9b14831c3f6f88"
         },
         "location_type": "city",
         "_id": {
-            "$oid": "686957e87936d46d8bac7960"
+            "$oid": "68695dc13e9b14831c3f7011"
         }
     },
     {
         "name": "Coruscant",
         "planet_id": {
-            "$oid": "686957e87936d46d8bac78d7"
+            "$oid": "68695dc13e9b14831c3f6f8b"
         },
         "location_type": "city",
         "_id": {
-            "$oid": "686957e87936d46d8bac7961"
+            "$oid": "68695dc13e9b14831c3f7012"
         }
     },
     {
         "name": "Mos Espa",
         "planet_id": {
-            "$oid": "686957e87936d46d8bac78cf"
+            "$oid": "68695dc13e9b14831c3f6f83"
         },
         "location_type": "city",
         "_id": {
-            "$oid": "686957e87936d46d8bac7962"
+            "$oid": "68695dc13e9b14831c3f7013"
         }
     },
     {
         "name": "Tipoca City",
         "planet_id": {
-            "$oid": "686957e87936d46d8bac78d8"
+            "$oid": "68695dc13e9b14831c3f6f8c"
         },
         "location_type": "city",
         "_id": {
-            "$oid": "686957e87936d46d8bac7963"
+            "$oid": "68695dc13e9b14831c3f7014"
         }
     },
     {
         "name": "Dahhh City",
         "planet_id": {
-            "$oid": "686957e87936d46d8bac78f0"
+            "$oid": "68695dc13e9b14831c3f6fa4"
         },
         "location_type": "city",
         "_id": {
-            "$oid": "686957e87936d46d8bac7964"
+            "$oid": "68695dc13e9b14831c3f7015"
         }
     }
 ]

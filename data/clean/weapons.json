@@ -10,7 +10,7 @@
         "description": "A weapon with a plasma blade powered by a kyber crystal.",
         "films": "All Episodes",
         "_id": {
-            "$oid": "686957e87936d46d8bac7864"
+            "$oid": "68695dc13e9b14831c3f6f18"
         }
     },
     {
@@ -24,7 +24,7 @@
         "description": "A powerful and highly modifiable blaster pistol.",
         "films": "A New Hope, The Empire Strikes Back, Return of the Jedi, The Force Awakens",
         "_id": {
-            "$oid": "686957e87936d46d8bac7865"
+            "$oid": "68695dc13e9b14831c3f6f19"
         }
     },
     {
@@ -38,7 +38,7 @@
         "description": "Standard issue blaster rifle for Imperial stormtroopers.",
         "films": "A New Hope, The Empire Strikes Back, Return of the Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7866"
+            "$oid": "68695dc13e9b14831c3f6f1a"
         }
     },
     {
@@ -52,7 +52,7 @@
         "description": "A traditional Wookiee weapon that fires explosive quarrels.",
         "films": "A New Hope, The Force Awakens, The Last Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7867"
+            "$oid": "68695dc13e9b14831c3f6f1b"
         }
     },
     {
@@ -66,7 +66,7 @@
         "description": "A highly destructive grenade.",
         "films": "Return of the Jedi, The Force Awakens",
         "_id": {
-            "$oid": "686957e87936d46d8bac7868"
+            "$oid": "68695dc13e9b14831c3f6f1c"
         }
     },
     {
@@ -80,7 +80,7 @@
         "description": "A staff that delivers electric shocks, used by riot control stormtroopers.",
         "films": "The Force Awakens",
         "_id": {
-            "$oid": "686957e87936d46d8bac7869"
+            "$oid": "68695dc13e9b14831c3f6f1d"
         }
     },
     {
@@ -94,7 +94,7 @@
         "description": "A heavy blaster rifle used by clone troopers.",
         "films": "Attack of the Clones, Revenge of the Sith",
         "_id": {
-            "$oid": "686957e87936d46d8bac786a"
+            "$oid": "68695dc13e9b14831c3f6f1e"
         }
     },
     {
@@ -108,7 +108,7 @@
         "description": "A staff weapon used by the Emperor's Royal Guard.",
         "films": "Return of the Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac786b"
+            "$oid": "68695dc13e9b14831c3f6f1f"
         }
     },
     {
@@ -122,7 +122,7 @@
         "description": "A rapid-fire blaster pistol.",
         "films": "A New Hope",
         "_id": {
-            "$oid": "686957e87936d46d8bac786c"
+            "$oid": "68695dc13e9b14831c3f6f20"
         }
     },
     {
@@ -136,7 +136,7 @@
         "description": "A pair of blaster pistols used by Jango Fett.",
         "films": "Attack of the Clones",
         "_id": {
-            "$oid": "686957e87936d46d8bac786d"
+            "$oid": "68695dc13e9b14831c3f6f21"
         }
     },
     {
@@ -150,7 +150,7 @@
         "description": "A blaster pistol used by the Rebel Alliance.",
         "films": "A New Hope, The Empire Strikes Back",
         "_id": {
-            "$oid": "686957e87936d46d8bac786e"
+            "$oid": "68695dc13e9b14831c3f6f22"
         }
     },
     {
@@ -164,7 +164,7 @@
         "description": "A blaster pistol used by clone troopers.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac786f"
+            "$oid": "68695dc13e9b14831c3f6f23"
         }
     },
     {
@@ -178,7 +178,7 @@
         "description": "A heavy blaster rifle used by the Rebel Alliance.",
         "films": "Return of the Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7870"
+            "$oid": "68695dc13e9b14831c3f6f24"
         }
     },
     {
@@ -192,7 +192,7 @@
         "description": "A heavy blaster rifle used by Imperial stormtroopers.",
         "films": "A New Hope",
         "_id": {
-            "$oid": "686957e87936d46d8bac7871"
+            "$oid": "68695dc13e9b14831c3f6f25"
         }
     },
     {
@@ -206,7 +206,7 @@
         "description": "A blaster rifle used by the First Order stormtroopers.",
         "films": "The Force Awakens, The Last Jedi, The Rise of Skywalker",
         "_id": {
-            "$oid": "686957e87936d46d8bac7872"
+            "$oid": "68695dc13e9b14831c3f6f26"
         }
     },
     {
@@ -220,7 +220,7 @@
         "description": "A sonic rifle used by the Geonosians.",
         "films": "Attack of the Clones",
         "_id": {
-            "$oid": "686957e87936d46d8bac7873"
+            "$oid": "68695dc13e9b14831c3f6f27"
         }
     },
     {
@@ -234,7 +234,7 @@
         "description": "A traditional Wookiee melee weapon.",
         "films": "Star Wars: The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac7874"
+            "$oid": "68695dc13e9b14831c3f6f28"
         }
     },
     {
@@ -248,7 +248,7 @@
         "description": "A rotary blaster cannon used by clone troopers.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac7875"
+            "$oid": "68695dc13e9b14831c3f6f29"
         }
     },
     {
@@ -262,7 +262,7 @@
         "description": "A traditional melee weapon used by the Tusken Raiders.",
         "films": "A New Hope, Attack of the Clones",
         "_id": {
-            "$oid": "686957e87936d46d8bac7876"
+            "$oid": "68695dc13e9b14831c3f6f2a"
         }
     },
     {
@@ -276,7 +276,7 @@
         "description": "A hybrid melee and blaster weapon used by the Lasat.",
         "films": "Star Wars Rebels",
         "_id": {
-            "$oid": "686957e87936d46d8bac7877"
+            "$oid": "68695dc13e9b14831c3f6f2b"
         }
     },
     {
@@ -290,7 +290,7 @@
         "description": "A heavy blaster rifle used by Imperial stormtroopers.",
         "films": "A New Hope",
         "_id": {
-            "$oid": "686957e87936d46d8bac7878"
+            "$oid": "68695dc13e9b14831c3f6f2c"
         }
     },
     {
@@ -304,7 +304,7 @@
         "description": "A traditional melee weapon used by the Kyuzo.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac7879"
+            "$oid": "68695dc13e9b14831c3f6f2d"
         }
     },
     {
@@ -318,7 +318,7 @@
         "description": "A massive bomb used to disable droids.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac787a"
+            "$oid": "68695dc13e9b14831c3f6f2e"
         }
     },
     {
@@ -332,7 +332,7 @@
         "description": "A traditional bow used by the Nightsisters.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac787b"
+            "$oid": "68695dc13e9b14831c3f6f2f"
         }
     },
     {
@@ -346,7 +346,7 @@
         "description": "A mortar gun used by bounty hunters.",
         "films": "Star Wars Rebels",
         "_id": {
-            "$oid": "686957e87936d46d8bac787c"
+            "$oid": "68695dc13e9b14831c3f6f30"
         }
     },
     {
@@ -360,7 +360,7 @@
         "description": "A melee weapon used by the First Order stormtroopers.",
         "films": "The Force Awakens",
         "_id": {
-            "$oid": "686957e87936d46d8bac787d"
+            "$oid": "68695dc13e9b14831c3f6f31"
         }
     },
     {
@@ -374,7 +374,7 @@
         "description": "A blaster that fires particle beams.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac787e"
+            "$oid": "68695dc13e9b14831c3f6f32"
         }
     },
     {
@@ -388,7 +388,7 @@
         "description": "A melee weapon with a vibrating blade.",
         "films": "The Clone Wars, The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac787f"
+            "$oid": "68695dc13e9b14831c3f6f33"
         }
     },
     {
@@ -402,7 +402,7 @@
         "description": "A compact blaster carbine used by clone troopers.",
         "films": "Attack of the Clones, Revenge of the Sith",
         "_id": {
-            "$oid": "686957e87936d46d8bac7880"
+            "$oid": "68695dc13e9b14831c3f6f34"
         }
     },
     {
@@ -416,7 +416,7 @@
         "description": "A wrist-mounted device that fires a whipcord.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac7881"
+            "$oid": "68695dc13e9b14831c3f6f35"
         }
     },
     {
@@ -430,7 +430,7 @@
         "description": "A wrist-mounted rocket launcher.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac7882"
+            "$oid": "68695dc13e9b14831c3f6f36"
         }
     },
     {
@@ -444,7 +444,7 @@
         "description": "A device that projects a stream of fire.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac7883"
+            "$oid": "68695dc13e9b14831c3f6f37"
         }
     },
     {
@@ -458,7 +458,7 @@
         "description": "A blaster with a long barrel used by the Mandalorians.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac7884"
+            "$oid": "68695dc13e9b14831c3f6f38"
         }
     },
     {
@@ -472,7 +472,7 @@
         "description": "A melee weapon with a vibrating blade.",
         "films": "Return of the Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7885"
+            "$oid": "68695dc13e9b14831c3f6f39"
         }
     },
     {
@@ -486,7 +486,7 @@
         "description": "A hammer with an energy source to increase its impact.",
         "films": "Star Wars: The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac7886"
+            "$oid": "68695dc13e9b14831c3f6f3a"
         }
     },
     {
@@ -500,7 +500,7 @@
         "description": "A blaster that fires ion energy to disable electronics.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac7887"
+            "$oid": "68695dc13e9b14831c3f6f3b"
         }
     },
     {
@@ -514,7 +514,7 @@
         "description": "A weapon that emits a stunning energy beam.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac7888"
+            "$oid": "68695dc13e9b14831c3f6f3c"
         }
     },
     {
@@ -528,7 +528,7 @@
         "description": "A powerful torpedo used in space battles.",
         "films": "A New Hope, The Empire Strikes Back, Return of the Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7889"
+            "$oid": "68695dc13e9b14831c3f6f3d"
         }
     },
     {
@@ -542,7 +542,7 @@
         "description": "A hybrid melee and blaster weapon used by the Lasat.",
         "films": "Star Wars Rebels",
         "_id": {
-            "$oid": "686957e87936d46d8bac788a"
+            "$oid": "68695dc13e9b14831c3f6f3e"
         }
     },
     {
@@ -556,7 +556,7 @@
         "description": "A melee weapon imbued with the Force.",
         "films": "Star Wars: The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac788b"
+            "$oid": "68695dc13e9b14831c3f6f3f"
         }
     },
     {
@@ -570,7 +570,7 @@
         "description": "A modular blaster used by clone commandos.",
         "films": "Star Wars: Republic Commando",
         "_id": {
-            "$oid": "686957e87936d46d8bac788c"
+            "$oid": "68695dc13e9b14831c3f6f40"
         }
     },
     {
@@ -584,7 +584,7 @@
         "description": "A blaster that fires sonic energy.",
         "films": "Attack of the Clones",
         "_id": {
-            "$oid": "686957e87936d46d8bac788d"
+            "$oid": "68695dc13e9b14831c3f6f41"
         }
     },
     {
@@ -598,7 +598,7 @@
         "description": "A heavy blaster used by Imperial forces.",
         "films": "The Empire Strikes Back, The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac788e"
+            "$oid": "68695dc13e9b14831c3f6f42"
         }
     },
     {
@@ -612,7 +612,7 @@
         "description": "A sword with a vibrating blade.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac788f"
+            "$oid": "68695dc13e9b14831c3f6f43"
         }
     },
     {
@@ -626,7 +626,7 @@
         "description": "An ion disruptor rifle used by the Empire.",
         "films": "Star Wars Rebels",
         "_id": {
-            "$oid": "686957e87936d46d8bac7890"
+            "$oid": "68695dc13e9b14831c3f6f44"
         }
     },
     {
@@ -640,7 +640,7 @@
         "description": "A compact blaster pistol used by the Resistance.",
         "films": "The Last Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7891"
+            "$oid": "68695dc13e9b14831c3f6f45"
         }
     },
     {
@@ -654,7 +654,7 @@
         "description": "A blaster that fires in a wide spread.",
         "films": "Star Wars: Battlefront",
         "_id": {
-            "$oid": "686957e87936d46d8bac7892"
+            "$oid": "68695dc13e9b14831c3f6f46"
         }
     },
     {
@@ -668,7 +668,7 @@
         "description": "A weapon that fires a stream of immobilizing spray.",
         "films": "Star Wars: Galaxy's Edge",
         "_id": {
-            "$oid": "686957e87936d46d8bac7893"
+            "$oid": "68695dc13e9b14831c3f6f47"
         }
     },
     {
@@ -682,7 +682,7 @@
         "description": "A traditional Wookiee weapon that fires explosive quarrels.",
         "films": "A New Hope, The Force Awakens, The Last Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7894"
+            "$oid": "68695dc13e9b14831c3f6f48"
         }
     },
     {
@@ -696,7 +696,7 @@
         "description": "A blaster that disintegrates its target.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac7895"
+            "$oid": "68695dc13e9b14831c3f6f49"
         }
     },
     {
@@ -710,7 +710,7 @@
         "description": "A highly destructive grenade.",
         "films": "Return of the Jedi, The Force Awakens",
         "_id": {
-            "$oid": "686957e87936d46d8bac7896"
+            "$oid": "68695dc13e9b14831c3f6f4a"
         }
     },
     {
@@ -724,7 +724,7 @@
         "description": "A hybrid melee and blaster weapon used by the Lasat.",
         "films": "Star Wars Rebels",
         "_id": {
-            "$oid": "686957e87936d46d8bac7897"
+            "$oid": "68695dc13e9b14831c3f6f4b"
         }
     },
     {
@@ -738,7 +738,7 @@
         "description": "A common blaster pistol.",
         "films": "Return of the Jedi",
         "_id": {
-            "$oid": "686957e87936d46d8bac7898"
+            "$oid": "68695dc13e9b14831c3f6f4c"
         }
     },
     {
@@ -752,7 +752,7 @@
         "description": "An ion blaster used by bounty hunters.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac7899"
+            "$oid": "68695dc13e9b14831c3f6f4d"
         }
     },
     {
@@ -766,7 +766,7 @@
         "description": "A blaster pistol used by bounty hunters.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac789a"
+            "$oid": "68695dc13e9b14831c3f6f4e"
         }
     },
     {
@@ -780,7 +780,7 @@
         "description": "A heavy repeating blaster.",
         "films": "The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac789b"
+            "$oid": "68695dc13e9b14831c3f6f4f"
         }
     },
     {
@@ -794,7 +794,7 @@
         "description": "A disruptor pistol that disintegrates its target.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac789c"
+            "$oid": "68695dc13e9b14831c3f6f50"
         }
     },
     {
@@ -808,7 +808,7 @@
         "description": "A wrist-mounted dart shooter.",
         "films": "The Mandalorian",
         "_id": {
-            "$oid": "686957e87936d46d8bac789d"
+            "$oid": "68695dc13e9b14831c3f6f51"
         }
     },
     {
@@ -822,7 +822,7 @@
         "description": "A sling that fires energy projectiles.",
         "films": "Star Wars: The Clone Wars",
         "_id": {
-            "$oid": "686957e87936d46d8bac789e"
+            "$oid": "68695dc13e9b14831c3f6f52"
         }
     },
     {
@@ -836,7 +836,7 @@
         "description": "A scatter gun that fires a wide spread of blaster bolts.",
         "films": "The Force Awakens",
         "_id": {
-            "$oid": "686957e87936d46d8bac789f"
+            "$oid": "68695dc13e9b14831c3f6f53"
         }
     }
 ]
