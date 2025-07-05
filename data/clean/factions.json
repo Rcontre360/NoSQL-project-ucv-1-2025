@@ -62,5 +62,29 @@
         "_id": {
             "$oid": "68695dc13e9b14831c3f6f82"
         }
+    },
+    {
+        "name": "Separatists",
+        "type": "",
+        "leader_name": "Dooku",
+        "_id": {
+            "$oid": "68695dc13e9b14831c3f7026"
+        }
+    },
+    {
+        "name": "Naboo Royal Guards",
+        "type": "",
+        "leader_name": "Captain Panaka",
+        "_id": {
+            "$oid": "68695dc13e9b14831c3f7022"
+        }
+    },
+    {
+        "name": "Gungan Grand Army",
+        "type": "",
+        "leader_name": "Rugor Nass",
+        "_id": {
+            "$oid": "68695dc13e9b14831c3f7023"
+        }
     }
 ]
