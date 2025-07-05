@@ -79,7 +79,7 @@
             "name": {
               "bsonType": "string"
             },
-            "role": {
+            "impact": {
               "bsonType": "string"
             }
           }
