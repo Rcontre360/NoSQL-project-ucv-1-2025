@@ -4,19 +4,19 @@
         "stardate": "0 BBY",
         "description": "was a major and decisive battle of the Galactic Civil War in which the Rebel Alliance was able to destroy the Death Star",
         "movie_id": {
-            "$oid": "68698117aea94648167849a5"
+            "$oid": "68698a96026817ff30039b69"
         },
         "factions": [
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490d"
+                    "$oid": "68698a96026817ff30039ad1"
                 },
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490c"
+                    "$oid": "68698a96026817ff30039ad0"
                 },
                 "name": "Galactic Empire",
                 "role": "minor"
@@ -26,168 +26,168 @@
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678494e"
+                    "$oid": "68698a96026817ff30039b12"
                 },
                 "name": "Luke Skywalker",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784950"
+                    "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784952"
+                    "$oid": "68698a96026817ff30039b16"
                 },
                 "name": "Leia Organa",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784953"
+                    "$oid": "68698a96026817ff30039b17"
                 },
                 "name": "R5-D4",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784954"
+                    "$oid": "68698a96026817ff30039b18"
                 },
                 "name": "Biggs Darklighter",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784957"
+                    "$oid": "68698a96026817ff30039b1b"
                 },
                 "name": "Chewbacca",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784958"
+                    "$oid": "68698a96026817ff30039b1c"
                 },
                 "name": "Han Solo",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495b"
+                    "$oid": "68698a96026817ff30039b1f"
                 },
                 "name": "Wedge Antilles",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784961"
+                    "$oid": "68698a96026817ff30039b25"
                 },
                 "name": "Lando Calrissian",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784962"
+                    "$oid": "68698a96026817ff30039b26"
                 },
                 "name": "Lobot",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784963"
+                    "$oid": "68698a96026817ff30039b27"
                 },
                 "name": "Ackbar",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784964"
+                    "$oid": "68698a96026817ff30039b28"
                 },
                 "name": "Mon Mothma",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784965"
+                    "$oid": "68698a96026817ff30039b29"
                 },
                 "name": "Wicket Systri Warrick",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784966"
+                    "$oid": "68698a96026817ff30039b2a"
                 },
                 "name": "Nien Nunb",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784985"
+                    "$oid": "68698a96026817ff30039b49"
                 },
                 "name": "Bail Prestor Organa",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678494f"
+                    "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784951"
+                    "$oid": "68698a96026817ff30039b15"
                 },
                 "name": "Darth Vader",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495a"
+                    "$oid": "68698a96026817ff30039b1e"
                 },
                 "name": "Jabba Desilijic Tiure",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495d"
+                    "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495f"
+                    "$oid": "68698a96026817ff30039b23"
                 },
                 "name": "IG-88",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784960"
+                    "$oid": "68698a96026817ff30039b24"
                 },
                 "name": "Bossk",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784982"
+                    "$oid": "68698a96026817ff30039b46"
                 },
                 "name": "Barriss Offee",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784989"
+                    "$oid": "68698a96026817ff30039b4d"
                 },
                 "name": "Lama Su",
-                "role": ""
+                "impact": ""
             }
         ],
         "_id": {
-            "$oid": "68698117aea94648167849b6"
+            "$oid": "68698a96026817ff30039b7a"
         }
     },
     {
@@ -195,19 +195,19 @@
         "stardate": "3 ABY",
         "description": "The battle was an Imperial invasion led by Darth Vader aimed at destroying the Rebel Alliance's Echo Base",
         "movie_id": {
-            "$oid": "68698117aea94648167849a6"
+            "$oid": "68698a96026817ff30039b6a"
         },
         "factions": [
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490d"
+                    "$oid": "68698a96026817ff30039ad1"
                 },
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490c"
+                    "$oid": "68698a96026817ff30039ad0"
                 },
                 "name": "Galactic Empire",
                 "role": "minor"
@@ -217,168 +217,168 @@
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678494e"
+                    "$oid": "68698a96026817ff30039b12"
                 },
                 "name": "Luke Skywalker",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784950"
+                    "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784952"
+                    "$oid": "68698a96026817ff30039b16"
                 },
                 "name": "Leia Organa",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784953"
+                    "$oid": "68698a96026817ff30039b17"
                 },
                 "name": "R5-D4",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784954"
+                    "$oid": "68698a96026817ff30039b18"
                 },
                 "name": "Biggs Darklighter",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784957"
+                    "$oid": "68698a96026817ff30039b1b"
                 },
                 "name": "Chewbacca",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784958"
+                    "$oid": "68698a96026817ff30039b1c"
                 },
                 "name": "Han Solo",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495b"
+                    "$oid": "68698a96026817ff30039b1f"
                 },
                 "name": "Wedge Antilles",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784961"
+                    "$oid": "68698a96026817ff30039b25"
                 },
                 "name": "Lando Calrissian",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784962"
+                    "$oid": "68698a96026817ff30039b26"
                 },
                 "name": "Lobot",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784963"
+                    "$oid": "68698a96026817ff30039b27"
                 },
                 "name": "Ackbar",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784964"
+                    "$oid": "68698a96026817ff30039b28"
                 },
                 "name": "Mon Mothma",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784965"
+                    "$oid": "68698a96026817ff30039b29"
                 },
                 "name": "Wicket Systri Warrick",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784966"
+                    "$oid": "68698a96026817ff30039b2a"
                 },
                 "name": "Nien Nunb",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784985"
+                    "$oid": "68698a96026817ff30039b49"
                 },
                 "name": "Bail Prestor Organa",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678494f"
+                    "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784951"
+                    "$oid": "68698a96026817ff30039b15"
                 },
                 "name": "Darth Vader",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495a"
+                    "$oid": "68698a96026817ff30039b1e"
                 },
                 "name": "Jabba Desilijic Tiure",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495d"
+                    "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495f"
+                    "$oid": "68698a96026817ff30039b23"
                 },
                 "name": "IG-88",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784960"
+                    "$oid": "68698a96026817ff30039b24"
                 },
                 "name": "Bossk",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784982"
+                    "$oid": "68698a96026817ff30039b46"
                 },
                 "name": "Barriss Offee",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784989"
+                    "$oid": "68698a96026817ff30039b4d"
                 },
                 "name": "Lama Su",
-                "role": ""
+                "impact": ""
             }
         ],
         "_id": {
-            "$oid": "68698117aea94648167849b7"
+            "$oid": "68698a96026817ff30039b7b"
         }
     },
     {
@@ -386,19 +386,19 @@
         "stardate": "4 ABY",
         "description": "the Alliance to Restore the Republic shattered the rule of the Galactic Empire and saw the destruction of the DS-2 Death Star ",
         "movie_id": {
-            "$oid": "68698117aea94648167849a5"
+            "$oid": "68698a96026817ff30039b69"
         },
         "factions": [
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490d"
+                    "$oid": "68698a96026817ff30039ad1"
                 },
                 "name": "Rebel Alliance",
                 "role": "minor"
             },
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490c"
+                    "$oid": "68698a96026817ff30039ad0"
                 },
                 "name": "Galactic Empire",
                 "role": "minor"
@@ -408,168 +408,168 @@
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678494e"
+                    "$oid": "68698a96026817ff30039b12"
                 },
                 "name": "Luke Skywalker",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784950"
+                    "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784952"
+                    "$oid": "68698a96026817ff30039b16"
                 },
                 "name": "Leia Organa",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784953"
+                    "$oid": "68698a96026817ff30039b17"
                 },
                 "name": "R5-D4",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784954"
+                    "$oid": "68698a96026817ff30039b18"
                 },
                 "name": "Biggs Darklighter",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784957"
+                    "$oid": "68698a96026817ff30039b1b"
                 },
                 "name": "Chewbacca",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784958"
+                    "$oid": "68698a96026817ff30039b1c"
                 },
                 "name": "Han Solo",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495b"
+                    "$oid": "68698a96026817ff30039b1f"
                 },
                 "name": "Wedge Antilles",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784961"
+                    "$oid": "68698a96026817ff30039b25"
                 },
                 "name": "Lando Calrissian",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784962"
+                    "$oid": "68698a96026817ff30039b26"
                 },
                 "name": "Lobot",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784963"
+                    "$oid": "68698a96026817ff30039b27"
                 },
                 "name": "Ackbar",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784964"
+                    "$oid": "68698a96026817ff30039b28"
                 },
                 "name": "Mon Mothma",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784965"
+                    "$oid": "68698a96026817ff30039b29"
                 },
                 "name": "Wicket Systri Warrick",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784966"
+                    "$oid": "68698a96026817ff30039b2a"
                 },
                 "name": "Nien Nunb",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784985"
+                    "$oid": "68698a96026817ff30039b49"
                 },
                 "name": "Bail Prestor Organa",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678494f"
+                    "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784951"
+                    "$oid": "68698a96026817ff30039b15"
                 },
                 "name": "Darth Vader",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495a"
+                    "$oid": "68698a96026817ff30039b1e"
                 },
                 "name": "Jabba Desilijic Tiure",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495d"
+                    "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495f"
+                    "$oid": "68698a96026817ff30039b23"
                 },
                 "name": "IG-88",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784960"
+                    "$oid": "68698a96026817ff30039b24"
                 },
                 "name": "Bossk",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784982"
+                    "$oid": "68698a96026817ff30039b46"
                 },
                 "name": "Barriss Offee",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784989"
+                    "$oid": "68698a96026817ff30039b4d"
                 },
                 "name": "Lama Su",
-                "role": ""
+                "impact": ""
             }
         ],
         "_id": {
-            "$oid": "68698117aea94648167849b8"
+            "$oid": "68698a96026817ff30039b7c"
         }
     },
     {
@@ -577,22 +577,22 @@
         "stardate": "32 BBY",
         "description": "was the final conflict of the Trade Federation's invasion of the planet Naboo.",
         "movie_id": {
-            "$oid": "68698117aea94648167849a8"
+            "$oid": "68698a96026817ff30039b6c"
         },
         "factions": [
             {
-                "faction_id": "68698117aea94648167849b1",
+                "faction_id": "68698a96026817ff30039b75",
                 "name": "Naboo",
                 "role": "minor"
             },
             {
-                "faction_id": "68698117aea94648167849b2",
+                "faction_id": "68698a96026817ff30039b76",
                 "name": "Gungans",
                 "role": "minor"
             },
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490f"
+                    "$oid": "68698a96026817ff30039ad3"
                 },
                 "name": "Trade Federation",
                 "role": "minor"
@@ -602,14 +602,14 @@
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784968"
+                    "$oid": "68698a96026817ff30039b2c"
                 },
                 "name": "Nute Gunray",
-                "role": ""
+                "impact": ""
             }
         ],
         "_id": {
-            "$oid": "68698117aea94648167849b9"
+            "$oid": "68698a96026817ff30039b7d"
         }
     },
     {
@@ -617,18 +617,18 @@
         "stardate": "22 BBY",
         "description": "first major battle fought in 22 BBY between the Confederacy of Independent Systems and the Galactic Republic on Geonosis",
         "movie_id": {
-            "$oid": "68698117aea94648167849a9"
+            "$oid": "68698a96026817ff30039b6d"
         },
         "factions": [
             {
                 "faction_id": {
-                    "$oid": "68698117aea946481678490e"
+                    "$oid": "68698a96026817ff30039ad2"
                 },
                 "name": "Galactic Republic",
                 "role": "minor"
             },
             {
-                "faction_id": "68698117aea94648167849b5",
+                "faction_id": "68698a96026817ff30039b79",
                 "name": "Separatists",
                 "role": "minor"
             }
@@ -637,147 +637,147 @@
         "characters": [
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784950"
+                    "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495a"
+                    "$oid": "68698a96026817ff30039b1e"
                 },
                 "name": "Jabba Desilijic Tiure",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678495d"
+                    "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784963"
+                    "$oid": "68698a96026817ff30039b27"
                 },
                 "name": "Ackbar",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784964"
+                    "$oid": "68698a96026817ff30039b28"
                 },
                 "name": "Mon Mothma",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784969"
+                    "$oid": "68698a96026817ff30039b2d"
                 },
                 "name": "Padmé Amidala",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678496a"
+                    "$oid": "68698a96026817ff30039b2e"
                 },
                 "name": "Jar Jar Binks",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678496b"
+                    "$oid": "68698a96026817ff30039b2f"
                 },
                 "name": "Roos Tarpals",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784976"
+                    "$oid": "68698a96026817ff30039b3a"
                 },
                 "name": "Ben Quadinaros",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784978"
+                    "$oid": "68698a96026817ff30039b3c"
                 },
                 "name": "Ki-Adi-Mundi",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678497f"
+                    "$oid": "68698a96026817ff30039b43"
                 },
                 "name": "Mas Amedda",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784980"
+                    "$oid": "68698a96026817ff30039b44"
                 },
                 "name": "Poggle the Lesser",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784983"
+                    "$oid": "68698a96026817ff30039b47"
                 },
                 "name": "Dormé",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784985"
+                    "$oid": "68698a96026817ff30039b49"
                 },
                 "name": "Bail Prestor Organa",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784986"
+                    "$oid": "68698a96026817ff30039b4a"
                 },
                 "name": "Jango Fett",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784988"
+                    "$oid": "68698a96026817ff30039b4c"
                 },
                 "name": "Dexter Jettster",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784989"
+                    "$oid": "68698a96026817ff30039b4d"
                 },
                 "name": "Lama Su",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea946481678498a"
+                    "$oid": "68698a96026817ff30039b4e"
                 },
                 "name": "Taun We",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784990"
+                    "$oid": "68698a96026817ff30039b54"
                 },
                 "name": "Tarfful",
-                "role": ""
+                "impact": ""
             },
             {
                 "character_id": {
-                    "$oid": "68698117aea9464816784991"
+                    "$oid": "68698a96026817ff30039b55"
                 },
                 "name": "Tion Medon",
-                "role": ""
+                "impact": ""
             }
         ],
         "_id": {
-            "$oid": "68698117aea94648167849ba"
+            "$oid": "68698a96026817ff30039b7e"
         }
     }
 ]
