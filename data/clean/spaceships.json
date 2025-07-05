@@ -7,11 +7,11 @@
         "length": 34.37,
         "min_crew": 4,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bddb"
+            "$oid": "68694668946191455d9903a1"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be21"
+            "$oid": "68694668946191455d9903dc"
         }
     },
     {
@@ -22,11 +22,11 @@
         "length": 12.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdcf"
+            "$oid": "68694668946191455d990398"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be22"
+            "$oid": "68694668946191455d9903dd"
         }
     },
     {
@@ -37,11 +37,11 @@
         "length": 9.2,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdd2"
+            "$oid": "68694668946191455d99039b"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be23"
+            "$oid": "68694668946191455d9903de"
         }
     },
     {
@@ -52,11 +52,11 @@
         "length": 21.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bde3"
+            "$oid": "68694668946191455d9903a8"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be24"
+            "$oid": "68694668946191455d9903df"
         }
     },
     {
@@ -67,11 +67,11 @@
         "length": 20.0,
         "min_crew": 6,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdcf"
+            "$oid": "68694668946191455d990398"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be25"
+            "$oid": "68694668946191455d9903e0"
         }
     },
     {
@@ -81,12 +81,10 @@
         "manufacturer": "Alliance Underground Engineering, Incom Corporation",
         "length": 9.6,
         "min_crew": 1,
-        "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdea"
-        },
+        "pilot_id": "https://swapi.info/api/people/29",
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be26"
+            "$oid": "68694668946191455d9903e1"
         }
     },
     {
@@ -97,11 +95,11 @@
         "length": 11.0,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdd9"
+            "$oid": "68694668946191455d9903a0"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be27"
+            "$oid": "68694668946191455d9903e2"
         }
     },
     {
@@ -111,12 +109,10 @@
         "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
         "length": 76.0,
         "min_crew": 8,
-        "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdf4"
-        },
+        "pilot_id": "https://swapi.info/api/people/39",
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be28"
+            "$oid": "68694668946191455d9903e3"
         }
     },
     {
@@ -127,11 +123,11 @@
         "length": 26.5,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdf9"
+            "$oid": "68694668946191455d9903ba"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be29"
+            "$oid": "68694668946191455d9903e4"
         }
     },
     {
@@ -142,11 +138,11 @@
         "length": 8.0,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdd8"
+            "$oid": "68694668946191455d99039f"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be2a"
+            "$oid": "68694668946191455d9903e5"
         }
     },
     {
@@ -157,11 +153,11 @@
         "length": 47.9,
         "min_crew": 4,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdf0"
+            "$oid": "68694668946191455d9903b3"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be2b"
+            "$oid": "68694668946191455d9903e6"
         }
     },
     {
@@ -172,11 +168,11 @@
         "length": 1088.0,
         "min_crew": 600,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdd8"
+            "$oid": "68694668946191455d99039f"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be2c"
+            "$oid": "68694668946191455d9903e7"
         }
     },
     {
@@ -187,11 +183,11 @@
         "length": 29.2,
         "min_crew": 3,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdd8"
+            "$oid": "68694668946191455d99039f"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be2d"
+            "$oid": "68694668946191455d9903e8"
         }
     },
     {
@@ -202,11 +198,11 @@
         "length": 5.47,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdd8"
+            "$oid": "68694668946191455d99039f"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be2e"
+            "$oid": "68694668946191455d9903e9"
         }
     },
     {
@@ -217,11 +213,11 @@
         "length": 6.71,
         "min_crew": 1,
         "pilot_id": {
-            "$oid": "68687e6d027261d9d800bdd8"
+            "$oid": "68694668946191455d99039f"
         },
         "faction_id": "",
         "_id": {
-            "$oid": "68687e6d027261d9d800be2f"
+            "$oid": "68694668946191455d9903ea"
         }
     }
 ]

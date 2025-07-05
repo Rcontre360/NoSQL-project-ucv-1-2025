@@ -67,12 +67,14 @@ planets_clean = save_list_to_json_file(planets_clean, "./clean/planets.json")
 
 # now characters (a hard one)
 raw_characters = read_json_to_list_of_dicts("./raw/characters.json")
+raw_characters_2 = read_csv_to_list_of_dicts('./raw/characters_2.csv')
 raw_characters_weapons = read_json_to_list_of_dicts("./manual/characters-weapons.json")
 characters_factions = read_json_to_list_of_dicts("./manual/characters-factions.json")
 
 for rchar in raw_characters:
     rplanet = list(filter(lambda rp: rp['url'].lower() == rchar['homeworld'].lower(), planets))
 
+    #planet
     if len(rplanet) > 0:
         planet = list(filter(lambda p: p['name'].lower() == rplanet[0]['name'].lower(), planets_clean))
         if len(planet) > 0:
@@ -85,6 +87,13 @@ for rchar in raw_characters:
             specie = list(filter(lambda p: p['name'].lower() == rspecie[0]['name'].lower(), clean_species))
             if len(specie) > 0:
                 rchar['species'] = [specie[0]['_id']]
+    else:
+        rchar_2 = find_by_field('name',rchar['name'],raw_characters_2)
+        if rchar_2 != None:
+            raw_specie_2 = find_by_field('name',rchar_2['species'], species_with_planets)
+            if raw_specie_2 != None:
+                specie = find_by_field('name',raw_specie_2['name'], clean_species)
+                rchar['species'] = [specie['_id']]
 
     # factions
     char_factions_info = next((cf for cf in characters_factions if cf['character_name'].strip().lower() == rchar['name'].strip().lower()), None)
@@ -111,6 +120,8 @@ for rchar in raw_characters:
                 rchar['weapon']['crystal_color'] = char_weapon_info['color']
 
 characters_clean = list(map(lambda cc:character_to_mongo(cc), raw_characters))
+# filter without specie
+characters_clean = list(filter(lambda cc: cc['species_id'] != None, characters_clean))
 characters_clean = save_list_to_json_file(characters_clean, "./clean/characters.json")
 
 # now starships. We will filter those whout pilots
@@ -137,7 +148,10 @@ for city in cities_clean:
     planet = find_by_field('name', city['planet_id'], planets_clean)
     if planet:
         city['planet_id'] = planet['_id']
+    else:
+        city['planet_id'] = None
 
+cities_clean = list(filter(lambda ct: ct['planet_id'] != None,cities_clean))
 cities_clean = save_list_to_json_file(cities_clean, "./clean/locations.json")
 
 # now with historic events. for now we only have battles
@@ -175,11 +189,12 @@ for movie in movies_clean:
     for char_url in movie['characters']:
         raw_char = find_by_field('url',char_url,raw_characters)
         clean_char = find_by_field('name', raw_char['name'], characters_clean)
-        new_chars.append({
-            'character_id':clean_char['_id'],
-            'name':clean_char['name'],
-            'role':'',
-        })
+        if clean_char != None:
+            new_chars.append({
+                'character_id':clean_char['_id'],
+                'name':clean_char['name'],
+                'role':'',
+            })
 
     for ship_url in movie['starships']:
         raw_ship = find_by_field('url',ship_url,raw_spaceships)

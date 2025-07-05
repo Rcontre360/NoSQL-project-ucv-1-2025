@@ -5,15 +5,17 @@
         "height": 172,
         "mass": 77,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
+            "$oid": "68694668946191455d99035c"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -23,7 +25,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdcf"
+            "$oid": "68694668946191455d990398"
         }
     },
     {
@@ -32,17 +34,17 @@
         "height": 167,
         "mass": 75,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
+            "$oid": "68694668946191455d99035c"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd04"
+            "$oid": "68694668946191455d9902cd"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8c"
+                "$oid": "68694668946191455d990355"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             }
         ],
         "weapon": {
@@ -51,7 +53,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd0"
+            "$oid": "68694668946191455d990399"
         }
     },
     {
@@ -60,20 +62,20 @@
         "height": 96,
         "mass": 32,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
+            "$oid": "68694668946191455d990363"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd04"
+            "$oid": "68694668946191455d9902cd"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             },
             {
-                "$oid": "68687e6d027261d9d800bd92"
+                "$oid": "68694668946191455d99035b"
             }
         ],
         "weapon": {
@@ -82,7 +84,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd1"
+            "$oid": "68694668946191455d99039a"
         }
     },
     {
@@ -91,15 +93,17 @@
         "height": 202,
         "mass": 136,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
+            "$oid": "68694668946191455d99035c"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8c"
+                "$oid": "68694668946191455d990355"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             }
         ],
         "weapon": {
@@ -109,7 +113,7 @@
             "crystal_color": "Red"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd2"
+            "$oid": "68694668946191455d99039b"
         }
     },
     {
@@ -118,15 +122,17 @@
         "height": 150,
         "mass": 49,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd94"
+            "$oid": "68694668946191455d99035d"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             },
             {
-                "$oid": "68687e6d027261d9d800bd92"
+                "$oid": "68694668946191455d99035b"
             }
         ],
         "weapon": {
@@ -135,45 +141,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd3"
-        }
-    },
-    {
-        "name": "Owen Lars",
-        "gender": "male",
-        "height": 178,
-        "mass": 120,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
-        },
-        "species_id": null,
-        "faction_ids": [],
-        "weapon": {
-            "name": "E-11 Blaster Rifle",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bdd4"
-        }
-    },
-    {
-        "name": "Beru Whitesun lars",
-        "gender": "female",
-        "height": 165,
-        "mass": 75,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
-        },
-        "species_id": null,
-        "faction_ids": [],
-        "weapon": {
-            "name": "E-11 Blaster Rifle",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bdd5"
+            "$oid": "68694668946191455d99039c"
         }
     },
     {
@@ -182,14 +150,14 @@
         "height": 97,
         "mass": 32,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
+            "$oid": "68694668946191455d99035c"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd04"
+            "$oid": "68694668946191455d9902cd"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -198,7 +166,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd6"
+            "$oid": "68694668946191455d99039d"
         }
     },
     {
@@ -207,12 +175,14 @@
         "height": 183,
         "mass": 84,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
+            "$oid": "68694668946191455d99035c"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -221,7 +191,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd7"
+            "$oid": "68694668946191455d99039e"
         }
     },
     {
@@ -230,12 +200,14 @@
         "height": 182,
         "mass": 77,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda6"
+            "$oid": "68694668946191455d99036f"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -245,7 +217,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd8"
+            "$oid": "68694668946191455d99039f"
         }
     },
     {
@@ -254,12 +226,14 @@
         "height": 188,
         "mass": 84,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
+            "$oid": "68694668946191455d99035c"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -269,33 +243,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdd9"
-        }
-    },
-    {
-        "name": "Wilhuff Tarkin",
-        "gender": "male",
-        "height": 180,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda7"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8d"
-            },
-            {
-                "$oid": "68687e6d027261d9d800bd8f"
-            }
-        ],
-        "weapon": {
-            "name": "None",
-            "type": "None",
-            "manufacturer": "None"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bdda"
+            "$oid": "68694668946191455d9903a0"
         }
     },
     {
@@ -304,17 +252,17 @@
         "height": 228,
         "mass": 112,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda0"
+            "$oid": "68694668946191455d990369"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd05"
+            "$oid": "68694668946191455d9902ce"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             },
             {
-                "$oid": "68687e6d027261d9d800bd92"
+                "$oid": "68694668946191455d99035b"
             }
         ],
         "weapon": {
@@ -323,7 +271,7 @@
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bddb"
+            "$oid": "68694668946191455d9903a1"
         }
     },
     {
@@ -332,12 +280,14 @@
         "height": 180,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda8"
+            "$oid": "68694668946191455d990371"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -346,7 +296,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bddc"
+            "$oid": "68694668946191455d9903a2"
         }
     },
     {
@@ -355,10 +305,10 @@
         "height": 173,
         "mass": 74,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda9"
+            "$oid": "68694668946191455d990372"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd06"
+            "$oid": "68694668946191455d9902cf"
         },
         "faction_ids": [],
         "weapon": {
@@ -367,7 +317,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bddd"
+            "$oid": "68694668946191455d9903a3"
         }
     },
     {
@@ -376,17 +326,17 @@
         "height": 175,
         "mass": 1358,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdaa"
+            "$oid": "68694668946191455d990373"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd07"
+            "$oid": "68694668946191455d9902d0"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -395,7 +345,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdde"
+            "$oid": "68694668946191455d9903a4"
         }
     },
     {
@@ -404,12 +354,14 @@
         "height": 170,
         "mass": 77,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda8"
+            "$oid": "68694668946191455d990371"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -418,30 +370,7 @@
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bddf"
-        }
-    },
-    {
-        "name": "Jek Tono Porkins",
-        "gender": "male",
-        "height": 180,
-        "mass": 110,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdac"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8e"
-            }
-        ],
-        "weapon": {
-            "name": "DC-17 Hand Blaster",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bde0"
+            "$oid": "68694668946191455d9903a5"
         }
     },
     {
@@ -450,14 +379,14 @@
         "height": 66,
         "mass": 17,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdae"
+            "$oid": "68694668946191455d990377"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd08"
+            "$oid": "68694668946191455d9902d1"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -467,7 +396,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde1"
+            "$oid": "68694668946191455d9903a6"
         }
     },
     {
@@ -476,18 +405,20 @@
         "height": 170,
         "mass": 75,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
+            "$oid": "68694668946191455d990363"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8c"
+                "$oid": "68694668946191455d990355"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -496,7 +427,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde2"
+            "$oid": "68694668946191455d9903a7"
         }
     },
     {
@@ -505,9 +436,11 @@
         "height": 183,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9c"
+            "$oid": "68694668946191455d990365"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [],
         "weapon": {
             "name": "DC-15S Blaster Carbine",
@@ -515,7 +448,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde3"
+            "$oid": "68694668946191455d9903a8"
         }
     },
     {
@@ -524,14 +457,14 @@
         "height": 200,
         "mass": 140,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdae"
+            "$oid": "68694668946191455d990377"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd04"
+            "$oid": "68694668946191455d9902cd"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             }
         ],
         "weapon": {
@@ -540,7 +473,7 @@
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde4"
+            "$oid": "68694668946191455d9903a9"
         }
     },
     {
@@ -549,14 +482,14 @@
         "height": 190,
         "mass": 113,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdaf"
+            "$oid": "68694668946191455d990378"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd09"
+            "$oid": "68694668946191455d9902d2"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             }
         ],
         "weapon": {
@@ -565,7 +498,7 @@
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde5"
+            "$oid": "68694668946191455d9903aa"
         }
     },
     {
@@ -574,15 +507,17 @@
         "height": 177,
         "mass": 79,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb0"
+            "$oid": "68694668946191455d990379"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             },
             {
-                "$oid": "68687e6d027261d9d800bd92"
+                "$oid": "68694668946191455d99035b"
             }
         ],
         "weapon": {
@@ -591,7 +526,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde6"
+            "$oid": "68694668946191455d9903ab"
         }
     },
     {
@@ -600,12 +535,14 @@
         "height": 175,
         "mass": 79,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd98"
+            "$oid": "68694668946191455d990361"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -614,7 +551,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde7"
+            "$oid": "68694668946191455d9903ac"
         }
     },
     {
@@ -623,20 +560,20 @@
         "height": 180,
         "mass": 83,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb1"
+            "$oid": "68694668946191455d99037a"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0a"
+            "$oid": "68694668946191455d9902d3"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             },
             {
-                "$oid": "68687e6d027261d9d800bd92"
+                "$oid": "68694668946191455d99035b"
             }
         ],
         "weapon": {
@@ -645,7 +582,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde8"
+            "$oid": "68694668946191455d9903ad"
         }
     },
     {
@@ -654,15 +591,17 @@
         "height": 150,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb2"
+            "$oid": "68694668946191455d99037b"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -671,30 +610,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bde9"
-        }
-    },
-    {
-        "name": "Arvel Crynyd",
-        "gender": "male",
-        "height": 0,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdae"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8e"
-            }
-        ],
-        "weapon": {
-            "name": "Z-6 Rotary Blaster Cannon",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bdea"
+            "$oid": "68694668946191455d9903ae"
         }
     },
     {
@@ -703,14 +619,14 @@
         "height": 88,
         "mass": 20,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd99"
+            "$oid": "68694668946191455d990362"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0b"
+            "$oid": "68694668946191455d9902d4"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -719,7 +635,7 @@
             "manufacturer": "Nightsisters"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdeb"
+            "$oid": "68694668946191455d9903af"
         }
     },
     {
@@ -728,17 +644,17 @@
         "height": 160,
         "mass": 68,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb3"
+            "$oid": "68694668946191455d99037c"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0c"
+            "$oid": "68694668946191455d9902d5"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             },
             {
-                "$oid": "68687e6d027261d9d800bd92"
+                "$oid": "68694668946191455d99035b"
             }
         ],
         "weapon": {
@@ -747,7 +663,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdec"
+            "$oid": "68694668946191455d9903b0"
         }
     },
     {
@@ -756,12 +672,14 @@
         "height": 193,
         "mass": 89,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdae"
+            "$oid": "68694668946191455d990377"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -771,7 +689,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bded"
+            "$oid": "68694668946191455d9903b1"
         }
     },
     {
@@ -780,14 +698,14 @@
         "height": 191,
         "mass": 90,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda4"
+            "$oid": "68694668946191455d99036d"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0d"
+            "$oid": "68694668946191455d9902d6"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd90"
+                "$oid": "68694668946191455d990359"
             }
         ],
         "weapon": {
@@ -796,30 +714,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdee"
-        }
-    },
-    {
-        "name": "Finis Valorum",
-        "gender": "male",
-        "height": 170,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9b"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8f"
-            }
-        ],
-        "weapon": {
-            "name": "None",
-            "type": "None",
-            "manufacturer": "None"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bdef"
+            "$oid": "68694668946191455d9903b2"
         }
     },
     {
@@ -828,12 +723,14 @@
         "height": 185,
         "mass": 45,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
+            "$oid": "68694668946191455d990363"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -842,7 +739,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf0"
+            "$oid": "68694668946191455d9903b3"
         }
     },
     {
@@ -851,14 +748,14 @@
         "height": 196,
         "mass": 66,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
+            "$oid": "68694668946191455d990363"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0e"
+            "$oid": "68694668946191455d9902d7"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -867,7 +764,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf1"
+            "$oid": "68694668946191455d9903b4"
         }
     },
     {
@@ -876,14 +773,14 @@
         "height": 224,
         "mass": 82,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
+            "$oid": "68694668946191455d990363"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0e"
+            "$oid": "68694668946191455d9902d7"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -892,7 +789,7 @@
             "manufacturer": "Merr-Sonn Munitions"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf2"
+            "$oid": "68694668946191455d9903b5"
         }
     },
     {
@@ -901,10 +798,10 @@
         "height": 206,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
+            "$oid": "68694668946191455d990363"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0e"
+            "$oid": "68694668946191455d9902d7"
         },
         "faction_ids": [],
         "weapon": {
@@ -913,26 +810,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf3"
-        }
-    },
-    {
-        "name": "Ric Olié",
-        "gender": "male",
-        "height": 183,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
-        },
-        "species_id": null,
-        "faction_ids": [],
-        "weapon": {
-            "name": "SE-14C Blaster Pistol",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bdf4"
+            "$oid": "68694668946191455d9903b6"
         }
     },
     {
@@ -941,10 +819,10 @@
         "height": 137,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb4"
+            "$oid": "68694668946191455d99037d"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd0f"
+            "$oid": "68694668946191455d9902d8"
         },
         "faction_ids": [],
         "weapon": {
@@ -953,7 +831,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf5"
+            "$oid": "68694668946191455d9903b7"
         }
     },
     {
@@ -962,10 +840,10 @@
         "height": 112,
         "mass": 40,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb5"
+            "$oid": "68694668946191455d99037e"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd10"
+            "$oid": "68694668946191455d9902d9"
         },
         "faction_ids": [],
         "weapon": {
@@ -974,30 +852,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf6"
-        }
-    },
-    {
-        "name": "Quarsh Panaka",
-        "gender": "male",
-        "height": 183,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8f"
-            }
-        ],
-        "weapon": {
-            "name": "SE-14C Blaster Pistol",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800bdf7"
+            "$oid": "68694668946191455d9903b8"
         }
     },
     {
@@ -1006,9 +861,11 @@
         "height": 163,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
+            "$oid": "68694668946191455d99035c"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [],
         "weapon": {
             "name": "None",
@@ -1016,7 +873,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf8"
+            "$oid": "68694668946191455d9903b9"
         }
     },
     {
@@ -1025,14 +882,14 @@
         "height": 175,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb6"
+            "$oid": "68694668946191455d99037f"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd18"
+            "$oid": "68694668946191455d9902e1"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8c"
+                "$oid": "68694668946191455d990355"
             }
         ],
         "weapon": {
@@ -1042,7 +899,7 @@
             "crystal_color": "Red"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdf9"
+            "$oid": "68694668946191455d9903ba"
         }
     },
     {
@@ -1051,10 +908,10 @@
         "height": 180,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb7"
+            "$oid": "68694668946191455d990380"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd11"
+            "$oid": "68694668946191455d9902da"
         },
         "faction_ids": [],
         "weapon": {
@@ -1063,7 +920,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdfa"
+            "$oid": "68694668946191455d9903bb"
         }
     },
     {
@@ -1072,14 +929,14 @@
         "height": 178,
         "mass": 55,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb7"
+            "$oid": "68694668946191455d990380"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd11"
+            "$oid": "68694668946191455d9902da"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1089,7 +946,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdfb"
+            "$oid": "68694668946191455d9903bc"
         }
     },
     {
@@ -1098,10 +955,10 @@
         "height": 79,
         "mass": 15,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb8"
+            "$oid": "68694668946191455d990381"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd12"
+            "$oid": "68694668946191455d9902db"
         },
         "faction_ids": [],
         "weapon": {
@@ -1110,7 +967,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdfc"
+            "$oid": "68694668946191455d9903bd"
         }
     },
     {
@@ -1119,10 +976,10 @@
         "height": 94,
         "mass": 45,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdb9"
+            "$oid": "68694668946191455d990382"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd13"
+            "$oid": "68694668946191455d9902dc"
         },
         "faction_ids": [],
         "weapon": {
@@ -1131,7 +988,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdfd"
+            "$oid": "68694668946191455d9903be"
         }
     },
     {
@@ -1140,10 +997,10 @@
         "height": 122,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdba"
+            "$oid": "68694668946191455d990383"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd14"
+            "$oid": "68694668946191455d9902dd"
         },
         "faction_ids": [],
         "weapon": {
@@ -1152,7 +1009,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdfe"
+            "$oid": "68694668946191455d9903bf"
         }
     },
     {
@@ -1161,14 +1018,14 @@
         "height": 163,
         "mass": 65,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdbb"
+            "$oid": "68694668946191455d990384"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd15"
+            "$oid": "68694668946191455d9902de"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1177,7 +1034,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800bdff"
+            "$oid": "68694668946191455d9903c0"
         }
     },
     {
@@ -1186,12 +1043,14 @@
         "height": 188,
         "mass": 84,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdbc"
+            "$oid": "68694668946191455d990385"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1201,7 +1060,7 @@
             "crystal_color": "Purple"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be00"
+            "$oid": "68694668946191455d9903c1"
         }
     },
     {
@@ -1210,17 +1069,17 @@
         "height": 198,
         "mass": 82,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdbd"
+            "$oid": "68694668946191455d990386"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd16"
+            "$oid": "68694668946191455d9902df"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1230,7 +1089,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be01"
+            "$oid": "68694668946191455d9903c2"
         }
     },
     {
@@ -1239,14 +1098,14 @@
         "height": 196,
         "mass": 87,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdbe"
+            "$oid": "68694668946191455d990387"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd17"
+            "$oid": "68694668946191455d9902e0"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1256,7 +1115,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be02"
+            "$oid": "68694668946191455d9903c3"
         }
     },
     {
@@ -1265,14 +1124,14 @@
         "height": 171,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdbf"
+            "$oid": "68694668946191455d990388"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd18"
+            "$oid": "68694668946191455d9902e1"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1282,7 +1141,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be03"
+            "$oid": "68694668946191455d9903c4"
         }
     },
     {
@@ -1291,14 +1150,14 @@
         "height": 184,
         "mass": 50,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9b"
+            "$oid": "68694668946191455d990364"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd19"
+            "$oid": "68694668946191455d9902e2"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1308,7 +1167,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be04"
+            "$oid": "68694668946191455d9903c5"
         }
     },
     {
@@ -1317,14 +1176,14 @@
         "height": 188,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc1"
+            "$oid": "68694668946191455d99038a"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd1a"
+            "$oid": "68694668946191455d9902e3"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1334,7 +1193,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be05"
+            "$oid": "68694668946191455d9903c6"
         }
     },
     {
@@ -1343,14 +1202,14 @@
         "height": 264,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc2"
+            "$oid": "68694668946191455d99038b"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd1b"
+            "$oid": "68694668946191455d9902e4"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1360,7 +1219,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be06"
+            "$oid": "68694668946191455d9903c7"
         }
     },
     {
@@ -1369,14 +1228,14 @@
         "height": 188,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc3"
+            "$oid": "68694668946191455d99038c"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd1c"
+            "$oid": "68694668946191455d9902e5"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1386,7 +1245,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be07"
+            "$oid": "68694668946191455d9903c8"
         }
     },
     {
@@ -1395,14 +1254,14 @@
         "height": 196,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc4"
+            "$oid": "68694668946191455d99038d"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd1d"
+            "$oid": "68694668946191455d9902e6"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1411,72 +1270,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be08"
-        }
-    },
-    {
-        "name": "Gregar Typho",
-        "gender": "male",
-        "height": 185,
-        "mass": 85,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8f"
-            }
-        ],
-        "weapon": {
-            "name": "DL-18 Blaster Pistol",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800be09"
-        }
-    },
-    {
-        "name": "Cordé",
-        "gender": "female",
-        "height": 157,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8f"
-            }
-        ],
-        "weapon": {
-            "name": "None",
-            "type": "None",
-            "manufacturer": "None"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800be0a"
-        }
-    },
-    {
-        "name": "Cliegg Lars",
-        "gender": "male",
-        "height": 183,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd93"
-        },
-        "species_id": null,
-        "faction_ids": [],
-        "weapon": {
-            "name": "None",
-            "type": "None",
-            "manufacturer": "None"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800be0b"
+            "$oid": "68694668946191455d9903c9"
         }
     },
     {
@@ -1485,14 +1279,14 @@
         "height": 183,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9d"
+            "$oid": "68694668946191455d990366"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd1e"
+            "$oid": "68694668946191455d9902e7"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1501,7 +1295,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be0c"
+            "$oid": "68694668946191455d9903ca"
         }
     },
     {
@@ -1510,14 +1304,14 @@
         "height": 170,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc5"
+            "$oid": "68694668946191455d99038e"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd1f"
+            "$oid": "68694668946191455d9902e8"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1527,7 +1321,7 @@
             "crystal_color": "Green"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be0d"
+            "$oid": "68694668946191455d9903cb"
         }
     },
     {
@@ -1536,17 +1330,17 @@
         "height": 166,
         "mass": 50,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc5"
+            "$oid": "68694668946191455d99038e"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd1f"
+            "$oid": "68694668946191455d9902e8"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             }
         ],
         "weapon": {
@@ -1556,7 +1350,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be0e"
+            "$oid": "68694668946191455d9903cc"
         }
     },
     {
@@ -1565,14 +1359,14 @@
         "height": 165,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9a"
+            "$oid": "68694668946191455d990363"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd03"
+            "$oid": "68694668946191455d9902cc"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1581,7 +1375,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be0f"
+            "$oid": "68694668946191455d9903cd"
         }
     },
     {
@@ -1590,17 +1384,17 @@
         "height": 193,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc6"
+            "$oid": "68694668946191455d99038f"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd03"
+            "$oid": "68694668946191455d9902cc"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8c"
+                "$oid": "68694668946191455d990355"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1610,7 +1404,7 @@
             "crystal_color": "Red"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be10"
+            "$oid": "68694668946191455d9903ce"
         }
     },
     {
@@ -1619,17 +1413,17 @@
         "height": 191,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd94"
+            "$oid": "68694668946191455d99035d"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd03"
+            "$oid": "68694668946191455d9902cc"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8e"
+                "$oid": "68694668946191455d990357"
             }
         ],
         "weapon": {
@@ -1638,7 +1432,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be11"
+            "$oid": "68694668946191455d9903cf"
         }
     },
     {
@@ -1647,12 +1441,14 @@
         "height": 183,
         "mass": 79,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc7"
+            "$oid": "68694668946191455d990390"
         },
-        "species_id": null,
+        "species_id": {
+            "$oid": "68694668946191455d9902cc"
+        },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1661,7 +1457,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be12"
+            "$oid": "68694668946191455d9903d0"
         }
     },
     {
@@ -1670,10 +1466,10 @@
         "height": 168,
         "mass": 55,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc8"
+            "$oid": "68694668946191455d990391"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd20"
+            "$oid": "68694668946191455d9902e9"
         },
         "faction_ids": [],
         "weapon": {
@@ -1682,7 +1478,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be13"
+            "$oid": "68694668946191455d9903d1"
         }
     },
     {
@@ -1691,14 +1487,14 @@
         "height": 198,
         "mass": 102,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdc9"
+            "$oid": "68694668946191455d990392"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd21"
+            "$oid": "68694668946191455d9902ea"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1707,7 +1503,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be14"
+            "$oid": "68694668946191455d9903d2"
         }
     },
     {
@@ -1716,20 +1512,20 @@
         "height": 229,
         "mass": 88,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9c"
+            "$oid": "68694668946191455d990365"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd22"
+            "$oid": "68694668946191455d9902eb"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8d"
+                "$oid": "68694668946191455d990356"
             },
             {
-                "$oid": "68687e6d027261d9d800bd8c"
+                "$oid": "68694668946191455d990355"
             }
         ],
         "weapon": {
@@ -1738,7 +1534,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be15"
+            "$oid": "68694668946191455d9903d3"
         }
     },
     {
@@ -1747,14 +1543,14 @@
         "height": 213,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9c"
+            "$oid": "68694668946191455d990365"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd22"
+            "$oid": "68694668946191455d9902eb"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1763,7 +1559,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be16"
+            "$oid": "68694668946191455d9903d4"
         }
     },
     {
@@ -1772,14 +1568,14 @@
         "height": 167,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9b"
+            "$oid": "68694668946191455d990364"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd03"
+            "$oid": "68694668946191455d9902cc"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1788,30 +1584,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be17"
-        }
-    },
-    {
-        "name": "R4-P17",
-        "gender": "female",
-        "height": 96,
-        "mass": 0,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdae"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8b"
-            }
-        ],
-        "weapon": {
-            "name": "None",
-            "type": "None",
-            "manufacturer": "None"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800be18"
+            "$oid": "68694668946191455d9903d5"
         }
     },
     {
@@ -1820,10 +1593,10 @@
         "height": 193,
         "mass": 48,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdca"
+            "$oid": "68694668946191455d990393"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd23"
+            "$oid": "68694668946191455d9902ec"
         },
         "faction_ids": [],
         "weapon": {
@@ -1832,7 +1605,7 @@
             "manufacturer": "None"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be19"
+            "$oid": "68694668946191455d9903d6"
         }
     },
     {
@@ -1841,10 +1614,10 @@
         "height": 191,
         "mass": 0,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdcb"
+            "$oid": "68694668946191455d990394"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd24"
+            "$oid": "68694668946191455d9902ed"
         },
         "faction_ids": [],
         "weapon": {
@@ -1853,7 +1626,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be1a"
+            "$oid": "68694668946191455d9903d7"
         }
     },
     {
@@ -1862,14 +1635,14 @@
         "height": 178,
         "mass": 57,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdcc"
+            "$oid": "68694668946191455d990395"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd25"
+            "$oid": "68694668946191455d9902ee"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8b"
+                "$oid": "68694668946191455d990354"
             }
         ],
         "weapon": {
@@ -1879,7 +1652,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be1b"
+            "$oid": "68694668946191455d9903d8"
         }
     },
     {
@@ -1888,10 +1661,10 @@
         "height": 216,
         "mass": 159,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdcd"
+            "$oid": "68694668946191455d990396"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd26"
+            "$oid": "68694668946191455d9902ef"
         },
         "faction_ids": [],
         "weapon": {
@@ -1901,7 +1674,7 @@
             "crystal_color": "Blue"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be1c"
+            "$oid": "68694668946191455d9903d9"
         }
     },
     {
@@ -1910,14 +1683,14 @@
         "height": 234,
         "mass": 136,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bda0"
+            "$oid": "68694668946191455d990369"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd05"
+            "$oid": "68694668946191455d9902ce"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -1926,59 +1699,7 @@
             "manufacturer": "Various"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be1d"
-        }
-    },
-    {
-        "name": "Raymus Antilles",
-        "gender": "male",
-        "height": 188,
-        "mass": 79,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd94"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8f"
-            },
-            {
-                "$oid": "68687e6d027261d9d800bd8e"
-            }
-        ],
-        "weapon": {
-            "name": "DL-44 Blaster Pistol",
-            "type": "Blaster",
-            "manufacturer": "BlasTech Industries"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800be1e"
-        }
-    },
-    {
-        "name": "Sly Moore",
-        "gender": "female",
-        "height": 178,
-        "mass": 48,
-        "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bdce"
-        },
-        "species_id": null,
-        "faction_ids": [
-            {
-                "$oid": "68687e6d027261d9d800bd8f"
-            },
-            {
-                "$oid": "68687e6d027261d9d800bd8d"
-            }
-        ],
-        "weapon": {
-            "name": "None",
-            "type": "None",
-            "manufacturer": "None"
-        },
-        "_id": {
-            "$oid": "68687e6d027261d9d800be1f"
+            "$oid": "68694668946191455d9903da"
         }
     },
     {
@@ -1987,14 +1708,14 @@
         "height": 206,
         "mass": 80,
         "homeworld_id": {
-            "$oid": "68687e6d027261d9d800bd9e"
+            "$oid": "68694668946191455d990367"
         },
         "species_id": {
-            "$oid": "68687e6d027261d9d800bd27"
+            "$oid": "68694668946191455d9902f0"
         },
         "faction_ids": [
             {
-                "$oid": "68687e6d027261d9d800bd8f"
+                "$oid": "68694668946191455d990358"
             }
         ],
         "weapon": {
@@ -2003,7 +1724,7 @@
             "manufacturer": "BlasTech Industries"
         },
         "_id": {
-            "$oid": "68687e6d027261d9d800be20"
+            "$oid": "68694668946191455d9903db"
         }
     }
 ]
