@@ -205,7 +205,7 @@ def character_to_historic(clean_char: dict) -> dict:
     return {
         "character_id":clean_char['_id'],
         "name":clean_char['name'],
-        "role": ""
+        "impact": ""
     }
 
 for battle in battles_clean:
