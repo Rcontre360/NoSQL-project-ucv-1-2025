@@ -70,7 +70,7 @@
           "required": [
             "character_id",
             "name",
-            "role"
+            "impact"
           ],
           "properties": {
             "character_id": {
@@ -79,7 +79,7 @@
             "name": {
               "bsonType": "string"
             },
-            "role": {
+            "impact": {
               "bsonType": "string"
             }
           }

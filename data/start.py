@@ -203,16 +203,16 @@ event_movie_rel = read_json_to_list_of_dicts('./manual/event-movie.json')
 
 def character_to_historic(clean_char: dict) -> dict:
     return {
-        "character_id":str(clean_char['_id']),
+        "character_id":clean_char['_id'],
         "name":clean_char['name'],
-        "role": ""
+        "impact": ""
     }
 
 for battle in battles_clean:
     for fact in battle['factions']:
         clean_fact = find_by_field('name',fact['name'],clean_factions)
         if clean_fact != None:
-            fact['faction_id'] = str(clean_fact['_id'])
+            fact['faction_id'] = clean_fact['_id']
             fact['name'] = clean_fact['name']
             # lets get all characters of this faction
             battle_characters = list(filter(lambda char: clean_fact['_id'] in char['faction_ids'], characters_clean))

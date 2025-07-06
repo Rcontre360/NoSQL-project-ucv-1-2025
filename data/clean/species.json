@@ -5,7 +5,7 @@
         "average_lifespan": 120,
         "language": "Galactic Basic",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6ef3"
+            "$oid": "68698a96026817ff30039a46"
         }
     },
     {
@@ -14,7 +14,7 @@
         "average_lifespan": 0,
         "language": "n/a",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6ef4"
+            "$oid": "68698a96026817ff30039a47"
         }
     },
     {
@@ -23,7 +23,7 @@
         "average_lifespan": 400,
         "language": "Shyriiwook",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6ef5"
+            "$oid": "68698a96026817ff30039a48"
         }
     },
     {
@@ -32,7 +32,7 @@
         "average_lifespan": 0,
         "language": "Galatic Basic",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6ef6"
+            "$oid": "68698a96026817ff30039a49"
         }
     },
     {
@@ -41,7 +41,7 @@
         "average_lifespan": 1000,
         "language": "Huttese",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6ef7"
+            "$oid": "68698a96026817ff30039a4a"
         }
     },
     {
@@ -50,7 +50,7 @@
         "average_lifespan": 900,
         "language": "Galactic basic",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6ef8"
+            "$oid": "68698a96026817ff30039a4b"
         }
     },
     {
@@ -59,7 +59,7 @@
         "average_lifespan": 0,
         "language": "Dosh",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6ef9"
+            "$oid": "68698a96026817ff30039a4c"
         }
     },
     {
@@ -68,7 +68,7 @@
         "average_lifespan": 0,
         "language": "Mon Calamarian",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6efa"
+            "$oid": "68698a96026817ff30039a4d"
         }
     },
     {
@@ -77,7 +77,7 @@
         "average_lifespan": 0,
         "language": "Ewokese",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6efb"
+            "$oid": "68698a96026817ff30039a4e"
         }
     },
     {
@@ -86,7 +86,7 @@
         "average_lifespan": 0,
         "language": "Sullutese",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6efc"
+            "$oid": "68698a96026817ff30039a4f"
         }
     },
     {
@@ -95,7 +95,7 @@
         "average_lifespan": 0,
         "language": "Neimoidia",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6efd"
+            "$oid": "68698a96026817ff30039a50"
         }
     },
     {
@@ -104,7 +104,7 @@
         "average_lifespan": 0,
         "language": "Gungan basic",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6efe"
+            "$oid": "68698a96026817ff30039a51"
         }
     },
     {
@@ -113,7 +113,7 @@
         "average_lifespan": 91,
         "language": "Toydarian",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6eff"
+            "$oid": "68698a96026817ff30039a52"
         }
     },
     {
@@ -122,7 +122,7 @@
         "average_lifespan": 0,
         "language": "Dugese",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f00"
+            "$oid": "68698a96026817ff30039a53"
         }
     },
     {
@@ -131,7 +131,7 @@
         "average_lifespan": 0,
         "language": "Twi'leki",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f01"
+            "$oid": "68698a96026817ff30039a54"
         }
     },
     {
@@ -140,7 +140,7 @@
         "average_lifespan": 79,
         "language": "Aleena",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f02"
+            "$oid": "68698a96026817ff30039a55"
         }
     },
     {
@@ -149,7 +149,7 @@
         "average_lifespan": 0,
         "language": "vulpterish",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f03"
+            "$oid": "68698a96026817ff30039a56"
         }
     },
     {
@@ -158,7 +158,7 @@
         "average_lifespan": 0,
         "language": "Xextese",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f04"
+            "$oid": "68698a96026817ff30039a57"
         }
     },
     {
@@ -167,7 +167,7 @@
         "average_lifespan": 0,
         "language": "Tundan",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f05"
+            "$oid": "68698a96026817ff30039a58"
         }
     },
     {
@@ -176,7 +176,7 @@
         "average_lifespan": 0,
         "language": "Cerean",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f06"
+            "$oid": "68698a96026817ff30039a59"
         }
     },
     {
@@ -185,7 +185,7 @@
         "average_lifespan": 70,
         "language": "Nautila",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f07"
+            "$oid": "68698a96026817ff30039a5a"
         }
     },
     {
@@ -194,7 +194,7 @@
         "average_lifespan": 0,
         "language": "Zabraki",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f08"
+            "$oid": "68698a96026817ff30039a5b"
         }
     },
     {
@@ -203,7 +203,7 @@
         "average_lifespan": 0,
         "language": "unknown",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f09"
+            "$oid": "68698a96026817ff30039a5c"
         }
     },
     {
@@ -212,7 +212,7 @@
         "average_lifespan": 0,
         "language": "Iktotchese",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f0a"
+            "$oid": "68698a96026817ff30039a5d"
         }
     },
     {
@@ -221,7 +221,7 @@
         "average_lifespan": 86,
         "language": "Quermian",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f0b"
+            "$oid": "68698a96026817ff30039a5e"
         }
     },
     {
@@ -230,7 +230,7 @@
         "average_lifespan": 70,
         "language": "Kel Dor",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f0c"
+            "$oid": "68698a96026817ff30039a5f"
         }
     },
     {
@@ -239,7 +239,7 @@
         "average_lifespan": 0,
         "language": "Chagria",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f0d"
+            "$oid": "68698a96026817ff30039a60"
         }
     },
     {
@@ -248,7 +248,7 @@
         "average_lifespan": 0,
         "language": "Geonosian",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f0e"
+            "$oid": "68698a96026817ff30039a61"
         }
     },
     {
@@ -257,7 +257,7 @@
         "average_lifespan": 0,
         "language": "Mirialan",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f0f"
+            "$oid": "68698a96026817ff30039a62"
         }
     },
     {
@@ -266,7 +266,7 @@
         "average_lifespan": 70,
         "language": "Clawdite",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f10"
+            "$oid": "68698a96026817ff30039a63"
         }
     },
     {
@@ -275,7 +275,7 @@
         "average_lifespan": 75,
         "language": "besalisk",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f11"
+            "$oid": "68698a96026817ff30039a64"
         }
     },
     {
@@ -284,7 +284,7 @@
         "average_lifespan": 80,
         "language": "Kaminoan",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f12"
+            "$oid": "68698a96026817ff30039a65"
         }
     },
     {
@@ -293,7 +293,7 @@
         "average_lifespan": 0,
         "language": "Skakoan",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f13"
+            "$oid": "68698a96026817ff30039a66"
         }
     },
     {
@@ -302,7 +302,7 @@
         "average_lifespan": 100,
         "language": "Muun",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f14"
+            "$oid": "68698a96026817ff30039a67"
         }
     },
     {
@@ -311,7 +311,7 @@
         "average_lifespan": 94,
         "language": "Togruti",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f15"
+            "$oid": "68698a96026817ff30039a68"
         }
     },
     {
@@ -320,7 +320,7 @@
         "average_lifespan": 80,
         "language": "Kaleesh",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f16"
+            "$oid": "68698a96026817ff30039a69"
         }
     },
     {
@@ -329,7 +329,7 @@
         "average_lifespan": 700,
         "language": "Utapese",
         "_id": {
-            "$oid": "68695dc13e9b14831c3f6f17"
+            "$oid": "68698a96026817ff30039a6a"
         }
     }
 ]
