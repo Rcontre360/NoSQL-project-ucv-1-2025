@@ -1,0 +1,1730 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "gender": "male",
+        "height": 172,
+        "mass": 77,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Green"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b12"
+        }
+    },
+    {
+        "name": "C-3PO",
+        "gender": "n/a",
+        "height": 167,
+        "mass": 75,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a47"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039acf"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b13"
+        }
+    },
+    {
+        "name": "R2-D2",
+        "gender": "n/a",
+        "height": 96,
+        "mass": 32,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a47"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad5"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b14"
+        }
+    },
+    {
+        "name": "Darth Vader",
+        "gender": "male",
+        "height": 202,
+        "mass": 136,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039acf"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Red"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b15"
+        }
+    },
+    {
+        "name": "Leia Organa",
+        "gender": "female",
+        "height": 150,
+        "mass": 49,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad7"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad5"
+            }
+        ],
+        "weapon": {
+            "name": "Westar-34 Blaster",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b16"
+        }
+    },
+    {
+        "name": "R5-D4",
+        "gender": "n/a",
+        "height": 97,
+        "mass": 32,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a47"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b17"
+        }
+    },
+    {
+        "name": "Biggs Darklighter",
+        "gender": "male",
+        "height": 183,
+        "mass": 84,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "DL-44 Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b18"
+        }
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "gender": "male",
+        "height": 182,
+        "mass": 77,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ae9"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b19"
+        }
+    },
+    {
+        "name": "Anakin Skywalker",
+        "gender": "male",
+        "height": 188,
+        "mass": 84,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b1a"
+        }
+    },
+    {
+        "name": "Chewbacca",
+        "gender": "male",
+        "height": 228,
+        "mass": 112,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ae3"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a48"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad5"
+            }
+        ],
+        "weapon": {
+            "name": "Bowcaster",
+            "type": "Projectile",
+            "manufacturer": "Various"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b1b"
+        }
+    },
+    {
+        "name": "Han Solo",
+        "gender": "male",
+        "height": 180,
+        "mass": 80,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039aeb"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "DL-44 Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b1c"
+        }
+    },
+    {
+        "name": "Greedo",
+        "gender": "male",
+        "height": 173,
+        "mass": 74,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039aec"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a49"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "DL-44 Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b1d"
+        }
+    },
+    {
+        "name": "Jabba Desilijic Tiure",
+        "gender": "hermaphrodite",
+        "height": 175,
+        "mass": 1358,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039aed"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a4a"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b1e"
+        }
+    },
+    {
+        "name": "Wedge Antilles",
+        "gender": "male",
+        "height": 170,
+        "mass": 77,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039aeb"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "Proton Torpedo",
+            "type": "Projectile",
+            "manufacturer": "Various"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b1f"
+        }
+    },
+    {
+        "name": "Yoda",
+        "gender": "male",
+        "height": 66,
+        "mass": 17,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af1"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a4b"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Green"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b20"
+        }
+    },
+    {
+        "name": "Palpatine",
+        "gender": "male",
+        "height": 170,
+        "mass": 75,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039acf"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b21"
+        }
+    },
+    {
+        "name": "Boba Fett",
+        "gender": "male",
+        "height": 183,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039adf"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "DC-15S Blaster Carbine",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b22"
+        }
+    },
+    {
+        "name": "IG-88",
+        "gender": "none",
+        "height": 200,
+        "mass": 140,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af1"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a47"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            }
+        ],
+        "weapon": {
+            "name": "Dart Shooter",
+            "type": "Projectile",
+            "manufacturer": "Various"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b23"
+        }
+    },
+    {
+        "name": "Bossk",
+        "gender": "male",
+        "height": 190,
+        "mass": 113,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af2"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a4c"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            }
+        ],
+        "weapon": {
+            "name": "Thermal Detonator",
+            "type": "Explosive",
+            "manufacturer": "Various"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b24"
+        }
+    },
+    {
+        "name": "Lando Calrissian",
+        "gender": "male",
+        "height": 177,
+        "mass": 79,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af3"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad5"
+            }
+        ],
+        "weapon": {
+            "name": "KX-80 Repeating Blaster",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b25"
+        }
+    },
+    {
+        "name": "Lobot",
+        "gender": "male",
+        "height": 175,
+        "mass": 79,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039adb"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "SE-14C Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b26"
+        }
+    },
+    {
+        "name": "Ackbar",
+        "gender": "male",
+        "height": 180,
+        "mass": 83,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af4"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a4d"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad5"
+            }
+        ],
+        "weapon": {
+            "name": "DC-15A Blaster Rifle",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b27"
+        }
+    },
+    {
+        "name": "Mon Mothma",
+        "gender": "female",
+        "height": 150,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af5"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b28"
+        }
+    },
+    {
+        "name": "Wicket Systri Warrick",
+        "gender": "male",
+        "height": 88,
+        "mass": 20,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039adc"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a4e"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "Nightsister Energy Bow",
+            "type": "Projectile",
+            "manufacturer": "Nightsisters"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b29"
+        }
+    },
+    {
+        "name": "Nien Nunb",
+        "gender": "male",
+        "height": 160,
+        "mass": 68,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a4f"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad5"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b2a"
+        }
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "gender": "male",
+        "height": 193,
+        "mass": 89,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af1"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Green"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b2b"
+        }
+    },
+    {
+        "name": "Nute Gunray",
+        "gender": "male",
+        "height": 191,
+        "mass": 90,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ae7"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a50"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad3"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b2c"
+        }
+    },
+    {
+        "name": "Padmé Amidala",
+        "gender": "female",
+        "height": 185,
+        "mass": 45,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "SE-14C Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b2d"
+        }
+    },
+    {
+        "name": "Jar Jar Binks",
+        "gender": "male",
+        "height": 196,
+        "mass": 66,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a51"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b2e"
+        }
+    },
+    {
+        "name": "Roos Tarpals",
+        "gender": "male",
+        "height": 224,
+        "mass": 82,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a51"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "Electrostaff",
+            "type": "Melee",
+            "manufacturer": "Merr-Sonn Munitions"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b2f"
+        }
+    },
+    {
+        "name": "Rugor Nass",
+        "gender": "male",
+        "height": 206,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a51"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b30"
+        }
+    },
+    {
+        "name": "Watto",
+        "gender": "male",
+        "height": 137,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af7"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a52"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b31"
+        }
+    },
+    {
+        "name": "Sebulba",
+        "gender": "male",
+        "height": 112,
+        "mass": 40,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af8"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a53"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b32"
+        }
+    },
+    {
+        "name": "Shmi Skywalker",
+        "gender": "female",
+        "height": 163,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b33"
+        }
+    },
+    {
+        "name": "Darth Maul",
+        "gender": "male",
+        "height": 175,
+        "mass": 80,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039af9"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a5b"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039acf"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Red"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b34"
+        }
+    },
+    {
+        "name": "Bib Fortuna",
+        "gender": "male",
+        "height": 180,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039afa"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a54"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b35"
+        }
+    },
+    {
+        "name": "Ayla Secura",
+        "gender": "female",
+        "height": 178,
+        "mass": 55,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039afa"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a54"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b36"
+        }
+    },
+    {
+        "name": "Ratts Tyerel",
+        "gender": "male",
+        "height": 79,
+        "mass": 15,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039afb"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a55"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b37"
+        }
+    },
+    {
+        "name": "Dud Bolt",
+        "gender": "male",
+        "height": 94,
+        "mass": 45,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039afc"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a56"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "SE-14C Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b38"
+        }
+    },
+    {
+        "name": "Gasgano",
+        "gender": "male",
+        "height": 122,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039afd"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a57"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b39"
+        }
+    },
+    {
+        "name": "Ben Quadinaros",
+        "gender": "male",
+        "height": 163,
+        "mass": 65,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039afe"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a58"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b3a"
+        }
+    },
+    {
+        "name": "Mace Windu",
+        "gender": "male",
+        "height": 188,
+        "mass": 84,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039aff"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Purple"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b3b"
+        }
+    },
+    {
+        "name": "Ki-Adi-Mundi",
+        "gender": "male",
+        "height": 198,
+        "mass": 82,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b00"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a59"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b3c"
+        }
+    },
+    {
+        "name": "Kit Fisto",
+        "gender": "male",
+        "height": 196,
+        "mass": 87,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b01"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a5a"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Green"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b3d"
+        }
+    },
+    {
+        "name": "Eeth Koth",
+        "gender": "male",
+        "height": 171,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b02"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a5b"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Green"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b3e"
+        }
+    },
+    {
+        "name": "Adi Gallia",
+        "gender": "female",
+        "height": 184,
+        "mass": 50,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ade"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a5c"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b3f"
+        }
+    },
+    {
+        "name": "Saesee Tiin",
+        "gender": "male",
+        "height": 188,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b04"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a5d"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Green"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b40"
+        }
+    },
+    {
+        "name": "Yarael Poof",
+        "gender": "male",
+        "height": 264,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b05"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a5e"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b41"
+        }
+    },
+    {
+        "name": "Plo Koon",
+        "gender": "male",
+        "height": 188,
+        "mass": 80,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b06"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a5f"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b42"
+        }
+    },
+    {
+        "name": "Mas Amedda",
+        "gender": "male",
+        "height": 196,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b07"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a60"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b43"
+        }
+    },
+    {
+        "name": "Poggle the Lesser",
+        "gender": "male",
+        "height": 183,
+        "mass": 80,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ae0"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a61"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b44"
+        }
+    },
+    {
+        "name": "Luminara Unduli",
+        "gender": "female",
+        "height": 170,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b08"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a62"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Green"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b45"
+        }
+    },
+    {
+        "name": "Barriss Offee",
+        "gender": "female",
+        "height": 166,
+        "mass": 50,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b08"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a62"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b46"
+        }
+    },
+    {
+        "name": "Dormé",
+        "gender": "female",
+        "height": 165,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b47"
+        }
+    },
+    {
+        "name": "Dooku",
+        "gender": "male",
+        "height": 193,
+        "mass": 80,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b09"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039acf"
+            },
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Red"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b48"
+        }
+    },
+    {
+        "name": "Bail Prestor Organa",
+        "gender": "male",
+        "height": 191,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ad7"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad1"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b49"
+        }
+    },
+    {
+        "name": "Jango Fett",
+        "gender": "male",
+        "height": 183,
+        "mass": 79,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b0a"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "Westar-34 Blaster",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b4a"
+        }
+    },
+    {
+        "name": "Zam Wesell",
+        "gender": "female",
+        "height": 168,
+        "mass": 55,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b0b"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a63"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "SE-14C Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b4b"
+        }
+    },
+    {
+        "name": "Dexter Jettster",
+        "gender": "male",
+        "height": 198,
+        "mass": 102,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b0c"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a64"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b4c"
+        }
+    },
+    {
+        "name": "Lama Su",
+        "gender": "male",
+        "height": 229,
+        "mass": 88,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039adf"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a65"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            },
+            {
+                "$oid": "68698a96026817ff30039ad0"
+            },
+            {
+                "$oid": "68698a96026817ff30039acf"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b4d"
+        }
+    },
+    {
+        "name": "Taun We",
+        "gender": "female",
+        "height": 213,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039adf"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a65"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b4e"
+        }
+    },
+    {
+        "name": "Jocasta Nu",
+        "gender": "female",
+        "height": 167,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ade"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a46"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "E-11 Blaster Rifle",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b4f"
+        }
+    },
+    {
+        "name": "Wat Tambor",
+        "gender": "male",
+        "height": 193,
+        "mass": 48,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b0d"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a66"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "None",
+            "type": "None",
+            "manufacturer": "None"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b50"
+        }
+    },
+    {
+        "name": "San Hill",
+        "gender": "male",
+        "height": 191,
+        "mass": 0,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b0e"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a67"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "SE-14C Blaster Pistol",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b51"
+        }
+    },
+    {
+        "name": "Shaak Ti",
+        "gender": "female",
+        "height": 178,
+        "mass": 57,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b0f"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a68"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ace"
+            }
+        ],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b52"
+        }
+    },
+    {
+        "name": "Grievous",
+        "gender": "male",
+        "height": 216,
+        "mass": 159,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039b10"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a69"
+        },
+        "faction_ids": [],
+        "weapon": {
+            "name": "Lightsaber",
+            "type": "Melee",
+            "manufacturer": "Various",
+            "crystal_color": "Blue"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b53"
+        }
+    },
+    {
+        "name": "Tarfful",
+        "gender": "male",
+        "height": 234,
+        "mass": 136,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ae3"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a48"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "Bowcaster",
+            "type": "Projectile",
+            "manufacturer": "Various"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b54"
+        }
+    },
+    {
+        "name": "Tion Medon",
+        "gender": "male",
+        "height": 206,
+        "mass": 80,
+        "homeworld_id": {
+            "$oid": "68698a96026817ff30039ae1"
+        },
+        "species_id": {
+            "$oid": "68698a96026817ff30039a6a"
+        },
+        "faction_ids": [
+            {
+                "$oid": "68698a96026817ff30039ad2"
+            }
+        ],
+        "weapon": {
+            "name": "E-11 Blaster Rifle",
+            "type": "Blaster",
+            "manufacturer": "BlasTech Industries"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b55"
+        }
+    }
+]

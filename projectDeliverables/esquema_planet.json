@@ -1,0 +1,32 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "climate",
+      "terrain",
+      "population"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "climate": {
+        "bsonType": "string"
+      },
+      "terrain": {
+        "bsonType": "string"
+      },
+      "population": {
+        "bsonType": ["int", "long"],
+        "minimum": 0
+      },
+      "species_ids": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "objectId"
+        }
+      }
+    }
+  }
+}

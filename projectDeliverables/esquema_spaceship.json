@@ -1,0 +1,43 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "model",
+      "class",
+      "manufacturer",
+      "length",
+      "min_crew",
+      "pilot_id",
+      "faction_id"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "model": {
+        "bsonType": "string"
+      },
+      "class": {
+        "bsonType": "string"
+      },
+      "manufacturer": {
+        "bsonType": "string"
+      },
+      "length": {
+        "bsonType": ["double", "int"],
+        "minimum": 0
+      },
+      "min_crew": {
+        "bsonType": "int",
+        "minimum": 0
+      },
+      "pilot_id": {
+        "bsonType": "objectId"
+      },
+      "faction_id": {
+        "bsonType": "objectId"
+      }
+    }
+  }
+}
