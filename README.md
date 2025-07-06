@@ -17,15 +17,15 @@ All variables, object fields on code/schemas must be in ENGLISH or SPANISH only,
 * **MongoDB** (document-based NoSQL database)
 * **JSON Schema validation** (for strict data structure enforcement)
 
-## 📋 Collections Overview
+## Data
 
-The following collections are defined and validated:
+We collected data from different sources. We used the following:
 
-* `planets`: with fields like `name`, `climate`, `terrain`, `population`, and `species_ids`.
-* `species`: including `name`, `classification`, `average_lifespan`, and `language`.
-* `factions`: storing `name`, `type`, and `leader_name`.
-* `locations`: with references to planets and optional `coordinates`.
-* `weapons`, `vehicles`, `characters`, `starships`: each with their respective fields and references.
-* `movies`: embeds participants (characters and starships) in structured arrays.
-* `historical_events`: references movies and embeds factions, locations, and characters involved.
+- [SWAPI](https://swapi.info/): A Star Wars API containing info about characters, planets, species, etc.
+- [Kaggle Star Wars DB](https://www.kaggle.com/datasets/yixuanyeo/star-wars-dataset): A Kaggle dataset containing info about Star Wars.
 
+First, our "fetch.py" script fetched the info from SWAPI, raw and without transformations. Then, we exported some tables from the Kaggle dataset; these tables were usually related to relationships we didn't have in the first API. All of this information was stored in the "raw" folder.
+
+Next, our "start.py" script took all the raw info and parsed it into our schema. All of this new info is stored in the "clean" folder. Some data and relationships had to be created manually. Since our scripts rewrote every file in "clean," we put this data in the "manual" folder and imported it into our scripts.
+
+The "convert" folder contains Python scripts to transform raw schemas into clean schemas.
