@@ -12,91 +12,91 @@
                     "$oid": "68698a96026817ff30039b12"
                 },
                 "name": "Luke Skywalker",
-                "role": ""
+                "role": "Protagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b15"
                 },
                 "name": "Darth Vader",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b16"
                 },
                 "name": "Leia Organa",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b17"
                 },
                 "name": "R5-D4",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b18"
                 },
                 "name": "Biggs Darklighter",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b19"
                 },
                 "name": "Obi-Wan Kenobi",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1b"
                 },
                 "name": "Chewbacca",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1c"
                 },
                 "name": "Han Solo",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1d"
                 },
                 "name": "Greedo",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1e"
                 },
                 "name": "Jabba Desilijic Tiure",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1f"
                 },
                 "name": "Wedge Antilles",
-                "role": ""
+                "role": "Tertiary"
             }
         ],
         "starships": [
@@ -136,112 +136,112 @@
                     "$oid": "68698a96026817ff30039b12"
                 },
                 "name": "Luke Skywalker",
-                "role": ""
+                "role": "Protagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b15"
                 },
                 "name": "Darth Vader",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b16"
                 },
                 "name": "Leia Organa",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b19"
                 },
                 "name": "Obi-Wan Kenobi",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1b"
                 },
                 "name": "Chewbacca",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1c"
                 },
                 "name": "Han Solo",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1f"
                 },
                 "name": "Wedge Antilles",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b20"
                 },
                 "name": "Yoda",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b22"
                 },
                 "name": "Boba Fett",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b23"
                 },
                 "name": "IG-88",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b24"
                 },
                 "name": "Bossk",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b25"
                 },
                 "name": "Lando Calrissian",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b26"
                 },
                 "name": "Lobot",
-                "role": ""
+                "role": "Tertiary"
             }
         ],
         "starships": [
@@ -281,133 +281,133 @@
                     "$oid": "68698a96026817ff30039b12"
                 },
                 "name": "Luke Skywalker",
-                "role": ""
+                "role": "Protagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b15"
                 },
                 "name": "Darth Vader",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b16"
                 },
                 "name": "Leia Organa",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b19"
                 },
                 "name": "Obi-Wan Kenobi",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1b"
                 },
                 "name": "Chewbacca",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1c"
                 },
                 "name": "Han Solo",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1e"
                 },
                 "name": "Jabba Desilijic Tiure",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1f"
                 },
                 "name": "Wedge Antilles",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b20"
                 },
                 "name": "Yoda",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b22"
                 },
                 "name": "Boba Fett",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b25"
                 },
                 "name": "Lando Calrissian",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b27"
                 },
                 "name": "Ackbar",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b28"
                 },
                 "name": "Mon Mothma",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b29"
                 },
                 "name": "Wicket Systri Warrick",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2a"
                 },
                 "name": "Nien Nunb",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b35"
                 },
                 "name": "Bib Fortuna",
-                "role": ""
+                "role": "Tertiary"
             }
         ],
         "starships": [
@@ -447,217 +447,217 @@
                     "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b19"
                 },
                 "name": "Obi-Wan Kenobi",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1a"
                 },
                 "name": "Anakin Skywalker",
-                "role": ""
+                "role": "Protagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1e"
                 },
                 "name": "Jabba Desilijic Tiure",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b20"
                 },
                 "name": "Yoda",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2b"
                 },
                 "name": "Qui-Gon Jinn",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2c"
                 },
                 "name": "Nute Gunray",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2d"
                 },
                 "name": "Padmé Amidala",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2e"
                 },
                 "name": "Jar Jar Binks",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2f"
                 },
                 "name": "Roos Tarpals",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b30"
                 },
                 "name": "Rugor Nass",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b31"
                 },
                 "name": "Watto",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b32"
                 },
                 "name": "Sebulba",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b33"
                 },
                 "name": "Shmi Skywalker",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b34"
                 },
                 "name": "Darth Maul",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b36"
                 },
                 "name": "Ayla Secura",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b37"
                 },
                 "name": "Ratts Tyerel",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b38"
                 },
                 "name": "Dud Bolt",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b39"
                 },
                 "name": "Gasgano",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3a"
                 },
                 "name": "Ben Quadinaros",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3b"
                 },
                 "name": "Mace Windu",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3c"
                 },
                 "name": "Ki-Adi-Mundi",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3d"
                 },
                 "name": "Kit Fisto",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3e"
                 },
                 "name": "Eeth Koth",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3f"
                 },
                 "name": "Adi Gallia",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b40"
                 },
                 "name": "Saesee Tiin",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b41"
                 },
                 "name": "Yarael Poof",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b42"
                 },
                 "name": "Plo Koon",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b43"
                 },
                 "name": "Mas Amedda",
-                "role": ""
+                "role": "Tertiary"
             }
         ],
         "starships": [
@@ -691,126 +691,126 @@
                     "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b19"
                 },
                 "name": "Obi-Wan Kenobi",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1a"
                 },
                 "name": "Anakin Skywalker",
-                "role": ""
+                "role": "Protagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b20"
                 },
                 "name": "Yoda",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b22"
                 },
                 "name": "Boba Fett",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2c"
                 },
                 "name": "Nute Gunray",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2d"
                 },
                 "name": "Padmé Amidala",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2e"
                 },
                 "name": "Jar Jar Binks",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b31"
                 },
                 "name": "Watto",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b33"
                 },
                 "name": "Shmi Skywalker",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b36"
                 },
                 "name": "Ayla Secura",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3b"
                 },
                 "name": "Mace Windu",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3c"
                 },
                 "name": "Ki-Adi-Mundi",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3d"
                 },
                 "name": "Kit Fisto",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b42"
                 },
                 "name": "Plo Koon",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b43"
                 },
                 "name": "Mas Amedda",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
@@ -824,98 +824,98 @@
                     "$oid": "68698a96026817ff30039b45"
                 },
                 "name": "Luminara Unduli",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b46"
                 },
                 "name": "Barriss Offee",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b47"
                 },
                 "name": "Dormé",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b48"
                 },
                 "name": "Dooku",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b49"
                 },
                 "name": "Bail Prestor Organa",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b4a"
                 },
                 "name": "Jango Fett",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b4b"
                 },
                 "name": "Zam Wesell",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b4c"
                 },
                 "name": "Dexter Jettster",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b4d"
                 },
                 "name": "Lama Su",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b4e"
                 },
                 "name": "Taun We",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b4f"
                 },
                 "name": "Jocasta Nu",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b50"
                 },
                 "name": "Wat Tambor",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b51"
                 },
                 "name": "San Hill",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b52"
                 },
                 "name": "Shaak Ti",
-                "role": ""
+                "role": "Tertiary"
             }
         ],
         "starships": [
@@ -955,35 +955,35 @@
                     "$oid": "68698a96026817ff30039b12"
                 },
                 "name": "Luke Skywalker",
-                "role": ""
+                "role": "Protagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b13"
                 },
                 "name": "C-3PO",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b14"
                 },
                 "name": "R2-D2",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b15"
                 },
                 "name": "Darth Vader",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b16"
                 },
                 "name": "Leia Organa",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
@@ -997,154 +997,154 @@
                     "$oid": "68698a96026817ff30039b1a"
                 },
                 "name": "Anakin Skywalker",
-                "role": ""
+                "role": "Protagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b1b"
                 },
                 "name": "Chewbacca",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b20"
                 },
                 "name": "Yoda",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b21"
                 },
                 "name": "Palpatine",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2c"
                 },
                 "name": "Nute Gunray",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b2d"
                 },
                 "name": "Padmé Amidala",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b36"
                 },
                 "name": "Ayla Secura",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3b"
                 },
                 "name": "Mace Windu",
-                "role": ""
+                "role": "Secondary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3c"
                 },
                 "name": "Ki-Adi-Mundi",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3d"
                 },
                 "name": "Kit Fisto",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3e"
                 },
                 "name": "Eeth Koth",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b3f"
                 },
                 "name": "Adi Gallia",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b40"
                 },
                 "name": "Saesee Tiin",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b42"
                 },
                 "name": "Plo Koon",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b44"
                 },
                 "name": "Poggle the Lesser",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b45"
                 },
                 "name": "Luminara Unduli",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b48"
                 },
                 "name": "Dooku",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b49"
                 },
                 "name": "Bail Prestor Organa",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b52"
                 },
                 "name": "Shaak Ti",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b53"
                 },
                 "name": "Grievous",
-                "role": ""
+                "role": "Antagonist"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b54"
                 },
                 "name": "Tarfful",
-                "role": ""
+                "role": "Tertiary"
             },
             {
                 "character_id": {
                     "$oid": "68698a96026817ff30039b55"
                 },
                 "name": "Tion Medon",
-                "role": ""
+                "role": "Tertiary"
             }
         ],
         "starships": [
