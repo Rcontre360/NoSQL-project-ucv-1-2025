@@ -1,0 +1,36 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "planet_id",
+      "location_type"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "planet_id": {
+        "bsonType": "objectId"
+      },
+      "location_type": {
+        "bsonType": "string"
+      },
+      "coordinates": {
+        "bsonType": "object",
+        "required": [
+          "latitude",
+          "longitude"
+        ],
+        "properties": {
+          "latitude": {
+            "bsonType": ["double", "int"]
+          },
+          "longitude": {
+            "bsonType": ["double", "int"]
+          }
+        }
+      }
+    }
+  }
+}

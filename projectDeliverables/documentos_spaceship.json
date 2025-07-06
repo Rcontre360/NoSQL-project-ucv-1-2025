@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Millennium Falcon",
+        "model": "YT-1300 light freighter",
+        "class": "Light freighter",
+        "manufacturer": "Corellian Engineering Corporation",
+        "length": 34.37,
+        "min_crew": 4,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b1c"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ad1"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b56"
+        }
+    },
+    {
+        "name": "X-wing",
+        "model": "T-65 X-wing",
+        "class": "Starfighter",
+        "manufacturer": "Incom Corporation",
+        "length": 12.5,
+        "min_crew": 1,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b12"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b57"
+        }
+    },
+    {
+        "name": "TIE Advanced x1",
+        "model": "Twin Ion Engine Advanced x1",
+        "class": "Starfighter",
+        "manufacturer": "Sienar Fleet Systems",
+        "length": 9.2,
+        "min_crew": 1,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b15"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039acf"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b58"
+        }
+    },
+    {
+        "name": "Imperial shuttle",
+        "model": "Lambda-class T-4a shuttle",
+        "class": "Armed government transport",
+        "manufacturer": "Sienar Fleet Systems",
+        "length": 20.0,
+        "min_crew": 6,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b12"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b59"
+        }
+    },
+    {
+        "name": "Naboo fighter",
+        "model": "N-1 starfighter",
+        "class": "Starfighter",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+        "length": 11.0,
+        "min_crew": 1,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b1a"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b5a"
+        }
+    },
+    {
+        "name": "Scimitar",
+        "model": "Star Courier",
+        "class": "Space Transport",
+        "manufacturer": "Republic Sienar Systems",
+        "length": 26.5,
+        "min_crew": 1,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b34"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039acf"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b5b"
+        }
+    },
+    {
+        "name": "Jedi starfighter",
+        "model": "Delta-7 Aethersprite-class interceptor",
+        "class": "Starfighter",
+        "manufacturer": "Kuat Systems Engineering",
+        "length": 8.0,
+        "min_crew": 1,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b19"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b5c"
+        }
+    },
+    {
+        "name": "H-type Nubian yacht",
+        "model": "H-type Nubian yacht",
+        "class": "yacht",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+        "length": 47.9,
+        "min_crew": 4,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b2d"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ad2"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b5d"
+        }
+    },
+    {
+        "name": "Trade Federation cruiser",
+        "model": "Providence-class carrier/destroyer",
+        "class": "capital ship",
+        "manufacturer": "Rendili StarDrive, Free Dac Volunteers Engineering corps.",
+        "length": 1088.0,
+        "min_crew": 600,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b19"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b5e"
+        }
+    },
+    {
+        "name": "Naboo star skiff",
+        "model": "J-type star skiff",
+        "class": "yacht",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+        "length": 29.2,
+        "min_crew": 3,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b19"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b5f"
+        }
+    },
+    {
+        "name": "Jedi Interceptor",
+        "model": "Eta-2 Actis-class light interceptor",
+        "class": "starfighter",
+        "manufacturer": "Kuat Systems Engineering",
+        "length": 5.47,
+        "min_crew": 1,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b19"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b60"
+        }
+    },
+    {
+        "name": "Belbullab-22 starfighter",
+        "model": "Belbullab-22 starfighter",
+        "class": "starfighter",
+        "manufacturer": "Feethan Ottraw Scalable Assemblies",
+        "length": 6.71,
+        "min_crew": 1,
+        "pilot_id": {
+            "$oid": "68698a96026817ff30039b19"
+        },
+        "faction_id": {
+            "$oid": "68698a96026817ff30039ace"
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b61"
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Mos Eisley",
+        "planet_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "location_type": "city",
+        "coordinates": {
+            "latitude": 34.015937,
+            "longitude": 7.912498
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b62"
+        }
+    },
+    {
+        "name": "Theed",
+        "planet_id": {
+            "$oid": "68698a96026817ff30039add"
+        },
+        "location_type": "city",
+        "_id": {
+            "$oid": "68698a96026817ff30039b63"
+        }
+    },
+    {
+        "name": "Cloud City",
+        "planet_id": {
+            "$oid": "68698a96026817ff30039adb"
+        },
+        "location_type": "city",
+        "_id": {
+            "$oid": "68698a96026817ff30039b64"
+        }
+    },
+    {
+        "name": "Coruscant",
+        "planet_id": {
+            "$oid": "68698a96026817ff30039ade"
+        },
+        "location_type": "city",
+        "coordinates": {
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b65"
+        }
+    },
+    {
+        "name": "Mos Espa",
+        "planet_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        },
+        "location_type": "city",
+        "coordinates": {
+            "latitude": 34.908123,
+            "longitude": 9.691485 
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b66"
+        }
+    },
+    {
+        "name": "Tipoca City",
+        "planet_id": {
+            "$oid": "68698a96026817ff30039adf"
+        },
+        "location_type": "city",
+        "_id": {
+            "$oid": "68698a96026817ff30039b67"
+        }
+    },
+    {
+        "name": "Dahhh City",
+        "planet_id": {
+            "$oid": "68698a96026817ff30039af7"
+        },
+        "location_type": "city",
+        "coordinates": {
+            "latitude": 12.598712,
+            "longitude": 22.450000
+        },
+        "_id": {
+            "$oid": "68698a96026817ff30039b68"
+        }
+    }
+]

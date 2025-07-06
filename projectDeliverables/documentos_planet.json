@@ -1,0 +1,677 @@
+[
+    {
+        "name": "Tatooine",
+        "climate": "arid",
+        "terrain": "desert",
+        "population": 200000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ad6"
+        }
+    },
+    {
+        "name": "Alderaan",
+        "climate": "temperate",
+        "terrain": "grasslands, mountains",
+        "population": 2000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ad7"
+        }
+    },
+    {
+        "name": "Yavin IV",
+        "climate": "temperate, tropical",
+        "terrain": "jungle, rainforests",
+        "population": 1000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ad8"
+        }
+    },
+    {
+        "name": "Hoth",
+        "climate": "frozen",
+        "terrain": "tundra, ice caves, mountain ranges",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ad9"
+        }
+    },
+    {
+        "name": "Dagobah",
+        "climate": "murky",
+        "terrain": "swamp, jungles",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ada"
+        }
+    },
+    {
+        "name": "Bespin",
+        "climate": "temperate",
+        "terrain": "gas giant",
+        "population": 6000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039adb"
+        }
+    },
+    {
+        "name": "Endor",
+        "climate": "temperate",
+        "terrain": "forests, mountains, lakes",
+        "population": 30000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a4e"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039adc"
+        }
+    },
+    {
+        "name": "Naboo",
+        "climate": "temperate",
+        "terrain": "grassy hills, swamps, forests, mountains",
+        "population": 4500000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a51"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039add"
+        }
+    },
+    {
+        "name": "Coruscant",
+        "climate": "temperate",
+        "terrain": "cityscape, mountains",
+        "population": 1000000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ade"
+        }
+    },
+    {
+        "name": "Kamino",
+        "climate": "temperate",
+        "terrain": "ocean",
+        "population": 1000000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a65"
+            },
+            {
+                "$oid": "68698a96026817ff30039a65"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039adf"
+        }
+    },
+    {
+        "name": "Geonosis",
+        "climate": "temperate, arid",
+        "terrain": "rock, desert, mountain, barren",
+        "population": 100000000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a61"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae0"
+        }
+    },
+    {
+        "name": "Utapau",
+        "climate": "temperate, arid, windy",
+        "terrain": "scrublands, savanna, canyons, sinkholes",
+        "population": 95000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae1"
+        }
+    },
+    {
+        "name": "Mustafar",
+        "climate": "hot",
+        "terrain": "volcanoes, lava rivers, mountains, caves",
+        "population": 20000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae2"
+        }
+    },
+    {
+        "name": "Kashyyyk",
+        "climate": "tropical",
+        "terrain": "jungle, forests, lakes, rivers",
+        "population": 45000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae3"
+        }
+    },
+    {
+        "name": "Polis Massa",
+        "climate": "artificial temperate ",
+        "terrain": "airless asteroid",
+        "population": 1000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae4"
+        }
+    },
+    {
+        "name": "Mygeeto",
+        "climate": "frigid",
+        "terrain": "glaciers, mountains, ice canyons",
+        "population": 19000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae5"
+        }
+    },
+    {
+        "name": "Felucia",
+        "climate": "hot, humid",
+        "terrain": "fungus forests",
+        "population": 8500000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae6"
+        }
+    },
+    {
+        "name": "Cato Neimoidia",
+        "climate": "temperate, moist",
+        "terrain": "mountains, fields, forests, rock arches",
+        "population": 10000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae7"
+        }
+    },
+    {
+        "name": "Saleucami",
+        "climate": "hot",
+        "terrain": "caves, desert, mountains, volcanoes",
+        "population": 1400000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae8"
+        }
+    },
+    {
+        "name": "Stewjon",
+        "climate": "temperate",
+        "terrain": "grass",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039ae9"
+        }
+    },
+    {
+        "name": "Eriadu",
+        "climate": "polluted",
+        "terrain": "cityscape",
+        "population": 22000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039aea"
+        }
+    },
+    {
+        "name": "Corellia",
+        "climate": "temperate",
+        "terrain": "plains, urban, hills, forests",
+        "population": 3000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039aeb"
+        }
+    },
+    {
+        "name": "Rodia",
+        "climate": "hot",
+        "terrain": "jungles, oceans, urban, swamps",
+        "population": 1300000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a49"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039aec"
+        }
+    },
+    {
+        "name": "Nal Hutta",
+        "climate": "temperate",
+        "terrain": "urban, oceans, swamps, bogs",
+        "population": 7000000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a4a"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039aed"
+        }
+    },
+    {
+        "name": "Dantooine",
+        "climate": "temperate",
+        "terrain": "oceans, savannas, mountains, grasslands",
+        "population": 1000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039aee"
+        }
+    },
+    {
+        "name": "Bestine IV",
+        "climate": "temperate",
+        "terrain": "rocky islands, oceans",
+        "population": 62000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039aef"
+        }
+    },
+    {
+        "name": "Ord Mantell",
+        "climate": "temperate",
+        "terrain": "plains, seas, mesas",
+        "population": 4000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039af0"
+        }
+    },
+    {
+        "name": "unknown",
+        "climate": "unknown",
+        "terrain": "unknown",
+        "population": 0,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a4b"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039af1"
+        }
+    },
+    {
+        "name": "Trandosha",
+        "climate": "arid",
+        "terrain": "mountains, seas, grasslands, deserts",
+        "population": 42000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a4c"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039af2"
+        }
+    },
+    {
+        "name": "Socorro",
+        "climate": "arid",
+        "terrain": "deserts, mountains",
+        "population": 300000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039af3"
+        }
+    },
+    {
+        "name": "Mon Cala",
+        "climate": "temperate",
+        "terrain": "oceans, reefs, islands",
+        "population": 27000000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a4d"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039af4"
+        }
+    },
+    {
+        "name": "Chandrila",
+        "climate": "temperate",
+        "terrain": "plains, forests",
+        "population": 1200000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039af5"
+        }
+    },
+    {
+        "name": "Sullust",
+        "climate": "superheated",
+        "terrain": "mountains, volcanoes, rocky deserts",
+        "population": 18500000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a4f"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039af6"
+        }
+    },
+    {
+        "name": "Toydaria",
+        "climate": "temperate",
+        "terrain": "swamps, lakes",
+        "population": 11000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a52"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039af7"
+        }
+    },
+    {
+        "name": "Malastare",
+        "climate": "arid, temperate, tropical",
+        "terrain": "swamps, deserts, jungles, mountains",
+        "population": 2000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039af8"
+        }
+    },
+    {
+        "name": "Dathomir",
+        "climate": "temperate",
+        "terrain": "forests, deserts, savannas",
+        "population": 5200,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039af9"
+        }
+    },
+    {
+        "name": "Ryloth",
+        "climate": "temperate, arid, subartic",
+        "terrain": "mountains, valleys, deserts, tundra",
+        "population": 1500000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a54"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039afa"
+        }
+    },
+    {
+        "name": "Aleen Minor",
+        "climate": "unknown",
+        "terrain": "unknown",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039afb"
+        }
+    },
+    {
+        "name": "Vulpter",
+        "climate": "temperate, artic",
+        "terrain": "urban, barren",
+        "population": 421000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039afc"
+        }
+    },
+    {
+        "name": "Troiken",
+        "climate": "unknown",
+        "terrain": "desert, tundra, rainforests, mountains",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039afd"
+        }
+    },
+    {
+        "name": "Tund",
+        "climate": "unknown",
+        "terrain": "barren, ash",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039afe"
+        }
+    },
+    {
+        "name": "Haruun Kal",
+        "climate": "temperate",
+        "terrain": "toxic cloudsea, plateaus, volcanoes",
+        "population": 705300,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039aff"
+        }
+    },
+    {
+        "name": "Cerea",
+        "climate": "temperate",
+        "terrain": "verdant",
+        "population": 450000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b00"
+        }
+    },
+    {
+        "name": "Glee Anselm",
+        "climate": "tropical, temperate",
+        "terrain": "lakes, islands, swamps, seas",
+        "population": 500000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a5a"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039b01"
+        }
+    },
+    {
+        "name": "Iridonia",
+        "climate": "unknown",
+        "terrain": "rocky canyons, acid pools",
+        "population": 0,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a5b"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039b02"
+        }
+    },
+    {
+        "name": "Tholoth",
+        "climate": "unknown",
+        "terrain": "unknown",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b03"
+        }
+    },
+    {
+        "name": "Iktotch",
+        "climate": "arid, rocky, windy",
+        "terrain": "rocky",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b04"
+        }
+    },
+    {
+        "name": "Quermia",
+        "climate": "unknown",
+        "terrain": "unknown",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b05"
+        }
+    },
+    {
+        "name": "Dorin",
+        "climate": "temperate",
+        "terrain": "unknown",
+        "population": 0,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a5f"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039b06"
+        }
+    },
+    {
+        "name": "Champala",
+        "climate": "temperate",
+        "terrain": "oceans, rainforests, plateaus",
+        "population": 3500000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b07"
+        }
+    },
+    {
+        "name": "Mirial",
+        "climate": "unknown",
+        "terrain": "deserts",
+        "population": 0,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a62"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039b08"
+        }
+    },
+    {
+        "name": "Serenno",
+        "climate": "unknown",
+        "terrain": "rainforests, rivers, mountains",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b09"
+        }
+    },
+    {
+        "name": "Concord Dawn",
+        "climate": "unknown",
+        "terrain": "jungles, forests, deserts",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b0a"
+        }
+    },
+    {
+        "name": "Zolan",
+        "climate": "unknown",
+        "terrain": "unknown",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b0b"
+        }
+    },
+    {
+        "name": "Ojom",
+        "climate": "frigid",
+        "terrain": "oceans, glaciers",
+        "population": 500000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b0c"
+        }
+    },
+    {
+        "name": "Skako",
+        "climate": "temperate",
+        "terrain": "urban, vines",
+        "population": 500000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b0d"
+        }
+    },
+    {
+        "name": "Muunilinst",
+        "climate": "temperate",
+        "terrain": "plains, forests, hills, mountains",
+        "population": 5000000000,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a67"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039b0e"
+        }
+    },
+    {
+        "name": "Shili",
+        "climate": "temperate",
+        "terrain": "cities, savannahs, seas, plains",
+        "population": 0,
+        "species_ids": [
+            {
+                "$oid": "68698a96026817ff30039a68"
+            }
+        ],
+        "_id": {
+            "$oid": "68698a96026817ff30039b0f"
+        }
+    },
+    {
+        "name": "Kalee",
+        "climate": "arid, temperate, tropical",
+        "terrain": "rainforests, cliffs, canyons, seas",
+        "population": 4000000000,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b10"
+        }
+    },
+    {
+        "name": "Umbara",
+        "climate": "unknown",
+        "terrain": "unknown",
+        "population": 0,
+        "species_ids": [],
+        "_id": {
+            "$oid": "68698a96026817ff30039b11"
+        }
+    }
+]

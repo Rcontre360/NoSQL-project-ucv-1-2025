@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Jedi Order",
+        "type": "Government",
+        "leader_name": "Yoda, Mace Windu",
+        "_id": {
+            "$oid": "68698a96026817ff30039ace"
+        }
+    },
+    {
+        "name": "Sith Order",
+        "type": "Government",
+        "leader_name": "Darth Sidious",
+        "_id": {
+            "$oid": "68698a96026817ff30039acf"
+        }
+    },
+    {
+        "name": "Galactic Empire",
+        "type": "Government",
+        "leader_name": "Emperor Palpatine",
+        "_id": {
+            "$oid": "68698a96026817ff30039ad0"
+        }
+    },
+    {
+        "name": "Rebel Alliance",
+        "type": "Rebellion",
+        "leader_name": "Mon Mothma, Leia Organa",
+        "_id": {
+            "$oid": "68698a96026817ff30039ad1"
+        }
+    },
+    {
+        "name": "Galactic Republic",
+        "type": "Government",
+        "leader_name": "Supreme Chancellor",
+        "_id": {
+            "$oid": "68698a96026817ff30039ad2"
+        }
+    },
+    {
+        "name": "Trade Federation",
+        "type": "Militarized corporation",
+        "leader_name": "Nute Gunray",
+        "_id": {
+            "$oid": "68698a96026817ff30039ad3"
+        }
+    },
+    {
+        "name": "First Order",
+        "type": "Government",
+        "leader_name": "Supreme Leader Snoke, Kylo Ren",
+        "_id": {
+            "$oid": "68698a96026817ff30039ad4"
+        }
+    },
+    {
+        "name": "Resistance",
+        "type": "Rebellion",
+        "leader_name": "Leia Organa",
+        "_id": {
+            "$oid": "68698a96026817ff30039ad5"
+        }
+    },
+    {
+        "name": "Separatists",
+        "type": "Confederacy",
+        "leader_name": "Dooku",
+        "_id": {
+            "$oid": "68695dc13e9b14831c3f7026"
+        }
+    },
+    {
+        "name": "Naboo Royal Guards",
+        "type": "Militia",
+        "leader_name": "Captain Panaka",
+        "_id": {
+            "$oid": "68695dc13e9b14831c3f7022"
+        }
+    },
+    {
+        "name": "Gungan Grand Army",
+        "type": "Militia",
+        "leader_name": "Rugor Nass",
+        "_id": {
+            "$oid": "68695dc13e9b14831c3f7023"
+        }
+    }
+]

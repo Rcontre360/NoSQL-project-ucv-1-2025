@@ -1,0 +1,30 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "model",
+      "class",
+      "manufacturer",
+      "max_atmospheric_speed"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string"
+      },
+      "model": {
+        "bsonType": "string"
+      },
+      "class": {
+        "bsonType": "string"
+      },
+      "manufacturer": {
+        "bsonType": "string"
+      },
+      "max_atmospheric_speed": {
+        "bsonType": "int",
+        "minimum": 0
+      }
+    }
+  }
+}
