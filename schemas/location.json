@@ -24,10 +24,10 @@
         ],
         "properties": {
           "latitude": {
-            "bsonType": "double"
+            "bsonType": ["double", "int"]
           },
           "longitude": {
-            "bsonType": "double"
+            "bsonType": ["double", "int"]
           }
         }
       }
