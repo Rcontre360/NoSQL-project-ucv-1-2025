@@ -22,7 +22,15 @@
                 "role": "Antagonist"
             }
         ],
-        "locations": [],
+        "locations": [
+            {
+                "location_id": {
+                    "$oid": "68698a96026817ff30039b62"
+                },
+
+                "name": "Mos Eisley"
+            }
+        ],
         "characters": [
             {
                 "character_id": {
@@ -236,7 +244,22 @@
                 "role": "Antagonist"
             }
         ],
-        "locations": [],
+        "locations": [
+            {
+                "location_id": {
+                    "$oid": "68698a96026817ff30039b63"
+                },
+
+                "name": "Theed"
+            },
+            {
+                "location_id": {
+                    "$oid": "68698a96026817ff30039b64"
+                },
+
+                "name": "Cloud City"
+            }
+        ],
         "characters": [
             {
                 "character_id": {
@@ -450,7 +473,22 @@
                 "role": "Antagonist"
             }
         ],
-        "locations": [],
+        "locations": [
+            {
+                "location_id": {
+                    "$oid": "68698a96026817ff30039b65" 
+                },
+
+                "name": "Coruscant"
+            },
+            {
+                "location_id": {
+                    "$oid": "68698a96026817ff30039b66" 
+                },
+
+                "name": "Mos Espa"
+            }
+        ],
         "characters": [
             {
                 "character_id": {
@@ -663,7 +701,21 @@
             "role": "Antagonist"
         }
         ],
-        "locations": [],
+        "locations": [
+            {
+                "location_id": { 
+                    "$oid": "68698a96026817ff30039b67" 
+                },
+                "name": "Tipoca City"
+            },
+            {
+                "location_id": { 
+                    "$oid": "68698a96026817ff30039b68" 
+                },
+                "name": "Dahhh City"
+            }
+
+        ],
         "characters": [
         {
             "character_id": { "$oid": "68698a96026817ff30039b2c" },
@@ -795,6 +847,4 @@
         ],
         "_id": { "$oid": "68698a96026817ff30039b7e" }
     }
-
-    
 ]
