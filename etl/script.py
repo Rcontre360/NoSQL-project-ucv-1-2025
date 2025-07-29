@@ -2,7 +2,7 @@ from typing import List
 from pymongo.synchronous.database import Database
 from neo4j import Session
 
-from common import Document, MigrateCollection, create_nodes_from_docs, create_relationships, get_connections, transform_response
+from common import Document, MigrateCollection, create_nodes_from_docs, create_relationships, get_connections, remove_mongo_id_from_all_nodes, transform_response
 
 # Configuración de Neo4j
 neo4j_uri = "neo4j://127.0.0.1:7687"
@@ -230,6 +230,8 @@ def migrate_data():
 
         for migrator in migrators:
             migrator(db,session)
+
+        remove_mongo_id_from_all_nodes(session)
 
 def clear_neo4j(session: Session) -> None:
    cypher_query = """

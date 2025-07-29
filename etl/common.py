@@ -69,3 +69,14 @@ def create_relationships(
                     session.run(relationship_query,
                               source_id=source_id,
                               target_id=target_id)
+
+def remove_mongo_id_from_all_nodes(session: Session):
+    cypher_query = """
+        MATCH (n)
+        WHERE n.mongo_id IS NOT NULL
+        REMOVE n.mongo_id
+        RETURN count(n) as nodes_updated
+    """
+
+    result = session.run(cypher_query)
+    return result.single()["nodes_updated"]
