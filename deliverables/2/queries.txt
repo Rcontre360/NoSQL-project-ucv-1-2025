@@ -1,0 +1,19 @@
+
+Cantidad de personajes que provienen de un planeta de su elección
+
+MATCH (p:Planet)<-[:HABITS]-(c:Character)
+WHERE p.name = "Tatooine"
+RETURN c;
+
+Naves espaciales pilotadas por una especie de su elección
+
+MATCH (s:Spaceship)-[:PILOTED_BY]->(c:Character)-[:IS]->(sp:Specie)
+WHERE sp.name = "Human"
+RETURN s
+
+Personajes que participaron en una película específica de su elección (e.g., "Una
+Nueva Esperanza").
+
+MATCH (m:Movie)-[:INCLUDES]->(c:Character)
+WHERE m.title = "Attack of the Clones"
+RETURN c
