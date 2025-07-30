@@ -66,6 +66,8 @@ def create_relationships(
                     MATCH (t:{target_node} {{mongo_id: $target_id}})
                     CREATE (s)-[:{relation_name}]->(t)
                     """
+                    # if source_node == 'Weapon':
+                        # print(relationship_query, source_id, target_id)
                     session.run(relationship_query,
                               source_id=source_id,
                               target_id=target_id)

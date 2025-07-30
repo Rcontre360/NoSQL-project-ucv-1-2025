@@ -77,7 +77,7 @@ def migrate_characters(db: Database, session: Session) -> List[Document]:
         doc.pop('homeworld_id')
         doc.pop('species_id')
         doc.pop('faction_ids')
-        weapons.append({**doc.pop('weapon'), 'character_id': doc['mongo_id'], '_id':weapon_id})
+        weapons.append({**doc.pop('weapon'), 'character_id': doc['mongo_id'], 'mongo_id':str(weapon_id)})
         weapon_id+=1
 
     res = create_nodes_from_docs(session,"Character",documents)
@@ -86,6 +86,8 @@ def migrate_characters(db: Database, session: Session) -> List[Document]:
     create_relationships(collection.find(),session,"homeworld_id","Character","HABITS","Planet")
     create_relationships(collection.find(),session,"species_id","Character","IS","Specie")
     create_relationships(collection.find(),session,"faction_ids","Character","BELONGS","Faction")
+
+    weapons = list(map(lambda w:{**w, '_id':w.pop('mongo_id')},weapons))
     create_relationships(weapons,session,"character_id","Weapon","IS_OWNED_BY","Character")
 
     return res
@@ -128,35 +130,26 @@ def migrate_location(db: Database, session: Session) -> List[Document]:
     return res
 
 def migrate_movies(db: Database, session: Session) -> List[Document]:
-   collection_name = "movie"
-   collection = db[collection_name]
-   documents = list(collection.find())
-   docs_copy = []
-   # WE ARE CREATING A NEW OBJECT CALLED ACTOR
-   actors = []
+    collection_name = "movie"
+    collection = db[collection_name]
+    documents = list(collection.find())
+    docs_copy = []
 
-   actor_id = 0
-   for doc in documents:
+    for doc in documents:
         doc['mongo_id'] = str(doc['_id'])
         doc['_id'] = str(doc['_id'])
         without_arrs = dict(doc)
 
         doc['character_ids'] = []
-        doc['actor_ids'] = []
         doc['starship_ids'] = []
 
-        # movie points to actor and actor and characters. Actor also points to character
         for char in doc['characters']:
             char['character_id'] = str(char['character_id'])
-            actors.append({**char,'_id':str(actor_id)})
-
             doc['character_ids'].append(char['character_id'])
-            doc['actor_ids'].append(actor_id)
 
         for star in doc['starships']:
             doc['starship_ids'].append(str(star['starship_id']))
 
-        # now we have character_ids and actor_ids to point to them
         doc.pop('characters')
         doc.pop('starships')
         without_arrs.pop('characters')
@@ -164,18 +157,13 @@ def migrate_movies(db: Database, session: Session) -> List[Document]:
 
         docs_copy.append(without_arrs)
 
-   res = create_nodes_from_docs(session,"Movie",docs_copy)
-   res = create_nodes_from_docs(session,"Actor",actors)
+    res = create_nodes_from_docs(session,"Movie",docs_copy)
 
-   # movie => relations
-   create_relationships(documents, session, "starship_ids", "Movie", "SHOWS", "Spaceship")
-   create_relationships(documents, session, "actor_ids", "Movie", "FEATURES", "Actor")
-   create_relationships(documents, session, "character_ids", "Movie", "INCLUDES", "Character")
+    # movie => relations
+    create_relationships(documents, session, "starship_ids", "Movie", "SHOWS", "Spaceship")
+    create_relationships(documents, session, "character_ids", "Movie", "INCLUDES", "Character")
 
-   # actor => character
-   create_relationships(actors, session, "character_id", "Actor", "PLAYS", "Character")
-
-   return res
+    return res
 
 def migrate_historic_events(db: Database, session: Session) -> List[Document]:
     collection_name = "historic_event"
@@ -231,7 +219,7 @@ def migrate_data():
         for migrator in migrators:
             migrator(db,session)
 
-        remove_mongo_id_from_all_nodes(session)
+        # remove_mongo_id_from_all_nodes(session)
 
 def clear_neo4j(session: Session) -> None:
    cypher_query = """
