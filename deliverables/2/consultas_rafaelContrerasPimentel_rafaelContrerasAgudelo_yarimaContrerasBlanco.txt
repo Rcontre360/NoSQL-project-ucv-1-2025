@@ -1,0 +1,111 @@
+/*
+CONSULTAS ORIGINALES EN CYPHER
+*/
+
+
+-- 1. Cantidad de personajes que provienen de un planeta de su elección
+
+MATCH (c:Character)-[:HABITS]->(p:Planet {name: 'Naboo'})
+RETURN COUNT(c) AS characters_number;
+
+
+-- 2. Naves espaciales pilotadas por una especie de su elección
+
+-- Vista de nodos
+MATCH (s:Spaceship)-[:PILOTED_BY]->(c:Character)-[:IS]->(e:Specie {name: 'Human'})
+RETURN s
+
+-- Vista de tabla
+MATCH (s:Spaceship)-[:PILOTED_BY]->(c:Character)-[:IS]->(e:Specie {name: 'Human'})
+RETURN s.name AS spaceship, c.name AS human_pilot;
+
+
+-- 3. Personajes que participaron en una película específica de su elección
+
+-- Vista de nodos
+MATCH (m:Movie)-[:INCLUDES]->(c:Character)
+WHERE m.title = "Attack of the Clones"
+RETURN c
+
+-- Vista de tabla
+MATCH (m:Movie {title: 'Attack of the Clones'})-[:INCLUDES]->(c:Character)
+RETURN c.name AS character_name;
+
+
+-- 4. Nombres de todos los personajes que han tenido en su poder sables de luz con un color de cristal igual al de un personaje dado de su elección
+
+MATCH (weapon:Weapon)-[:IS_OWNED_BY]->(h:Character {name: 'Luke Skywalker'})
+WITH weapon.crystal_color AS crystal_color
+MATCH (w:Weapon)-[:IS_OWNED_BY]->(c:Character)
+WHERE w.crystal_color = crystal_color
+RETURN DISTINCT c.name AS character_name;
+
+
+-- 5. Nombre, nombre del planeta natal, nombre de la especie y altura de los Jedi que hayan participado en "El Imperio Contraataca"
+
+MATCH (m:Movie {title: 'The Empire Strikes Back'})-[:INCLUDES]->(c:Character)
+MATCH (c)-[:BELONGS]->(f:Faction {name: 'Jedi Order'})
+MATCH (c)-[:HABITS]->(p:Planet)
+MATCH (c)-[:IS]->(s:Specie)
+RETURN c.name AS character_name, p.name AS home_planet, s.name AS specie_name, c.height 
+
+
+
+/*
+CONSULTAS ADICIONALES EN CYPHER
+*/
+
+-- 1. Cantidad de armas por tipo de armamento
+
+MATCH (w:Weapon)
+RETURN w.type, COUNT(w) AS weapons_count
+
+
+-- 2. Personajes que han pilotado una nave de la misma facción a la que pertenecen
+
+-- Vista de tabla
+MATCH (c:Character)-[:BELONGS]->(f:Faction)<-[:BELONGS]-(s:Spaceship)
+MATCH (c)<-[:PILOTED_BY]-(s:Spaceship)
+RETURN c.name AS personaje, s.name AS nave, f.name AS faccion
+
+-- Vista de nodos
+MATCH (c:Character)-[:BELONGS]->(f:Faction)<-[:BELONGS]-(s:Spaceship)
+MATCH (c)<-[:PILOTED_BY]-(s:Spaceship)
+RETURN c
+
+
+-- 3. Personajes femeninos que pilotan una nave espacial de clase yacht
+
+-- Vista de tabla
+MATCH (c:Character {gender: 'female'})<-[:PILOTED_BY]-(s:Spaceship {class: 'yacht'})
+RETURN c.name AS pilot, s.name AS spaceship
+
+-- Vista de nodos
+MATCH (c:Character {gender: 'female'})<-[:PILOTED_BY]-(s:Spaceship {class: 'yacht'})
+RETURN c
+
+
+-- 4. Personajes que tienen el mismo planeta natal que otro personaje
+
+MATCH (c1:Character)-[:HABITS]->(p:Planet)<-[:HABITS]-(c2:Character)
+WHERE c1 <> c2
+RETURN c1.name AS character_1, c2.name AS character_2, p.name AS home_planet
+
+
+-- 5. Top 3 facciones con mayor cantidad de miembros de especie humana
+
+MATCH (f:Faction)<-[:BELONGS]-(c:Character)-[:IS]->(s:Specie {name: 'Human'})
+RETURN f.name AS faction, COUNT(c) AS characters_count
+ORDER BY characters_count DESC
+LIMIT 3
+
+
+-- 6. Naves espaciales que se muestran en películas de eventos históricos en los que participó la Alianza Rebelde
+
+-- Vista de tabla
+MATCH (f:Faction {name: 'Rebel Alliance'})<-[:HAS_PARTICIPATION]-(e:HistoricEvent)-[:APPEARS_AT]->(m:Movie)-[:SHOWS]->(s:Spaceship)
+RETURN DISTINCT s.name AS spaceship, e.name AS historic_event
+
+-- Vista de nodos
+MATCH (f:Faction {name: 'Rebel Alliance'})<-[:HAS_PARTICIPATION]-(e:HistoricEvent)-[:APPEARS_AT]->(m:Movie)-[:SHOWS]->(s:Spaceship)
+RETURN DISTINCT s
