@@ -7,11 +7,13 @@ from common import Document, MigrateCollection, create_nodes_from_docs, create_r
 # Configuración de Neo4j
 neo4j_uri = "neo4j://127.0.0.1:7687"
 neo4j_user = "neo4j"
-neo4j_password = "12345678"
+#neo4j_password = "12345678"
+neo4j_password = "bdyari123"
 
 # Configuración de MongoDB
 mongo_uri = "mongodb://localhost:27017"
-mongo_db_name = "nosql"
+#mongo_db_name = "nosql"
+mongo_db_name = "NoSQLProy"
 
 
 def migrate_species(db: Database, session: Session) -> List[Document]:
@@ -24,6 +26,7 @@ def migrate_species(db: Database, session: Session) -> List[Document]:
            doc['mongo_id'] = str(doc.pop('_id'))
 
     res = create_nodes_from_docs(session, "Specie", documents)
+    print(f"Migrados {len(documents)} registros para Specie.")
     return res
 
 def migrate_vehicles(db: Database, session: Session) -> List[Document]:
@@ -36,6 +39,7 @@ def migrate_vehicles(db: Database, session: Session) -> List[Document]:
            doc['mongo_id'] = str(doc.pop('_id'))
 
     res = create_nodes_from_docs(session, "Vehicle", documents)
+    print(f"Migrados {len(documents)} registros para Vehicle.")
     return res
 
 def migrate_faction(db: Database, session: Session) -> List[Document]:
@@ -48,6 +52,7 @@ def migrate_faction(db: Database, session: Session) -> List[Document]:
            doc['mongo_id'] = str(doc.pop('_id'))
 
     res = create_nodes_from_docs(session, "Faction", documents)
+    print(f"Migrados {len(documents)} registros para Faction.")
     return res
 
 def migrate_planets(db: Database, session: Session) -> List[Document]:
@@ -61,6 +66,7 @@ def migrate_planets(db: Database, session: Session) -> List[Document]:
            doc.pop('species_ids')
 
    res = create_nodes_from_docs(session,"Planet",documents)
+   print(f"Migrados {len(documents)} registros para Planet.")
    create_relationships(collection.find(), session, "species_ids", "Planet", "HOSTS", "Specie")
 
    return res
@@ -69,27 +75,60 @@ def migrate_characters(db: Database, session: Session) -> List[Document]:
     collection_name = "character"
     collection = db[collection_name]
     documents = list(collection.find())
-    weapons = []
-
-    weapon_id=0
+    
+    unique_weapons = {}
+    character_to_weapon_links = []
+    
     for doc in documents:
-        doc['mongo_id'] = str(doc.pop('_id'))
+        character_mongo_id = str(doc.pop('_id'))
+        
         doc.pop('homeworld_id')
         doc.pop('species_id')
         doc.pop('faction_ids')
-        weapons.append({**doc.pop('weapon'), 'character_id': doc['mongo_id'], 'mongo_id':str(weapon_id)})
-        weapon_id+=1
-
-    res = create_nodes_from_docs(session,"Character",documents)
-    res = create_nodes_from_docs(session,"Weapon",weapons)
-
+        
+        weapon = doc.pop('weapon')
+        
+        if not weapon:
+            weapon_key = "None"
+            weapon_doc = {'name': 'None'}
+        elif weapon['name'] == 'Lightsaber':
+            weapon_key = f"Lightsaber-{weapon['crystal_color']}"
+            weapon_doc = weapon
+        else:
+            weapon_key = f"{weapon['name']}-{weapon.get('tipo', 'general')}"
+            weapon_doc = weapon
+        
+        if weapon_key not in unique_weapons:
+            weapon_doc['mongo_id'] = str(weapon_key)
+            unique_weapons[weapon_key] = weapon_doc
+            
+        character_to_weapon_links.append({
+            'character_id': character_mongo_id,
+            'weapon_id': unique_weapons[weapon_key]['mongo_id']
+        })
+        
+        doc['mongo_id'] = character_mongo_id
+        
+    res = create_nodes_from_docs(session, "Character", documents)
+    print(f"Migrados {len(documents)} registros para Character.")
+    
+    weapon_nodes = list(unique_weapons.values())
+    res = create_nodes_from_docs(session, "Weapon", weapon_nodes)
+    print(f"Migrados {len(weapon_nodes)} registros para Weapon.")
+    
     create_relationships(collection.find(),session,"homeworld_id","Character","HABITS","Planet")
     create_relationships(collection.find(),session,"species_id","Character","IS","Specie")
     create_relationships(collection.find(),session,"faction_ids","Character","BELONGS","Faction")
-
-    weapons = list(map(lambda w:{**w, '_id':w.pop('mongo_id')},weapons))
-    create_relationships(weapons,session,"character_id","Weapon","IS_OWNED_BY","Character")
-
+    
+    create_relationships(
+        list(map(lambda link: {'_id': link['character_id'], 'weapon_id': link['weapon_id']}, character_to_weapon_links)), 
+        session,
+        "weapon_id", 
+        "Character", 
+        "IS_OWNED_BY", 
+        "Weapon"
+    )
+    
     return res
 
 def migrate_spaceships(db: Database, session: Session) -> List[Document]:
@@ -103,6 +142,7 @@ def migrate_spaceships(db: Database, session: Session) -> List[Document]:
         doc.pop('faction_id')
 
    res = create_nodes_from_docs(session,"Spaceship",documents)
+   print(f"Migrados {len(documents)} registros para Spaceship.")
 
    create_relationships(collection.find(), session, "pilot_id", "Spaceship", "PILOTED_BY", "Character")
    create_relationships(collection.find(), session, "faction_id", "Spaceship", "BELONGS", "Faction")
@@ -124,6 +164,7 @@ def migrate_location(db: Database, session: Session) -> List[Document]:
         doc.pop('planet_id')
 
     res = create_nodes_from_docs(session,"Location",documents)
+    print(f"Migrados {len(documents)} registros para Location.")
 
     create_relationships(collection.find(), session, "planet_id", "Location", "LOCATED_AT", "Planet")
 
@@ -158,6 +199,7 @@ def migrate_movies(db: Database, session: Session) -> List[Document]:
         docs_copy.append(without_arrs)
 
     res = create_nodes_from_docs(session,"Movie",docs_copy)
+    print(f"Migrados {len(docs_copy)} registros para Movie.")
 
     # movie => relations
     create_relationships(documents, session, "starship_ids", "Movie", "SHOWS", "Spaceship")
@@ -199,6 +241,7 @@ def migrate_historic_events(db: Database, session: Session) -> List[Document]:
         docs_copy.append(cpy)
 
     res = create_nodes_from_docs(session,"HistoricEvent",docs_copy)
+    print(f"Migrados {len(docs_copy)} registros para HistoricEvent.")
 
     create_relationships(documents, session, "movie_id", "HistoricEvent", "APPEARS_AT", "Movie")
     create_relationships(documents, session, "factions", "HistoricEvent", "HAS_PARTICIPATION", "Faction")
@@ -220,6 +263,8 @@ def migrate_data():
             migrator(db,session)
 
         # remove_mongo_id_from_all_nodes(session)
+
+    print("Migración finalizada")
 
 def clear_neo4j(session: Session) -> None:
    cypher_query = """
