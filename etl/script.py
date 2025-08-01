@@ -121,12 +121,12 @@ def migrate_characters(db: Database, session: Session) -> List[Document]:
     create_relationships(collection.find(),session,"faction_ids","Character","BELONGS","Faction")
     
     create_relationships(
-        list(map(lambda link: {'_id': link['character_id'], 'weapon_id': link['weapon_id']}, character_to_weapon_links)), 
+        list(map(lambda link: {'_id': link['weapon_id'], 'character_id': link['character_id']}, character_to_weapon_links)), 
         session,
-        "weapon_id", 
-        "Character", 
+        "character_id", 
+        "Weapon", 
         "IS_OWNED_BY", 
-        "Weapon"
+        "Character"
     )
     
     return res
