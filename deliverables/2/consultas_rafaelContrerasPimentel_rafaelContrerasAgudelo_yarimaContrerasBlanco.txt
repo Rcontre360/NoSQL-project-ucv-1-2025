@@ -55,6 +55,7 @@ RETURN c.name AS character_name, p.name AS home_planet, s.name AS specie_name, c
 CONSULTAS ADICIONALES EN CYPHER
 */
 
+
 -- 1. Cantidad de armas por tipo de armamento
 
 MATCH (w:Weapon)
